@@ -92,6 +92,12 @@ for i, sec in enumerate(sections):
             if re.search(r'404|non trovat|nessun post|sospeso|protetto', line, re.I) and 'status/' not in line:
                 continue
             buf.append(render_item(line))
+        elif (it_match := re.match(r'^\s+IT:\s*(.+)$', line)):
+            if buf:
+                it_text = it_match.group(1).strip()
+                buf[-1] = buf[-1].replace(
+                    '</li>', f'\n<div class="it">IT: {linkify(it_text)}</div>\n</li>', 1
+                )
         elif mode == '__RIASSUNTO__' and line.strip():
             riassunto.append(line.strip())
         elif mode == '__SENTIMENT__' and line.strip():
@@ -169,6 +175,7 @@ extra = '''
 .lettura h3{margin:0 0 .4rem;font-size:.85rem;letter-spacing:.04em;text-transform:uppercase;color:#86efac}
 .lettura p{margin:0;line-height:1.5}
 .empty{opacity:.7;font-style:italic}
+.it{margin-top:.35rem;font-size:.92em;opacity:.9;color:#a8c5e2;font-style:italic}
 '''
 for chunk in ['.riassunto{', '.tier-o .badge{', '.sentiment{margin:1rem', '.lettura{']:
     if chunk not in style:
@@ -177,6 +184,8 @@ for chunk in ['.riassunto{', '.tier-o .badge{', '.sentiment{margin:1rem', '.lett
 else:
     if '.riassunto{' not in style:
         style += extra
+if '.it{' not in style:
+    style += '\n.it{margin-top:.35rem;font-size:.92em;opacity:.9;color:#a8c5e2;font-style:italic}\n'
 
 _hm = re.search(r'\*\*([^*]+)\*\*', md)
 _stamp_raw = _hm.group(1).strip() if _hm else '18 Sep 2026, ~09:40 Europe/Monaco'
@@ -184,7 +193,7 @@ _dm = re.search(r'(\d{1,2} \w+ \d{4}).*?(\d{1,2}:\d{2})', _stamp_raw)
 _day = _dm.group(1) if _dm else '18 Sep 2026'
 _hhmm = _dm.group(2) if _dm else '09:40'
 _n = len(sections)
-_preqc = 'bozza pre-QC' if ('bozza' in md[:500].lower() or 'qc-draft' in md[:500].lower()) else 'post-QC'
+_preqc = 'post-QC' if re.search(r'\bpost[- ]QC\b|\bQC APPROVED\b', md[:500], re.I) else 'bozza pre-QC'
 
 page = f'''<!DOCTYPE html>
 <html lang="it"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
