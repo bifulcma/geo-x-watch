@@ -16,7 +16,6 @@ Nella finestra 21–24 Sep il teatro resta in «guerra aperta» con blockade CEN
 ## [B] Analisti & stampa
 - @BarakRavid — (22 Sep) "Witkoff: Today, on the sidelines of the United Nations General Assembly, we engaged in lengthy talks with the Iranian delegation through the mediators…" [https://x.com/BarakRavid/status/2102543499530744319]
 - @BarakRavid — (22 Sep) "In a meeting with Arab leaders Trump said: Steve and Jared had a very productive meeting today with mediators of Iran. I think there's a lot of momentum for them to make a deal." [https://x.com/BarakRavid/status/2102484961630548322]
-- @BarakRavid — (23 Sep) "Scoop: Trump's Board of Peace to unveil $2.45 billion Gaza recovery plan on Wednesday." [https://x.com/BarakRavid/status/2102732763099222150]
 - @criticalthreats — (24 Sep) "CTP-ISW is considering five possible Houthi military courses of action against the United States or other Saudi partners if these parties increase military support for Saudi Arabia against the Houthis." [https://x.com/criticalthreats/status/2102941959274774784]
 - @IranIntl — (24 Sep) "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت بخش عمده پروازهای خارجی ایران متوقف شده است و ابراز تردید کرد که نمایندگان جمهوری اسلامی چگونه به ایران بازخواهند گشت."
   IT: Il Tesoro USA (Bessent): gran parte dei voli internazionali iraniani fermi; dubbi su come i rappresentanti della RSI torneranno in Iran (oltre 80-90%). [https://x.com/IranIntl/status/2102971748509495477]
@@ -47,7 +46,7 @@ Lettura della giornata: Blockade CENTCOM + messaggi qatarini + Houthi COA: tre f
 
 # Ucraina
 ## Riassunto
-Fronte e profondità: @DefenceU segnala attacco drone su Kyiv (2 morti) e colpi a raffinerie russe; @IAEAorg allerta ZNPP. @mfa_russia: Lavrov pronto a negoziati ma NO sospensione SMO. @TheStudyofWar/@criticalthreats: Cremlino respinge energy ceasefire USA–Ucraina. @wartranslated: G20 Miami come possibile trilateral; @BarakRavid su Witkoff–Kushner con team UA + NSA europei. @RALee85: halt refining Mosca post-drone. @kajakallas: 51 paesi chiedono ceasefire. TASS non recuperato (crediti).
+Fronte e profondità: @DefenceU segnala attacco drone su Kyiv (2 morti) e colpi a raffinerie russe; @IAEAorg allerta ZNPP. @mfa_russia: Lavrov pronto a negoziati ma NO sospensione SMO. @TheStudyofWar/@criticalthreats: Cremlino respinge energy ceasefire USA–Ucraina. @wartranslated: G20 Miami come possibile trilateral; @BarakRavid su Witkoff–Kushner con team UA + NSA europei. @RALee85: halt refining Mosca post-drone. @kajakallas: 51 paesi chiedono ceasefire.
 ## [A] Ufficiali
 - @IAEAorg — (21 Sep) "The IAEA has been informed of numerous drone and other military strikes in the vicinity of the Zaporizhzhya Nuclear Power Plant in recent weeks, causing several casualties and potentially threatening nuclear safety." [https://x.com/iaeaorg/status/2102075717886308631]
 - @DefenceU — (23 Sep) "Another Russian drone attack on Kyiv. Two killed, 24 wounded. Pressure on Russia must match its terror." [https://x.com/DefenceU/status/2102752090334560274]
@@ -78,12 +77,11 @@ Lettura della giornata: Energy ceasefire rifiutato + Kyiv sotto drone + G20 Miam
 
 # Stretto di Taiwan
 ## Riassunto
-Pressione ADIZ continua: @MoNDefense 24 Sep 10 sortite PLA (5 oltre median line); 23 Sep 9/10. Visita di Stato Xi a Washington sposta il baricentro mediatico su USA–Cina, ma la pressione median line non si ferma. @CollinSLKoh su One-China e Manila. Pochi segnali non ufficiali nella finestra.
+Pressione ADIZ continua: @MoNDefense 24 Sep 10 sortite PLA (5 oltre median line); 23 Sep 9/10. Visita di Stato Xi a Washington sposta il baricentro mediatico su USA–Cina, ma la pressione median line non si ferma. Pochi segnali non ufficiali nella finestra.
 ## [A] Ufficiali
 - @MoNDefense — (24 Sep) "10 sorties of PLA aircraft, 6 PLAN vessels and 6 official ships around Taiwan. 5 of 10 sorties crossed the median line and entered Taiwan's northern and central ADIZ." [https://x.com/MoNDefense/status/2102926898783551502]
 - @MoNDefense — (23 Sep) "10 sorties of PLA aircraft, 6 PLAN vessels and 6 official ships. 9 of 10 sorties crossed the median line into southwestern and eastern ADIZ." [https://x.com/MoNDefense/status/2102563600581992705]
 ## [B] Analisti & stampa
-- @CollinSLKoh — (21 Sep) "It's in fact magnanimous of Manila to still stick to One-China Policy despite Beijing's repeated transgressions against Philippine maritime sovereignty and sovereign rights." [https://x.com/CollinSLKoh/status/2102034765880909901]
 ## Sentiment
 Attività continua senza svolta di direzione. Mood: Stallo.
 
@@ -147,7 +145,7 @@ Lettura della giornata: NATO racconta sicurezza USA–Europa mentre l'agenda sof
 
 # Europa-Russia
 ## Riassunto
-@mfa_russia su crisi OSCE e Lavrov–Sinirlioglu. @kajakallas: sabotaggi/violazioni spazio aereo e grano ucraino bloccato. ISW: Duma in territori occupati come referendum de facto. Energia/hybrid restano leve. medvedev/Tatarigami/JuliaDavis non recuperati.
+@mfa_russia su crisi OSCE e Lavrov–Sinirlioglu. @kajakallas: sabotaggi/violazioni spazio aereo e grano ucraino bloccato. ISW: Duma in territori occupati come referendum de facto. Energia/hybrid restano leve.
 ## [A] Ufficiali
 - @mfa_russia — (23 Sep) "Lavrov met with OSCE SecGen Sinirlioglu: discussed ways to overcome the OSCE's deep crisis, as well as administrative & financial aspects of Russia's participation." [https://x.com/mfa_russia/status/2102884462530830673]
 - @NATO — (23 Sep) "SecGenNATO and other leaders gathering in New York for the 81st UNGA. NATO's global partnerships." [https://x.com/NATO/status/2102690725120876805]
@@ -161,7 +159,7 @@ Lettura della giornata: Hybrid + grano + rifiuto ceasefire energetico: Europa so
 
 # Coree
 ## Riassunto
-Transizione a Seul: @ROK_MND/@MNDSpokesperson su insediamento Kang Shin-cheol, visita feriti DMZ (mina) e incontro con ambasciatrice USA Steel. @NKNewsOrg: armi potenziate al confine; POW nordcoreani trasferiti da Ucraina; Lee a ONU su «peaceful coexistence»; Kang chiede halt fortificazioni MDL. @TheStudyofWar: retorica nucleare DPRK su red lines. @SecRubio: trilaterale JP–ROK. KCNAWatch saltato (quiet ieri).
+Transizione a Seul: @ROK_MND/@MNDSpokesperson su insediamento Kang Shin-cheol, visita feriti DMZ (mina) e incontro con ambasciatrice USA Steel. @NKNewsOrg: armi potenziate al confine; POW nordcoreani trasferiti da Ucraina; Lee a ONU su «peaceful coexistence»; Kang chiede halt fortificazioni MDL. @TheStudyofWar: retorica nucleare DPRK su red lines. @SecRubio: trilaterale JP–ROK.
 ## [A] Ufficiali
 - @ROK_MND — (23 Sep) "강신철 국방부장관, 국군수도병원 방문 — 서부전선 비무장지대에서 지뢰 추정 폭발로 부상을 입고 치료 중인 장병 위문"
   IT: Il ministro della Difesa Kang Shin-cheol visita l'ospedale militare: consolazione ai militari feriti da esplosione sospetta di mina sulla linea DMZ occidentale. [https://x.com/ROK_MND/status/2102692890925523182]
