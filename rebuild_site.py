@@ -201,11 +201,11 @@ page = f'''<!DOCTYPE html>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <style>{style}</style></head><body><div class="wrap">
 <header class="top"><div class="brand"><div class="logo">GX</div><div>
-<h1>Geo-X-Watch</h1><p class="sub">Giro {_day} · {_n} crisi · [A][B][O][C] · riassunto + sentiment · {_preqc}</p></div></div><div class="meta"><span class="pill live">{"Draft" if _preqc.startswith("bozza") else "Live"}</span><span class="pill">{_day} · {_hhmm}</span><span class="pill">Europe/Monaco</span><span class="pill">ogni giorno 08:00</span></div></header>
+<h1>Geo-X-Watch</h1><p class="sub">Giro {_day} · {_n} crisi · [A][B][O][C] · riassunto + sentiment · {_preqc}</p></div></div><div class="meta"><span class="pill live">{"Draft" if _preqc.startswith("bozza") else "Live"}</span><span class="pill">{_day} · {_hhmm}</span><span class="pill">Europe/Monaco</span><span class="pill">ogni giorno 06:00</span></div></header>
 <div class="disclaimer"><strong>⚠️ NON VERIFICATO</strong> — claim [C] = voce di parte. [O] = opinion maker geopolitica (non lifestyle). Il <em>Riassunto</em> apre ogni crisi; <em>Sentiment</em> e <em>Lettura della giornata</em> chiudono. Pesa [A] più di [C].</div>
 <nav class="nav">{''.join(nav)}</nav>
 {''.join(crisis_html)}
-<footer>Geo-X-Watch · lun–dom 08:00 · solo segnali utili</footer>
+<footer>Geo-X-Watch · lun–dom 06:00 · solo segnali utili</footer>
 </div></body></html>'''
 (site / 'index.html').write_text(page)
 print('page', len(page))
