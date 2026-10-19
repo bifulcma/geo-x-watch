@@ -1,0 +1,624 @@
+{
+  "schema_version": 1,
+  "giro_date": "2026-10-19",
+  "published_at": "2026-10-19T15:49:24+02:00",
+  "edition_stamp": "19 Oct 2026 · 06:30 Europe/Monaco (qc-verify-19oct-fix2)",
+  "edition_id": "qc-verify-19oct-fix2",
+  "timezone": "Europe/Monaco",
+  "site_url": "https://geo-x-watch.vercel.app/",
+  "tiers": {
+    "A": "Ufficiali",
+    "B": "Analisti & stampa",
+    "O": "Opinion / wire",
+    "C": "Controversi / propaganda (NON VERIFICATO)"
+  },
+  "crises": [
+    {
+      "id": "iran",
+      "name": "Iran-USA-Israele",
+      "riassunto": "Tra Washington e Teheran si alza il tono delle minacce. Secondo @IranIntl, in persiano, Trump, a nove giorni dalle elezioni israeliane, ha annunciato il pieno sostegno a Netanyahu e avvertito che, se Teheran non cambierà comportamento, gli Stati Uniti agiranno per «finire il lavoro»; @BarakRavid ricorda che, secondo l'ambasciatore israeliano a Washington Yechiel Leiter, sarebbe la prima volta nella storia che un presidente americano appoggia Netanyahu in questo modo. La risposta iraniana è dura: il ministro degli Esteri Araghchi (@araghchi) avverte che anche Teheran ha «lavori in sospeso» e accusa Netanyahu di trascinare l'America in un'altra guerra per restare fuori dal carcere; il capo di Stato maggiore generale delle forze armate Ali Abdollahi, riferisce @IranIntl, promette una risposta più dura che in passato a qualsiasi nuovo attacco. A Hormuz PressTV (voce di parte) rilancia la marina dei Pasdaran, secondo cui una petroliera «in violazione» avrebbe urtato una mina a sud dello Stretto, e un consigliere dei Pasdaran secondo cui il «padre dei missili iraniani» sarebbe pronto a colpire le infrastrutture energetiche nemiche nella regione. Sul piano diplomatico i ministri degli Esteri del Consiglio di cooperazione del Golfo, riuniti a Manama, chiedono il ritorno al dialogo con la Repubblica islamica, ma vogliono che ogni accordo includa i programmi nucleare, missilistico e di droni e il sostegno alle milizie alleate (@IranIntl). In Yemen, secondo @criticalthreats, gli Houthi hanno abbattuto un elicottero d'attacco saudita e l'Egitto si è detto pronto a fornire aiuti militari difensivi a Riad su richiesta; PressTV riporta denunce yemenite di decine di vittime civili in 110 raid sauditi in 24 ore. Secondo resoconti da verificare rilanciati da @MarioNawfal, la portaerei Theodore Roosevelt sarebbe diretta verso l'area del CENTCOM, le rappresentanze diplomatiche USA avrebbero diffuso allerte di sicurezza in undici paesi della regione e Teheran si direbbe pronta a riaprire Hormuz in sei giorni se Washington togliesse il blocco dei porti e le sanzioni sul petrolio e mettesse fine alle ostilità.",
+      "sentiment": "Minacce incrociate in aumento: Trump si schiera con Netanyahu ed evoca il «finire il lavoro», Araghchi e i vertici militari iraniani promettono risposte più dure e il conflitto in Yemen coinvolge sempre più Riad; il Golfo chiede di tornare al negoziato. Mood: Escalation.",
+      "lettura": "La retorica di Washington e Teheran si indurisce e lo Yemen allarga il fronte verso l'Arabia Saudita; l'appello del Golfo al dialogo è l'unico segnale di segno opposto.",
+      "posts": [
+        {
+          "account": "@araghchi",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"Last time you wanted to \"finish the job\", Iran emerged even stronger. … But be careful; we have unfinished jobs too. Netanyahu is driving America into another war to stay out of jail, whatever the consequences for Israel—let alone POTUS.\"",
+          "unverified": false,
+          "url": "https://x.com/araghchi/status/2111922080535191600"
+        },
+        {
+          "account": "@IranIntl",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"دونالد ترامپ، رییس‌جمهوری آمریکا، ۹ روز مانده به انتخابات اسرائیل، با اعلام حمایت کامل از بنیامین نتانیاهو … هشدار داد اگر تهران رفتار خود را تغییر ندهد، آمریکا برای «تمام کردن کار» اقدام خواهد کرد.\"",
+          "unverified": false,
+          "url": "https://x.com/IranIntl/status/2111946211133374531",
+          "translation_it": "«Donald Trump, presidente degli Stati Uniti, a 9 giorni dalle elezioni in Israele, annunciando il pieno sostegno a Benjamin Netanyahu … ha avvertito che se Teheran non cambierà comportamento, l'America agirà per «finire il lavoro».»"
+        },
+        {
+          "account": "@IranIntl",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"وزیران خارجه کشورهای عضو شورای همکاری خلیج فارس … خواستار بازگشت به گفت‌وگو و دیپلماسی برای حل بحران کنونی با جمهوری اسلامی شدند … هرگونه توافق باید برنامه هسته‌ای، موشکی و پهپادی تهران و حمایت از نیروهای نیابتی را در بر بگیرد.\"",
+          "unverified": false,
+          "url": "https://x.com/IranIntl/status/2111977400066044008",
+          "translation_it": "«I ministri degli Esteri dei paesi membri del Consiglio di cooperazione del Golfo … hanno chiesto il ritorno al dialogo e alla diplomazia per risolvere la crisi attuale con la Repubblica islamica … qualsiasi accordo deve comprendere il programma nucleare, missilistico e di droni di Teheran e il sostegno alle forze per procura.»"
+        },
+        {
+          "account": "@IranIntl",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"علی عبداللهی، رییس ستاد کل نیروهای مسلح در جمهوری اسلامی، در اظهاراتی خطاب به مقام‌های آمریکا و اسرائیل هشدار داد که هرگونه حمله دوباره به ایران با پاسخی متفاوت و شدیدتر از گذشته روبه‌رو خواهد شد.\"",
+          "unverified": false,
+          "url": "https://x.com/IranIntl/status/2111969916651757899",
+          "translation_it": "«Ali Abdollahi, capo di Stato maggiore generale delle forze armate della Repubblica islamica, in dichiarazioni rivolte ai funzionari americani e israeliani, ha avvertito che qualsiasi nuovo attacco all'Iran incontrerà una risposta diversa e più dura che in passato.»"
+        },
+        {
+          "account": "@BarakRavid",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"The Israeli ambassador to the U.S. Yechiel Leiter mentioned two days ago that if President Trump endorses Netanyahu it will be the first time in history that a U.S. President does that\"",
+          "unverified": false,
+          "url": "https://x.com/BarakRavid/status/2111986906766409894"
+        },
+        {
+          "account": "@criticalthreats",
+          "tier": "B",
+          "date": "18 Oct",
+          "text": "\"The Houthis downed a Saudi light attack helicopter over Saudi Arabian airspace … Egyptian President Abdel Fattah al Sisi announced on October 18 that Egypt will provide defensive military aid to Saudi Arabia if Saudi Arabia requests support.\"",
+          "unverified": false,
+          "url": "https://x.com/criticalthreats/status/2111913329216111006"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "19 Oct",
+          "text": "\"ANOTHER U.S. AIRCRAFT CARRIER is heading toward the Middle East as tensions with Iran remain dangerously high. The USS Theodore Roosevelt is expected to enter CENTCOM's area of operations after its stop in Japan…\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2112025948220702752"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "19 Oct",
+          "text": "\"The list of U.S. diplomatic missions issuing SECURITY ALERTS now stretches across ELEVEN countries. Jordan. Lebanon. Qatar. Iran. Iraq. Israel. Bahrain. Oman. Saudi Arabia. UAE. Yemen.\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2112025611879551183"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "\"Iran says it can reopen the Strait of Hormuz in just 6 DAYS. … lift the blockade on Iranian ports, remove sanctions on Iranian oil exports and end hostilities across the region.\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2111915218444091624"
+        },
+        {
+          "account": "@PressTV",
+          "tier": "C",
+          "date": "19 Oct",
+          "text": "\"Violating oil tanker hits naval mine south of Strait of Hormuz: IRGC Navy\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/PressTV/status/2111989658519220504"
+        },
+        {
+          "account": "@PressTV",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"IRGC adviser: ‘Father of Iranian missiles’ ready to hit enemy energy infrastructure across region\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/PressTV/status/2111838602111877521"
+        },
+        {
+          "account": "@PressTV",
+          "tier": "C",
+          "date": "19 Oct",
+          "text": "\"Yemen reports dozens of civilian casualties in 110 Saudi airstrikes in 24 hours\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/PressTV/status/2111975861570126037"
+        }
+      ],
+      "mood": "Escalation"
+    },
+    {
+      "id": "ucraina",
+      "name": "Ucraina",
+      "riassunto": "Guerra all'energia e attriti crescenti tra Kyiv e Washington. Il ministero della Difesa ucraino (@DefenceU), riprendendo un messaggio di Zelensky, conta 76 attacchi russi contro il settore energetico e petrolifero da quando, una settimana fa, il presidente americano ha annunciato la tregua energetica, e quasi 2.700 droni, 1.700 bombe aeree e 66 missili lanciati dalla Russia nell'ultima settimana; rivendica inoltre la distruzione di un radar Nebo-U a Magri, nel territorio di Krasnodar. Secondo l'ISW (@TheStudyofWar), nella notte tra il 17 e il 18 ottobre le forze ucraine hanno condotto il loro più grande attacco dal 2022 contro infrastrutture digitali, energetiche e logistiche a San Pietroburgo, mentre la Russia ha lanciato 337 droni e un missile Iskander-M; resta incerta la possibilità per Kyiv di usare Starlink e Starshield per intercettare i droni a reazione russi. Zelensky (@ZelenskyyUa) sostiene che dall'inizio dell'autunno le truppe ucraine hanno liberato più territorio di quanto ne abbiano conquistato i russi e riferisce di un colloquio con gli inviati americani Witkoff e Kushner sui risultati dell'incontro delle delegazioni in Florida. @wartranslated riporta Trump: niente firma su nuove sanzioni alla Russia per non compromettere i «progressi» nei negoziati, con l'accusa a Zelensky di non aver «mai voluto» chiudere la guerra; TASS (voce di parte) rilancia la stessa frase. @RALee85 cita l'intervista di Zelensky a Bloomberg sui «giorni pericolosi» prima delle elezioni di metà mandato USA e sui passi compiuti, a suo dire, per convincere Kyiv a capitolare, e segnala il primo video di un attacco con drone Geran del centro russo Rubicon. Dal lato russo, Sputnik (voce di parte) riporta il ministero della Difesa secondo cui un drone Geran avrebbe incendiato una nave cargo militare ucraina nel Mar Nero, e Lavrov, secondo cui Zelensky si oppone all'accordo sul diesel tra Mosca e Washington e ai negoziati per salvare il proprio regime; l'ambasciatore Rodion Miroshnik (@mfa_russia), davanti al Comitato ONU contro la tortura, accusa le forze ucraine di torture (accusa di parte, non verificata). Secondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe detto che, se gli Stati Uniti si schierassero ufficialmente con la Russia, l'Ucraina non potrebbe resistere.",
+      "sentiment": "Mosca continua a colpire la rete energetica nonostante la tregua annunciata da Washington e Kyiv risponde con il più grande attacco su San Pietroburgo dal 2022; sul piano politico cresce l'attrito tra Zelensky e Trump, che rinuncia a nuove sanzioni e accusa il presidente ucraino. Mood: Escalation.",
+      "lettura": "La guerra all'energia prosegue: Mosca colpisce la rete ucraina, Kyiv San Pietroburgo; il fronte nuovo è quello tra Kyiv e Washington su sanzioni, Starlink e difesa aerea.",
+      "posts": [
+        {
+          "account": "@DefenceU",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"Since the American President announced the energy ceasefire a week ago, Russia has deliberately attacked Ukraine’s energy and oil and gas sectors 76 times. … Tens of thousands of families remain without power.\"",
+          "unverified": false,
+          "url": "https://x.com/DefenceU/status/2111736423078342824"
+        },
+        {
+          "account": "@DefenceU",
+          "tier": "A",
+          "date": "17 Oct",
+          "text": "\"In Magri, Krasnodar Krai, Ukraine’s Defense Forces hit a 55Zh6U Nebo-U (Tall Rack) radar station. Russia uses these systems to detect aerial targets at long range and guide its air defense.\"",
+          "unverified": false,
+          "url": "https://x.com/DefenceU/status/2111464516395671878"
+        },
+        {
+          "account": "@ZelenskyyUa",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"since the start of fall, our warriors have liberated more territory than the Russians have managed to capture. … destroying Russian forces 20 kilometers from Zaporizhzhia, not 5, as someone over there in Russia is snowing Putin.\"",
+          "unverified": false,
+          "url": "https://x.com/ZelenskyyUa/status/2111844092753645813"
+        },
+        {
+          "account": "@ZelenskyyUa",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"Had a conversation with the American President’s envoys, Steve Witkoff @SEPeaceMissions and Jared Kushner @jaredkushner. … In particular, we discussed the results of our teams’ meeting in Florida. … We are also preparing the next steps in diplomacy.\"",
+          "unverified": false,
+          "url": "https://x.com/ZelenskyyUa/status/2111833578707313034"
+        },
+        {
+          "account": "@mfa_russia",
+          "tier": "A",
+          "date": "16 Oct",
+          "text": "l'ambasciatore Rodion Miroshnik al Comitato ONU contro la tortura: \"Simulated drowning, “electric chairs”, dog attacks & amputations without anaesthesia — such are the methods commonly used by Ukrainian punitive forces\" ⚠ NON VERIFICATO / accusa di parte",
+          "unverified": true,
+          "url": "https://x.com/mfa_russia/status/2111126795973976383"
+        },
+        {
+          "account": "@TheStudyofWar",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"Ukrainian forces conducted their largest strike against Russian digital, energy, and logistics infrastructure in St. Petersburg, Leningrad Oblast since 2022, overnight on October 17 to 18. … Russia launched 337 drones and one Iskander-M ballistic missile against Ukraine…\"",
+          "unverified": false,
+          "url": "https://x.com/TheStudyofWar/status/2111968957703782572"
+        },
+        {
+          "account": "@wartranslated",
+          "tier": "B",
+          "date": "18 Oct",
+          "text": "\"Trump says he won't sign new Russia sanctions … He also blames Zelensky's refinery strikes for global diesel price pain and insists Zelensky \"never wanted\" to end the war, not Russia's ongoing invasion.\"",
+          "unverified": false,
+          "url": "https://x.com/wartranslated/status/2111922853335453816"
+        },
+        {
+          "account": "@RALee85",
+          "tier": "O",
+          "date": "19 Oct",
+          "text": "\"Notable. This is the first video of a Geran strike (Geran-4 Seeker) by Russia's Rubicon Center.\"",
+          "unverified": false,
+          "url": "https://x.com/RALee85/status/2111972596002783495"
+        },
+        {
+          "account": "@RALee85",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "cita Bloomberg: \"'Now, we have dangerous days ahead of the elections,' Zelenskyy said, referring to the Nov. 3 midterms in the US. … 'I believe steps have been taken to convince Ukraine to capitulate,' Zelenskyy said…\"",
+          "unverified": false,
+          "url": "https://x.com/RALee85/status/2111913371415306466"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "\"Zelensky says Ukraine is SCREWED without U.S. … If the U.S. officially takes the side of Russia, of course we will not prevail. We will not be able to stand.\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2111830913537458589"
+        },
+        {
+          "account": "@SputnikInt",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"A Russian Geran drone set a Ukrainian military cargo ship ablaze in the Black Sea, while a Lancet strike destroyed a Ukrainian naval drone heading toward Russia's coast - MoD\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/SputnikInt/status/2111822860209528845"
+        },
+        {
+          "account": "@tass_agency",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"Владимир Зеленский не хочет заканчивать конфликт с Россией, вероятно, никогда и не хотел. Об этом заявил Дональд Трамп\"",
+          "unverified": false,
+          "url": "https://x.com/tass_agency/status/2111940123101405240",
+          "translation_it": "«Volodymyr Zelensky non vuole porre fine al conflitto con la Russia e probabilmente non l'ha mai voluto. Lo ha dichiarato Donald Trump.» ⚠ NON VERIFICATO / voce di parte"
+        },
+        {
+          "account": "@SputnikInt",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"Zelensky opposes diesel deal and peace talks to save his regime - 🇷🇺FM Sergey Lavrov … The diesel agreement between Russia and the US is strictly a matter between Moscow and Washington, Russian Foreign Minister Sergey Lavrov said…\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/SputnikInt/status/2111838431500243191"
+        }
+      ],
+      "mood": "Escalation"
+    },
+    {
+      "id": "taiwan",
+      "name": "Stretto di Taiwan",
+      "riassunto": "Attività militare cinese in lieve ripresa attorno all'isola. Il ministero della Difesa di Taiwan (@MoNDefense) rileva fino alle 6 (ora di Taipei) del 19 ottobre 5 sortite di aerei dell'Esercito popolare di liberazione, 6 navi della marina cinese e 9 navi ufficiali; 3 sortite hanno superato la linea mediana entrando nella zona di identificazione aerea a nord, al centro e a sud-ovest. Global Times (voce di parte) riferisce una rara esercitazione a fuoco vivo con quattro navi d'assalto anfibio Type 071 e cita un esperto secondo cui l'addestramento potrebbe simulare assalti a isole e scogli nel Mar Cinese Meridionale e nello Stretto di Taiwan; lo stesso giornale sottolinea l'aumento del 19,63% delle visite dei residenti di Taiwan sul continente nei primi otto mesi dell'anno. Sul fronte della difesa @TaiwanMonitor segnala che sei dei 66 nuovi F-16V Block 70 hanno superato il collaudo, che Taiwan riceverà dagli Stati Uniti 500 missili Stinger e 178 lanciatori entro fine anno e che il sottomarino Hai Kun ha completato la 25ª prova in mare; nessuna nuova vendita di armi è stata notificata al Congresso. Secondo @TaiwanNewsEN, Joseph Wu ha avvertito a un forum a Berlino che un conflitto nello Stretto colpirebbe l'economia europea e le catene di fornitura globali.",
+      "sentiment": "Più sortite rispetto al giorno precedente (5 contro 2, 3 oltre la linea mediana) ma sotto i livelli del 16-17 ottobre, mentre Taipei riceve nuove forniture americane e cerca attenzione in Europa. Mood: Stallo.",
+      "lettura": "Pressione militare cinese a bassa intensità; Taipei punta sulle armi americane e sull'interesse europeo per lo Stretto.",
+      "posts": [
+        {
+          "account": "@MoNDefense",
+          "tier": "A",
+          "date": "19 Oct",
+          "text": "\"5 sorties of PLA aircraft, 6 PLAN vessels and 9 official ships operating around Taiwan detected up until 6 a.m. (UTC+8) today. … 3 out of 5 sorties crossed the median line and entered Taiwan’s northern, central and southwestern part ADIZ.\"",
+          "unverified": false,
+          "url": "https://x.com/MoNDefense/status/2111985685158625762"
+        },
+        {
+          "account": "@TaiwanMonitor",
+          "tier": "B",
+          "date": "18 Oct",
+          "text": "\"six of Taiwan's 66 new F-16V Block 70s have cleared acceptance, Taiwan is set to receive 500 Stinger missiles and 178 launchers from the U.S. by the end of the year … No arms sales to Taiwan were notified to Congress.\"",
+          "unverified": false,
+          "url": "https://x.com/TaiwanMonitor/status/2111913671903547507"
+        },
+        {
+          "account": "@TaiwanNewsEN",
+          "tier": "B",
+          "date": "17 Oct",
+          "text": "\"A conflict in the Taiwan Strait will affect Europe's economy and disrupt global supply chains, Joseph Wu tells a forum in Berlin.\"",
+          "unverified": false,
+          "url": "https://x.com/TaiwanNewsEN/status/2111438530341957728"
+        },
+        {
+          "account": "@globaltimesnews",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"a rare live-fire drill involving four of the #PLA Navy’s Type 071 amphibious dock landing ships … island and reef assault, transport and sovereignty defense in locations such as the South China Sea and Taiwan Straits.\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/globaltimesnews/status/2111810048217477149"
+        },
+        {
+          "account": "@globaltimesnews",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"The latest statistics from #Taiwan’s tourism authorities show that residents of the island made a total of 2.492 million visits to the mainland in the first eight months of this year, a year-on-year increase of 19.63 percent.\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/globaltimesnews/status/2111800358515400901"
+        }
+      ],
+      "mood": "Stallo"
+    },
+    {
+      "id": "usa-cina",
+      "name": "USA-Cina",
+      "riassunto": "Si discute di un possibile vertice a tre sull'Ucraina, mentre la rivalità militare e tecnologica prosegue. Secondo resoconti da verificare rilanciati da @MarioNawfal, che cita il WSJ, Putin vorrebbe un vertice a tre con Trump e Xi a Shenzhen il 18 o 19 novembre, durante l'APEC, per parlare dell'Ucraina senza Zelensky; Sputnik (voce di parte) riporta il portavoce del Cremlino Peskov, secondo cui Russia, Cina e Stati Uniti riconoscono la «possibilità ipotetica» di un incontro trilaterale. @DerekJGrossman commenta che Putin «sa esattamente come giocare» con Trump. Sul piano militare @AsiaLens intervista per il Financial Times il capo dell'esercito USA nell'Indo-Pacifico, il generale Ron Clark, che vuole una presenza militare americana più visibile in Asia, mentre Global Times (voce di parte) definisce una «provocazione» le esercitazioni USA-Giappone Keen Sword 27 e il dispiegamento di missili a lungo raggio capaci di colpire la costa cinese. @CollinSLKoh sostiene che Pechino stia esaurendo gli strumenti per fare pressione su Manila, dopo la minaccia cinese di sanzionare funzionari filippini. Sul commercio @RushDoshi ritiene che Pechino non asseconderà le richieste di investimenti con trasferimento di tecnologia, e secondo resoconti da verificare rilanciati da @MarioNawfal il segretario al Tesoro Bessent lamenterebbe il rifiuto europeo di imporre dazi secondari a Cina e India. Global Times ospita infine Charles Kupchan, del Council on Foreign Relations, che invita Washington e Pechino a crescere insieme.",
+      "sentiment": "L'ipotesi, proposta da Putin secondo @DerekJGrossman, di un vertice a tre con Trump e Xi apre un possibile canale politico, mentre il comandante dell'esercito USA nell'Indo-Pacifico chiede una presenza militare più visibile in Asia. Mood: Stallo.",
+      "lettura": "Un eventuale vertice a tre sull'Ucraina non attenua la rivalità militare tra Washington e Pechino nel Pacifico.",
+      "posts": [
+        {
+          "account": "@AsiaLens",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"US army chief in #IndoPacific wants more visible military muscle in Asia. Read my interview with Gen Ron Clark\"",
+          "unverified": false,
+          "url": "https://x.com/AsiaLens/status/2111947410163335510"
+        },
+        {
+          "account": "@DerekJGrossman",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"Putin knows exactly how to play Trump, and so he’s proposing a trilateral summit with Xi to negotiate an end to Russia’s invasion of Ukraine. Strongmen ruling the world, together, determining the fate of weaker nations.\"",
+          "unverified": false,
+          "url": "https://x.com/DerekJGrossman/status/2111988145961202018"
+        },
+        {
+          "account": "@CollinSLKoh",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"Beijing has for a while been scraping its barrel for tools to coerce Manila. … The only tools left: outright economic sanctions and kinetic force.\"",
+          "unverified": false,
+          "url": "https://x.com/CollinSLKoh/status/2111967709705756927"
+        },
+        {
+          "account": "@RushDoshi",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "\"Exactly this — Beijing isn’t going to indulge our requests for investment with tech transfer, especially when other markets will accept final assembly.\"",
+          "unverified": false,
+          "url": "https://x.com/RushDoshi/status/2111854496481706462"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "19 Oct",
+          "text": "\"Putin wants Trump and Xi to sit down and talk about Ukraine, without Zelensky. … The plan is to meet on November 18 or 19 in Shenzhen, China, during the APEC summit.\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2112005815561543784"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "Bessent: \"In the spring, I asked our European allies to join us in putting secondary tariffs on China and India. They refused. So why should the U.S. bear the burden?\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2111838463377199259"
+        },
+        {
+          "account": "@globaltimesnews",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"The #US and #Japan are set to launch the large-scale “Keen Sword 27” military drills on Monday … the deployment of long-range missiles, coupled with an emphasis on their ability to strike targets along China's coast, constitutes a continued provocation…\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/globaltimesnews/status/2111732133027061983"
+        },
+        {
+          "account": "@globaltimesnews",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"“We now live in a deeply integrated, globalized world where, if we don’t grow together, we will sink together,” says Charles A. Kupchan, senior fellow at the Council on Foreign Relations…\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/globaltimesnews/status/2111824521787592878"
+        },
+        {
+          "account": "@SputnikInt",
+          "tier": "C",
+          "date": "19 Oct",
+          "text": "\"Russia, China, and US acknowledge the \"hypothetical possibility\" of a trilateral meeting — Kremlin … Peskov previously noted a Putin-Trump-Xi meeting at the APEC summit in Shenzhen on Nov 18-19 would be highly beneficial.\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/SputnikInt/status/2112005877280698616"
+        }
+      ],
+      "mood": "Stallo"
+    },
+    {
+      "id": "india-pakistan",
+      "name": "India-Pakistan",
+      "riassunto": "Accuse e chiusure restano il segno della relazione. L'ufficio stampa delle forze armate pakistane (@OfficialDGISPR) riferisce di tre operazioni di intelligence il 17 ottobre a Quetta, Nushki e Khuzdar, in Belucistan, con otto «terroristi sponsorizzati dall'India» uccisi e 490 kg di esplosivo sequestrati, attribuendoli al gruppo che Islamabad chiama «Fitna al Hindustan»; Radio Pakistan (voce di parte) riporta il plauso del presidente Zardari e del premier Shehbaz Sharif alle forze di sicurezza e il rifiuto, da parte della All Parties Hurriyat Conference, delle affermazioni indiane di normalità nel Kashmir amministrato dall'India. Il vicepremier e ministro degli Esteri Ishaq Dar (@ForeignOfficePk) ha incontrato il presidente dell'Azad Jammu e Kashmir sullo sviluppo della regione. Il commentatore indiano @SushantSin rilancia la notizia della proroga al 24 novembre del divieto pakistano di sorvolo per gli aerei indiani, che definisce un «effetto Sindoor» che ha messo in ginocchio le compagnie aeree indiane, e accusa il governo Modi di scaricare le perdite sui passeggeri dei voli interni.",
+      "sentiment": "Islamabad continua ad attribuire all'India il terrorismo in Belucistan e lo spazio aereo pakistano resta chiuso agli aerei indiani; il confronto resta a distanza. Mood: Stallo.",
+      "lettura": "Relazione congelata: le accuse pakistane sul Belucistan e la proroga del divieto di sorvolo fissano la frattura almeno fino a fine novembre.",
+      "posts": [
+        {
+          "account": "@OfficialDGISPR",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"On 17 October 2026, security forces conducted three intelligence based operations in Quetta, Nushki and Khuzdar Districts of Balochistan, on reported presence of terrorists belonging to Indian proxy, Fitna al Hindustan, neutralising eight Indian sponsored terrorists.\"",
+          "unverified": false,
+          "url": "https://x.com/OfficialDGISPR/status/2111749342407373159"
+        },
+        {
+          "account": "@ForeignOfficePk",
+          "tier": "A",
+          "date": "17 Oct",
+          "text": "\"Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar @MIshaqDar50 met with the President of Azad Jammu and Kashmir (AJK) today. … The two leaders exchanged views on the development of AJK…\"",
+          "unverified": false,
+          "url": "https://x.com/ForeignOfficePk/status/2111394968141210003"
+        },
+        {
+          "account": "@SushantSin",
+          "tier": "B",
+          "date": "18 Oct",
+          "text": "rilancia la proroga del divieto pakistano di sorvolo al 24 novembre: \"The Operation Sindoor effect which has virtually brought the Indian airlines to its knees.\"",
+          "unverified": false,
+          "url": "https://x.com/SushantSin/status/2111806714760876124"
+        },
+        {
+          "account": "@SushantSin",
+          "tier": "B",
+          "date": "19 Oct",
+          "text": "\"Modi's foreign policy, which led Pakistan to shut down its airspace to Indian airlines, is causing massive losses. To make up for those losses caused by Modi's policy, they are overcharging domestic flyers.\"",
+          "unverified": false,
+          "url": "https://x.com/SushantSin/status/2112029045089341932"
+        },
+        {
+          "account": "@RadioPakistan",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"All Parties Hurriyat Conference has rejected India’s claims of normalcy in Indian Illegally Occupied Jammu and Kashmir\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/RadioPakistan/status/2111822934872363328"
+        },
+        {
+          "account": "@RadioPakistan",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"President @AAliZardari and Prime Minister @CMShehbaz have commended the security forces for their successful intelligence-based operations against Fitna Al-Hindustan terrorists in Quetta, Nushki and Khuzdar districts of Balochistan\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/RadioPakistan/status/2111788589470355519"
+        }
+      ],
+      "mood": "Stallo"
+    },
+    {
+      "id": "usa-europa",
+      "name": "USA-Europa",
+      "riassunto": "Starlink e sanzioni alla Russia allargano il solco transatlantico. @carlbildt rilancia il Financial Times, secondo cui gli Stati Uniti minacciano misure contro l'Europa se limiterà Starlink, mentre Starlink limita l'uso per la difesa di un paese europeo come l'Ucraina: «l'Europa ha bisogno di sovranità, non di sottomissione». Il Dipartimento di Stato (@StateDept) riporta il segretario Rubio: negli Stati Uniti nessuno ha ordinato di rallentare Starlink, e il presidente vuole usare un periodo di 60 giorni per valutare l'effetto di sanzioni e dazi sull'economia globale e su quella americana. La presidente della Commissione europea von der Leyen (@vonderleyen) assicura che l'Europa farà di più per i nuovi bisogni dell'Ucraina, chiede lo stesso ai partner globali e promette di continuare a lavorare con Kyiv e Washington per una pace giusta. @edwardlucas critica il segretario alla Difesa Hegseth per un intervento sugli alleati in Afghanistan, ricordando che Danimarca, Estonia e altri hanno combattuto senza riserve, con perdite pari o superiori a quelle americane. Secondo resoconti da verificare rilanciati da @MarioNawfal, il segretario al Tesoro Bessent accuserebbe gli europei di finanziare la macchina bellica russa importando dalla Russia dieci volte più degli Stati Uniti. Sputnik (voce di parte), citando un esperto russo, sostiene che i leader europei temano che le tensioni tra Trump e Zelensky danneggino i loro rapporti con Washington.",
+      "sentiment": "Attrito su Starlink: secondo il Financial Times, rilanciato da Carl Bildt, Washington minaccia misure se l'Europa limiterà Starlink, mentre Rubio nega ordini di rallentamento e von der Leyen promette più aiuto a Kyiv. Mood: Escalation.",
+      "lettura": "Starlink diventa il simbolo della dipendenza europea dagli Stati Uniti, proprio mentre Bruxelles promette di fare di più per l'Ucraina.",
+      "posts": [
+        {
+          "account": "@StateDept",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"SECRETARY RUBIO: In the United States, nobody ordered that Starlink's speed be slowed down.\"",
+          "unverified": false,
+          "url": "https://x.com/StateDept/status/2111623525018558727"
+        },
+        {
+          "account": "@StateDept",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"SECRETARY RUBIO: I think the President wants to take this 60-day period to analyze what imposing both sanctions and tariffs will mean for the global economy and the U.S. economy.\"",
+          "unverified": false,
+          "url": "https://x.com/StateDept/status/2111625160679891070"
+        },
+        {
+          "account": "@vonderleyen",
+          "tier": "A",
+          "date": "16 Oct",
+          "text": "\"But as Russia escalates its reckless war of aggression, Ukraine has additional needs. Europe will step up. And so must our global partners. And we will keep working with Ukraine and the US towards a just and sustainable peace.\"",
+          "unverified": false,
+          "url": "https://x.com/vonderleyen/status/2111156622047236232"
+        },
+        {
+          "account": "@carlbildt",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "rilancia il FT («US threatens Europe over Starlink restrictions»): \"This gets difficult. 🇺🇸 threatens action against Europe if it restricts Starlink, but at the same time Starlink restricts use for the defence of a European country 🇺🇦. Europe needs sovereignty - not submission.\"",
+          "unverified": false,
+          "url": "https://x.com/carlbildt/status/2111907809709244668"
+        },
+        {
+          "account": "@edwardlucas",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "commenta Hegseth sugli alleati in Afghanistan: \"how to lose your allies. Denmark, Estonia, others turned up, no caveats, fought hard, took casualties at or above US levels.\"",
+          "unverified": false,
+          "url": "https://x.com/edwardlucas/status/2111766700227981816"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "Bessent: \"The Europeans are financing the Russian war machine. The U.S. imports $4 billion of Russian products; $1.8 billion of that is fertilizer. The Europeans import more than TEN TIMES that.\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2111834698523820542"
+        },
+        {
+          "account": "@SputnikInt",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"Europe fears Zelensky may damage its relations with US - expert … European leaders are increasingly worried that tensions between Donald Trump and Volodymyr Zelensky could undermine their ties with the US and further weaken Ukraine's position…\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/SputnikInt/status/2111799959335154094"
+        }
+      ],
+      "mood": "Escalation"
+    },
+    {
+      "id": "europa-russia",
+      "name": "Europa-Russia",
+      "riassunto": "Droni sul Mar Nero e partita politica sulle elezioni europee. Il presidente del Consiglio europeo António Costa (@eucopresident), aprendo il 16 ottobre la seconda giornata del vertice con Zelensky, chiede di mantenere il sostegno all'Ucraina, aumentare la pressione sulla Russia e avanzare nel percorso di adesione di Kyiv. TASS (voce di parte), citando il Daily Telegraph, scrive che nell'UE si teme di non poter adottare nuove sanzioni contro la Russia dopo febbraio 2027 per le elezioni in Francia, con Marine Le Pen che, al potere, potrebbe indebolire l'aiuto all'Ucraina; @Tatarigami_UA osserva che Le Pen e l'AfD hanno legami con Mosca, che spera nel loro successo per destabilizzare l'UE, ma che il loro consenso nasce soprattutto dalla frustrazione per l'immigrazione. Il portavoce del Cremlino Peskov, citato da TASS, afferma che nessuno prende più sul serio le «assurde» accuse di un coinvolgimento russo nei disordini in Europa, mentre l'ideologo nazionalista Aleksandr Dugin (@AGDugin, voce di parte) scrive che i russi sono pronti a «ristabilire l'ordine» in Francia o Germania. Sempre secondo TASS, la Danimarca ha respinto un'iniziativa russa per prevenire incidenti in mare. Secondo resoconti da verificare rilanciati da @MarioNawfal, che cita DW, caccia F-16 romeni avrebbero abbattuto due droni entrati nello spazio aereo nazionale sul Mar Nero, nella stessa zona in cui droni avrebbero colpito due navi chimichiere, con sette marittimi dispersi.",
+      "sentiment": "Il presidente del Consiglio europeo Costa chiede di aumentare la pressione su Mosca, mentre secondo @Tatarigami_UA il Cremlino punta sul successo di Le Pen e dell'AfD per dividere l'UE. Mood: Escalation.",
+      "lettura": "Il confronto si sposta sul terreno politico interno europeo: secondo gli analisti Mosca scommette sui partiti a lei vicini per indebolire il fronte comune dell'UE.",
+      "posts": [
+        {
+          "account": "@eucopresident",
+          "tier": "A",
+          "date": "16 Oct",
+          "text": "\"Now is the time to maintain our support for Ukraine, to increase the pressure on Russia and to make progress on Ukraine’s accession path.\"",
+          "unverified": false,
+          "url": "https://x.com/eucopresident/status/2111018250997817755"
+        },
+        {
+          "account": "@Tatarigami_UA",
+          "tier": "B",
+          "date": "18 Oct",
+          "text": "\"Le Pen has Russian financial ties and the AfD benefited from Russian support as well, but blaming their rise on Russia is simplistic. Their popularity comes from a decade of frustration with lax immigration policies…\"",
+          "unverified": false,
+          "url": "https://x.com/Tatarigami_UA/status/2111736768261468538"
+        },
+        {
+          "account": "@Tatarigami_UA",
+          "tier": "B",
+          "date": "18 Oct",
+          "text": "\"Both parties have ties to Russia, and Moscow hopes their election success will destabilize the EU and give it new influential allies willing to promote Russian interests.\"",
+          "unverified": false,
+          "url": "https://x.com/Tatarigami_UA/status/2111737893077283300"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
+          "date": "18 Oct",
+          "text": "\"Romanian F-16s obliterate hostile drones over the Black Sea. … This follows drone strikes that hit two chemical tankers in the exact same area and left seven crew members missing.\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2111799456408494213"
+        },
+        {
+          "account": "@tass_agency",
+          "tier": "C",
+          "date": "19 Oct",
+          "text": "\"Никто уже серьезно не относится к абсурдным обвинениям в причастности России к беспорядкам в Европе, заявил Песков\"",
+          "unverified": false,
+          "url": "https://x.com/tass_agency/status/2111948855457530342",
+          "translation_it": "«Nessuno prende più sul serio le assurde accuse di un coinvolgimento della Russia nei disordini in Europa, ha dichiarato Peskov.» ⚠ NON VERIFICATO / voce di parte"
+        },
+        {
+          "account": "@tass_agency",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"Дания отказалась от инициативы РФ по предотвращению инцидентов в море. Вопрос остается актуальным, несмотря на \"абсолютное нежелание урегулировать его в правовом поле\", отметили в российском посольстве\"",
+          "unverified": false,
+          "url": "https://x.com/tass_agency/status/2111845779388371108",
+          "translation_it": "«La Danimarca ha respinto l'iniziativa russa per la prevenzione degli incidenti in mare. La questione resta attuale, nonostante «l'assoluta mancanza di volontà di risolverla sul piano giuridico», hanno osservato all'ambasciata russa.» ⚠ NON VERIFICATO / voce di parte"
+        },
+        {
+          "account": "@tass_agency",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"В ЕС допускают, что не смогут принять новые санкции против РФ после февраля 2027 года из-за приближающихся выборов во Франции, пишет The Daily Telegraph со ссылкой на источники. Марин Ле Пен в случае прихода к власти может ослабить помощь Украине\"",
+          "unverified": false,
+          "url": "https://x.com/tass_agency/status/2111872057562505428",
+          "translation_it": "«Nell'UE si ammette di poter non riuscire ad adottare nuove sanzioni contro la Russia dopo febbraio 2027 a causa delle imminenti elezioni in Francia, scrive The Daily Telegraph citando fonti. Marine Le Pen, se arrivasse al potere, potrebbe indebolire l'aiuto all'Ucraina.» ⚠ NON VERIFICATO / voce di parte"
+        },
+        {
+          "account": "@AGDugin",
+          "tier": "C",
+          "date": "18 Oct",
+          "text": "\"we are ready to reinstall the order in France or Germany. We are the Rome. We are the Byzantium. Russians are coming.\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/AGDugin/status/2111860770820546721"
+        }
+      ],
+      "mood": "Escalation"
+    },
+    {
+      "id": "coree",
+      "name": "Coree",
+      "riassunto": "Il siluro nordcoreano annunciato a metà ottobre resta il fatto militare di riferimento, mentre il resto dell'agenda è sociale, diplomatico e storico. Il 17 ottobre @nknewsorg ha riferito che Pyongyang aveva annunciato il lancio di prova del siluro di precisione Zam-2.0, dotato di intelligenza artificiale e presentato come una svolta per la sua marina, dopo una serie di lanci missilistici nelle ultime settimane secondo i media statali. Lo stesso sito racconta che l'unica scuola accreditata di Seul per i figli dei disertori nordcoreani ha finalmente una sede permanente, ma l'opposizione dei residenti mette a rischio il progetto e rivela un sentimento ostile ai disertori. @CSISKoreaChair rilancia il panel con il George W. Bush Center sui diritti umani dei nordcoreani e sulle condizioni nello stabilimento di droni di Alabuga, in Russia. Il vicecomandante del Comando ONU (@UN_Command), il generale Scott Winter, ha discusso al King's College di Londra l'evoluzione della sicurezza regionale. Global Times (voce di parte) celebra il 76° anniversario dell'ingresso dei Volontari del popolo cinese nella guerra di Corea, chiamata a Pechino «guerra di resistenza all'aggressione americana e di aiuto alla Corea».",
+      "sentiment": "Quadro stabile: il test del siluro Zam-2.0, riportato il 17 ottobre, resta il riferimento militare e il legame con Mosca torna al centro del panel CSIS su Alabuga, mentre al Sud emergono tensioni sociali attorno ai disertori. Mood: Stallo.",
+      "lettura": "Penisola stabile ma non tranquilla: il siluro Zam-2.0 (annunciato a metà ottobre) e l'asse con Mosca restano i dossier da seguire.",
+      "posts": [
+        {
+          "account": "@UN_Command",
+          "tier": "A",
+          "date": "18 Oct",
+          "text": "\"Returning to @KingsCollegeLon, graduate DCOM UNC LTGEN Scott Winter, AM, joined academics for a roundtable discussion on the evolving regional security landscape and strategic approaches to emerging challenges.\"",
+          "unverified": false,
+          "url": "https://x.com/UN_Command/status/2111740662270030069"
+        },
+        {
+          "account": "@nknewsorg",
+          "tier": "B",
+          "date": "17 Oct",
+          "text": "\"North Korea says it test-fired a new AI-equipped precision torpedo, the Zam-2.0, hailing it as a breakthrough for its navy. The underwater test came amid a flurry of missile launches in recent weeks, per state media.\"",
+          "unverified": false,
+          "url": "https://x.com/nknewsorg/status/2111223041808081298"
+        },
+        {
+          "account": "@nknewsorg",
+          "tier": "B",
+          "date": "16 Oct",
+          "text": "\"Seoul's only accredited school for the children of North Korean defectors finally secured a permanent home after years of moving between rented spaces. But a backlash among residents now threatens the plan, while laying bare anti-defector sentiment.\"",
+          "unverified": false,
+          "url": "https://x.com/nknewsorg/status/2110963220726817084"
+        },
+        {
+          "account": "@CSISKoreaChair",
+          "tier": "O",
+          "date": "16 Oct",
+          "text": "\"Without Parallel: North Korean Human Rights and the Russia Axis … @CSIS and @TheBushCenter held a panel discussion refocusing attention on North Korean human rights by examining conditions at the Alabuga drone-production facilities in Russia.\"",
+          "unverified": false,
+          "url": "https://x.com/CSISKoreaChair/status/2111157421678719117"
+        },
+        {
+          "account": "@globaltimesnews",
+          "tier": "C",
+          "date": "19 Oct",
+          "text": "\"76 years ago, the Chinese People’s Volunteers crossed the Yalu River and headed to the Korean battlefield. … Let us remember this significant victory and pay tribute to the heroes!\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/globaltimesnews/status/2112029068837433576"
+        }
+      ],
+      "mood": "Stallo"
+    }
+  ]
+}

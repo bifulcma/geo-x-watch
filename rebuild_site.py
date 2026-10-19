@@ -214,3 +214,7 @@ print('has riassunto', page.count('riassunto'))
 print('has sentiment', page.count('class="sentiment"'))
 print('has lettura', page.count('class="lettura"'))
 print('noise', bool(re.search(r'profili 404|nessun post rilevante in finestra', page, re.I)))
+
+# Export data/latest.json (FIXED PATH, never move — read by Hermes/Capo from GitHub)
+import subprocess, sys as _sys
+subprocess.run([_sys.executable, str(site / 'export_latest.py'), '/workspace/geo-x-watch/REPORT.md'], check=True)
