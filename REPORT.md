@@ -1,6 +1,6 @@
 # Geo-X-Watch — Giro 8 crisi
 
-Ultimo aggiornamento: **20 Oct 2026 · 06:00 Europe/Monaco** (qc-verify-20oct-fix1). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
+Ultimo aggiornamento: **20 Oct 2026 · 06:00 Europe/Monaco** (qc-verify-20oct-fix2). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
 
 # Iran-USA-Israele
 ## Riassunto
@@ -31,7 +31,7 @@ Lettura della giornata: Il rischio di una nuova fase di combattimenti cresce a r
 
 # Ucraina
 ## Riassunto
-Attacchi russi su civili e rete elettrica e nuove frizioni tra Kyiv e Washington sulle forniture, mentre riparte la diplomazia. Zelensky (@ZelenskyyUa) denuncia un attacco con drone Shahed su un parco della regione di Kharkiv con sei morti, tra cui bambini, e chiede che le sanzioni alla Russia restino finché continuano le uccisioni; riferisce inoltre di 28 sottostazioni colpite, di ritardi in alcune forniture vitali da parte del dipartimento della Guerra americano e di terminali Starlink/Starshield che smettono di funzionare oltre i 130–161 km/h. Lo Stato maggiore ucraino (@GeneralStaffUA) dichiara di aver neutralizzato 418 dei 463 droni lanciati dalla Russia il 18 ottobre. Secondo l'ISW (@TheStudyofWar), i raid russi nella notte tra il 18 e il 19 ottobre hanno ucciso almeno quattro persone e danneggiato pesantemente le infrastrutture energetiche e civili, mentre le forze ucraine avanzano nell'area di Lyman. @yarotrof cita un blogger militare russo secondo cui i limiti a Starlink hanno quasi fermato gli attacchi ucraini con droni sulla principale via di rifornimento russa nel sud occupato; @KofmanMichael conferma che Starshield resta limitato a 160 km/h. @RALee85 riprende il Washington Post: l'amministrazione Trump non ha ancora approvato il trasferimento a Kyiv di intercettori Patriot. Sul piano diplomatico, secondo @BarakRavid l'inviato Witkoff è diretto a Oslo per incontrare Zelensky, la Norvegia e gli europei, e poi conta di andare in Russia per vedere Putin. Mosca nelle ultime 72 ore: Lavrov (@mfa_russia) accusa Zelensky di far deragliare i negoziati per salvare il proprio regime; Sputnik (voce di parte) sostiene che gli attacchi russi ai data center abbiano ridotto il supporto d'intelligence della NATO a Kyiv. Secondo resoconti da verificare rilanciati da @MarioNawfal, Trump avrebbe detto che è ora che sia qualcun altro a negoziare per l'Ucraina.
+Attacchi russi su civili e rete elettrica e nuove frizioni tra Kyiv e Washington sulle forniture, mentre riparte la diplomazia. Zelensky (@ZelenskyyUa) denuncia un attacco con drone Shahed su un parco della regione di Kharkiv con sei morti, tra cui bambini, e chiede che le sanzioni alla Russia restino finché continuano le uccisioni; riferisce inoltre di 28 sottostazioni colpite, di ritardi in alcune forniture vitali da parte del dipartimento della Guerra americano e di terminali Starlink/Starshield che smettono di funzionare oltre i 130–161 km/h. Lo Stato maggiore ucraino (@GeneralStaffUA) dichiara di aver neutralizzato 418 dei 463 droni lanciati dalla Russia il 18 ottobre. Secondo l'ISW (@TheStudyofWar), i raid russi nella notte tra il 18 e il 19 ottobre hanno ucciso almeno quattro persone e danneggiato pesantemente le infrastrutture energetiche e civili, mentre le forze ucraine avanzano nell'area di Lyman. @yarotrof cita un blogger militare russo secondo cui i limiti a Starlink hanno quasi fermato gli attacchi ucraini con droni sulla principale via di rifornimento russa nel sud occupato; @KofmanMichael conferma che Starshield resta limitato a 160 km/h. @RALee85 riprende il Washington Post: l'amministrazione Trump non ha ancora approvato il trasferimento a Kyiv di intercettori Patriot. Sul piano diplomatico, secondo @BarakRavid l'inviato Witkoff è diretto a Oslo per incontrare Zelensky, la Norvegia e gli europei, e poi conta di andare in Russia per vedere Putin. Da Mosca, Lavrov (@mfa_russia) accusa Zelensky di far deragliare i negoziati per salvare il proprio regime; Sputnik (voce di parte) sostiene che gli attacchi russi ai data center abbiano ridotto il supporto d'intelligence della NATO a Kyiv. Secondo resoconti da verificare rilanciati da @MarioNawfal, Trump avrebbe detto che è ora che sia qualcun altro a negoziare per l'Ucraina.
 ## [A] Ufficiali
 - @ZelenskyyUa — (19 Oct) "A horrific Russian strike in the Kharkiv region. … Six people were killed, including children. … We ask that sanctions on Russia stay in place as long as the killings continue." [https://x.com/ZelenskyyUa/status/2112225056478679118]
 - @ZelenskyyUa — (19 Oct) (Starlink/Starshield) "There are also delays in certain types of vital supplies at the level of the U.S. Department of War. … the equipment stops functioning at speeds of 130–161 kilometers per hour in various sectors of the front." [https://x.com/ZelenskyyUa/status/2112167307417911524]
@@ -50,7 +50,7 @@ Attacchi russi su civili e rete elettrica e nuove frizioni tra Kyiv e Washington
 ## Sentiment
 La Russia continua a colpire civili e rete elettrica e Kyiv lamenta ritardi nelle forniture americane e limiti a Starlink, con il via libera di Washington agli intercettori Patriot ancora sospeso, mentre si apre un nuovo giro negoziale a Oslo con una possibile tappa di Witkoff in Russia. Mood: Escalation.
 
-Lettura della giornata: Sul campo la pressione russa non cala e la difesa aerea ucraina dipende da decisioni americane ancora sospese; Oslo è il primo banco di prova del nuovo piano di pace.
+Lettura della giornata: Sul campo la pressione russa non cala e la difesa aerea ucraina dipende da decisioni americane ancora sospese; Oslo è il primo banco di prova della nuova proposta negoziale.
 
 # Stretto di Taiwan
 ## Riassunto
@@ -74,7 +74,7 @@ Lettura della giornata: Nessun salto di qualità: la routine di pressione cinese
 
 # USA-Cina
 ## Riassunto
-L'ipotesi di un vertice a tre Trump-Putin-Xi domina le ultime 72 ore. @Lingling_Wei (Wall Street Journal) rilancia la notizia che Trump si dice disposto a incontrare Putin e Xi; Hu Xijin (@HuXijin_GT, voce di parte) ne ridimensiona la portata: un vertice tra Cina, Stati Uniti e Russia avrebbe un forte valore simbolico, ma spartirsi il mondo in nuove sfere d'influenza è irrealistico.
+L'ipotesi di un vertice a tre Trump-Putin-Xi è al centro della scena. @Lingling_Wei (Wall Street Journal) rilancia la notizia che Trump si dice disposto a incontrare Putin e Xi; Hu Xijin (@HuXijin_GT, voce di parte) ne ridimensiona la portata: un vertice tra Cina, Stati Uniti e Russia avrebbe un forte valore simbolico, ma spartirsi il mondo in nuove sfere d'influenza è irrealistico.
 
 Sul piano militare e tecnologico, secondo resoconti da verificare rilanciati da @MarioNawfal, l'Esercito statunitense pianificherebbe di ampliare la presenza missilistica nell'Indo-Pacifico, con sistemi Typhon capaci di lanciare Tomahawk e lanciatori HIMARS, per avvicinare potenza di fuoco alla Cina, e il dipartimento della Sicurezza interna avrebbe ordinato di rimuovere DeepSeek dai sistemi governativi. Sempre secondo @MarioNawfal, Trump avrebbe detto che la Cina «avrebbe potuto fare molto di più per l'Iran» e che se ne ricorda.
 
@@ -89,9 +89,9 @@ Il Global Times (voce di parte) liquida con una vignetta la postura americana ne
 - @HuXijin_GT — (19 Oct) "If China, the US, and Russia were actually to hold a summit, it would certainly have important symbolic significance … carving the world into new spheres of influence is also unrealistic.…" ⚠ NON VERIFICATO / voce di parte [https://x.com/HuXijin_GT/status/2112216917683695704]
 - @globaltimesnews — (19 Oct) "In name of war deterrence, In deed of arms expansion." ⚠ NON VERIFICATO / voce di parte [https://x.com/globaltimesnews/status/2112249926105083972]
 ## Sentiment
-Competizione senza strappi: secondo resoconti da verificare Washington stringerebbe su tecnologia e missili nell'Indo-Pacifico, mentre Trump apre a un vertice con Xi e Putin che Hu Xijin (voce di parte) ridimensiona. Mood: Stallo.
+Competizione senza strappi: secondo il Wall Street Journal Trump si dice aperto a un vertice con Xi e Putin, ipotesi ancora tutta da definire. Mood: Stallo.
 
-Lettura della giornata: La partita corre su due binari, deterrenza militare e tecnologica (secondo resoconti da verificare) da una parte e ipotesi di vertice a tre dall'altra; nessuno dei due produce per ora un cambio di fase.
+Lettura della giornata: L'ipotesi di vertice a tre è per ora l'unico elemento nuovo tra Washington e Pechino e non produce un cambio di fase.
 
 # India-Pakistan
 ## Riassunto
@@ -127,7 +127,7 @@ RT (voce di parte) amplifica gli attacchi di Trump all'Europa «globalista di si
   IT: «La Commissione europea ha respinto la proposta degli Stati Uniti di riprendere gli acquisti di gas dalla Russia e ha confermato l'intenzione di non revocare alcuna sanzione contro la Russia almeno fino alla completa conclusione del conflitto.» ⚠ NON VERIFICATO / voce di parte [https://x.com/tass_agency/status/2112214770531323941]
 - @RT_com — (20 Oct) "‘GLOBALIST LEFT-WING EUROPE’ importing ‘MILLIONS OF 3RD WORLD IMMIGRANTS’ who are ‘TOTALLY INCOMPATIBLE’ with the West — TRUMP…" ⚠ NON VERIFICATO / voce di parte [https://x.com/RT_com/status/2112340621763424680]
 ## Sentiment
-Rapporto transatlantico sotto pressione: Washington spinge su Starlink e gas russo, mentre secondo la TASS (voce di parte) Bruxelles tiene ferme le sanzioni e RT (voce di parte) rilancia gli attacchi di Trump all'Europa. Mood: Escalation.
+Rapporto transatlantico sotto pressione: secondo il Financial Times Washington minaccia l'Europa sulle restrizioni a Starlink e, secondo il New York Times, vorrebbe che l'Europa riprendesse gli acquisti di gas russo, mentre Zelensky denuncia che il rallentamento di Starlink continua. Mood: Escalation.
 
 Lettura della giornata: L'attrito tra Stati Uniti ed Europa si allarga dall'Ucraina all'energia e alla tecnologia; gas e Starlink diventano i principali punti di frizione.
 
@@ -135,7 +135,7 @@ Lettura della giornata: L'attrito tra Stati Uniti ed Europa si allarga dall'Ucra
 ## Riassunto
 L'ipotesi di un vertice Trump-Putin-Xi agita gli europei. @yarotrof legge nella proposta di Putin il sogno di una «seconda Jalta» per dividere il mondo e dominare gran parte dell'Europa, e avverte che cedere il Donbas non chiuderebbe la guerra ma ne aprirebbe una nuova; @anneapplebaum e @carlbildt sottolineano che Mosca vuole essere trattata alla pari con Stati Uniti e Cina e che qualsiasi incontro senza l'Ucraina è tempo perso.
 
-Dalla Russia, secondo @JuliaDavisNews, il conduttore della tv di Stato Solovyov si è infuriato per gli attacchi ucraini contro Mosca e San Pietroburgo. In Bulgaria, secondo resoconti da verificare rilanciati da @MarioNawfal, due cittadini tedeschi sarebbero ricercati per aver incendiato antenne Starlink vicino a Sofia; nessun legame con la Russia è confermato. La TASS (voce di parte) attribuisce al ministro della Difesa italiano Crosetto la frase secondo cui l'Ucraina non potrà mai vincere contro la Russia.
+Dalla Russia, secondo @JuliaDavisNews, il conduttore della tv di Stato Solovyov si è infuriato per gli attacchi ucraini contro Mosca e San Pietroburgo. In Bulgaria, secondo resoconti da verificare rilanciati da @MarioNawfal, due cittadini tedeschi sarebbero ricercati per aver incendiato antenne Starlink vicino a Sofia, e finora non sarebbe stato confermato alcun legame con la Russia. La TASS (voce di parte) attribuisce al ministro della Difesa italiano Crosetto la frase secondo cui l'Ucraina non potrà mai vincere contro la Russia.
 ## [B] Analisti & stampa
 - @yarotrof — (19 Oct) "Putin has long dreamed of a second Yalta to divide the world (and gain the dominance of much of Europe.) … he has not been able to win a war he started 4.5 years ago." [https://x.com/yarotrof/status/2112107724368437465]
 - @yarotrof — (19 Oct) "“Russian borders don’t end anywhere” is a quote from no-one else but Putin. … giving him Donbas, or Kyiv for that matter, will not be the end of a war but the beginning of a new one…" [https://x.com/yarotrof/status/2112175720696791342]
@@ -148,15 +148,15 @@ Dalla Russia, secondo @JuliaDavisNews, il conduttore della tv di Stato Solovyov 
 - @tass_agency — (19 Oct) "Украине никогда не победить в конфликте с Россией, заявил министр обороны Италии Крозетто…"
   IT: «L'Ucraina non vincerà mai il conflitto con la Russia, ha dichiarato il ministro della Difesa italiano Crosetto» ⚠ NON VERIFICATO / voce di parte [https://x.com/tass_agency/status/2112210165558894810]
 ## Sentiment
-Europa in allarme per un negoziato sopra la propria testa, mentre gli attacchi ucraini su Mosca e San Pietroburgo alzano i toni della tv russa e un presunto sabotaggio di antenne Starlink in Bulgaria, secondo resoconti da verificare, resta senza attribuzione. Mood: Escalation.
+Gli analisti europei leggono nella proposta di Putin di un vertice a tre il tentativo di negoziare sopra la testa di Kyiv e dell'Europa, mentre in Russia gli attacchi ucraini su Mosca e San Pietroburgo alzano i toni della tv di Stato. Mood: Escalation.
 
-Lettura della giornata: Il timore europeo è un accordo a tre che ridisegni la sicurezza del continente senza Kyiv e senza Bruxelles.
+Lettura della giornata: Per i commentatori il rischio è un accordo a tre che ridisegni la sicurezza del continente senza Kyiv e senza Bruxelles.
 
 # Coree
 ## Riassunto
 Tensione in aumento lungo la zona demilitarizzata. Secondo @nknewsorg, Kim Yo Jong accusa le truppe sudcoreane di aver sparato contro soldati nordcoreani nella DMZ, valuta se riprendere le trasmissioni con altoparlanti verso il Sud e avverte che potrebbe schierare «mezzi d'attacco tattici» lungo il confine. Il ministero della Difesa di Seul (@ROK_MND) replica che avvertimenti e colpi di avvertimento lungo la linea di demarcazione militare sono misure difensive legittime contro gli sconfinamenti e che ogni nuova provocazione sarà punita con decisione.
 
-Sempre secondo @nknewsorg, una sospetta mina nordcoreana è stata trovata su un'isola vicino al confine marittimo, il quarto caso del mese, e Seul ha avviato l'esercitazione annuale Hoguk, che durerà fino al 30 ottobre insieme a due esercitazioni con gli Stati Uniti. Secondo resoconti da verificare rilanciati da @MarioNawfal, Pyongyang rivendicherebbe un nuovo siluro guidato dall'intelligenza artificiale, test non confermato da Seul.
+Sempre secondo @nknewsorg, una sospetta mina nordcoreana è stata trovata su un'isola vicino al confine marittimo, il quarto caso del mese, e Seul ha avviato l'esercitazione annuale Hoguk, che durerà fino al 30 ottobre insieme a due esercitazioni con gli Stati Uniti. Secondo resoconti da verificare rilanciati da @MarioNawfal, Pyongyang tornerebbe a vantare il siluro Zam-2.0 guidato dall'intelligenza artificiale, il cui test era stato annunciato il 17 ottobre.
 ## [A] Ufficiali
 - @ROK_MND — (20 Oct) risposta a Kim Yo Jong: "우리 군이 군사분계선(MDL) 일대에서 실시하는 경고방송과 경고사격은 북한군의 군사분계선 침범을 예방하고, 침범한 병력을 퇴거시키기 위한 정당한 방어적 조치임. … 북한이 우리의 정당한 조치를 빌미로 추가 도발을 감행할 경우 단호히 응징할 것임.…"
   IT: «Le trasmissioni e i colpi di avvertimento che le nostre forze effettuano lungo la Linea di demarcazione militare (MDL) sono misure difensive legittime per prevenire gli sconfinamenti dell'esercito nordcoreano e allontanare le truppe che sconfinano … se il Nord userà le nostre misure legittime come pretesto per ulteriori provocazioni, risponderemo con una punizione risoluta.» [https://x.com/ROK_MND/status/2112375349673881893]
