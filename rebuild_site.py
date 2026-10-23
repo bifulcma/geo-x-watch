@@ -42,7 +42,7 @@ def render_item(line):
     cls = 'item warn' if unver else 'item'
     handle = ''
     rest = raw
-    m = re.match(r'(@[\w_]+(?:\s+@[\w_]+)*)\s*[—\-]\s*(.*)', raw, re.S)
+    m = re.match(r'((?:[^\s@—][^@—\n]*?\s+via\s+)?@[\w_]+(?:\s+(?:via\s+)?@[\w_]+)*)\s*[—\-]\s*(.*)', raw, re.S)
     if m:
         handle, rest = m.group(1), m.group(2)
     hh = f'<span class="handle">{esc(handle)}</span>' if handle else ''
@@ -193,16 +193,20 @@ _dm = re.search(r'(\d{1,2} \w+ \d{4}).*?(\d{1,2}:\d{2})', _stamp_raw)
 _day = _dm.group(1) if _dm else '18 Sep 2026'
 _hhmm = _dm.group(2) if _dm else '09:40'
 _n = len(sections)
-_preqc = 'post-QC' if re.search(r'\bpost[- ]QC\b|\bQC APPROVED\b', md[:500], re.I) else 'bozza pre-QC'
+# fix1 19 Oct: write the QC stamp from the REPORT header (was a '<!-- stamp from REPORT -->' placeholder)
+_qm = re.search(r'\((qc-verify-[a-z0-9-]+)\)', md[:800])
+if not _qm: raise SystemExit('rebuild_site.py: no (qc-verify-...) stamp in REPORT header')
+_qcstamp = _qm.group(1)
+# fix3 16 Oct: «pre-QC draft» label removed (site is pushed only after QC CLEAR + user approval)
 
 page = f'''<!DOCTYPE html>
 <html lang="it"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Geo-X-Watch — Giro {_n} crisi</title>\n<!-- stamp from REPORT -->
+<title>Geo-X-Watch — Giro {_n} crisi</title>\n<!-- {_qcstamp} -->
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet"/>
 <style>{style}</style></head><body><div class="wrap">
 <header class="top"><div class="brand"><div class="logo">GX</div><div>
-<h1>Geo-X-Watch</h1><p class="sub">Giro {_day} · {_n} crisi · [A][B][O][C] · riassunto + sentiment · {_preqc}</p></div></div><div class="meta"><span class="pill live">{"Draft" if _preqc.startswith("bozza") else "Live"}</span><span class="pill">{_day} · {_hhmm}</span><span class="pill">Europe/Monaco</span><span class="pill">ogni giorno 06:00</span><a class="pill" href="https://geocaffe.vercel.app/" style="text-decoration:none;color:var(--a2);border-color:rgba(77,163,255,.45)">← GeoCaffè</a></div></header>
-<div class="disclaimer"><strong>⚠️ NON VERIFICATO</strong> — claim [C] = voce di parte. [O] = opinion maker geopolitica (non lifestyle). Il <em>Riassunto</em> apre ogni crisi; <em>Sentiment</em> e <em>Lettura della giornata</em> chiudono. Pesa [A] più di [C].</div>
+<h1>Geo-X-Watch</h1><p class="sub">Giro {_day} · {_n} crisi · [A][B][O][C] · riassunto + sentiment</p></div></div><div class="meta"><span class="pill live">Live</span><span class="pill">{_day} · {_hhmm}</span><span class="pill">Europe/Monaco</span><span class="pill">ogni giorno 06:00</span><a class="pill" href="https://geocaffe.vercel.app/" style="text-decoration:none;color:var(--a2);border-color:rgba(77,163,255,.45)">← GeoCaffè</a></div></header>
+<div class="disclaimer"><strong>⚠️ NON VERIFICATO</strong> — affermazioni [C] = voce di parte. [O] = opinion maker geopolitica (non lifestyle). Il <em>Riassunto</em> apre ogni crisi; <em>Sentiment</em> e <em>Lettura della giornata</em> chiudono. Pesa [A] più di [C].</div>
 <nav class="nav">{''.join(nav)}</nav>
 {''.join(crisis_html)}
 <footer>Geo-X-Watch · lun–dom 06:00 · solo segnali utili · <a href="https://geocaffe.vercel.app/" style="color:var(--a2);text-decoration:none">← GeoCaffè</a></footer>
@@ -215,6 +219,11 @@ print('has sentiment', page.count('class="sentiment"'))
 print('has lettura', page.count('class="lettura"'))
 print('noise', bool(re.search(r'profili 404|nessun post rilevante in finestra', page, re.I)))
 
-# Export data/latest.json (FIXED PATH, never move — read by Hermes/Capo from GitHub)
-import subprocess, sys as _sys
-subprocess.run([_sys.executable, str(site / 'export_latest.py'), '/workspace/geo-x-watch/REPORT.md'], check=True)
+# fix 22 Oct: export data/latest.json (FIXED PATH, never move — read by Hermes/Capo). Fail loudly.
+import subprocess, sys as _sys, json as _json
+_r = subprocess.run([_sys.executable, str(site / 'export_latest.py'), str(Path('/workspace/geo-x-watch/REPORT.md'))])
+if _r.returncode != 0:
+    raise SystemExit(f'rebuild_site.py: export_latest.py FAILED (exit {_r.returncode}) — do NOT publish')
+_sys.path.insert(0, str(site)); import export_latest as _el
+_el.validate(_json.loads((site / 'data' / 'latest.json').read_text()))
+print('latest.json validated')
