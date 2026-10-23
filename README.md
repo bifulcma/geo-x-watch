@@ -1,9 +1,10 @@
 # Geo-X-Watch
 
-Report OSINT sulle 7 crisi (A/B/C) da X, pubblicato su Vercel.
+Report OSINT sulle 8 crisi (A/B/O/C) da X, pubblicato su Vercel: Iran-USA-Israele, India-Pakistan, Europa-Russia, Ucraina, Stretto di Taiwan, USA-Europa, Coree, USA-Cina.
 
 - Live: https://geo-x-watch-bifulcmas-projects.vercel.app/
-- Aggiornamento: routine Grok Bot lun–ven 08:00 e 18:00 (Europe/Monaco)
+- Aggiornamento: ogni giorno, raccolta alle 03:00 e pubblicazione entro le 04:15 (Europe/Monaco), routine Chief of Staff (Grok Bot)
+- `data/latest.json` è il feed del War Index (unico file letto da Hermes); `data/prova.json` è solo per prove, non è letto dal War Index.
 
 ## Deploy
 Static `index.html`. Linked to Vercel project `geo-x-watch`.
