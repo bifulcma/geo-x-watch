@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "giro_date": "2026-10-23",
-  "published_at": "2026-10-23T07:05:33+02:00",
-  "edition_stamp": "23 Oct 2026 · 06:00 Europe/Monaco (qc-verify-23oct)",
-  "edition_id": "qc-verify-23oct",
+  "published_at": "2026-10-23T09:15:52+02:00",
+  "edition_stamp": "23 Oct 2026 · 06:00 Europe/Monaco (qc-verify-23oct-fix1)",
+  "edition_id": "qc-verify-23oct-fix1",
   "timezone": "Europe/Monaco",
   "site_url": "https://geo-x-watch.vercel.app/",
   "tiers": {
@@ -17,7 +17,7 @@
       "id": "iran",
       "name": "Iran-USA-Israele",
       "riassunto": "Cresce l'attesa di una nuova ondata di attacchi contro l'Iran. Secondo @IranIntl, in persiano, che cita l'Atlantic, Trump sta valutando attacchi di più giorni dopo le elezioni americane di metà mandato del 3 novembre, ma non ha ancora preso una decisione definitiva; per un redattore della stessa testata Teheran punta a usare la minaccia nucleare per ottenere concessioni, senza pagare il costo di costruire o testare la bomba. Il Comando centrale americano (@CENTCOM) celebra i 100 giorni del blocco navale contro l'Iran: nessuna esportazione o importazione via mare, salvo gli aiuti umanitari autorizzati, e almeno 25 miliardi di dollari di greggio non esportato. @NegarMortazavi si chiede se Stati Uniti e Israele torneranno a colpire e come risponderà Teheran.\nTeheran contesta il racconto occidentale della guerra. Il ministero degli Esteri (@IRIMFA), in persiano, rilancia l'intervento del ministro Araghchi sul Financial Times: se l'America preferirà la guerra alla diplomazia, andrà incontro a una sconfitta strategica ancora più grande. Araghchi (@araghchi) accusa Macron di contraddirsi sull'accordo nucleare del 2015, e il portavoce del ministero (@IRIMFA_SPOX) respinge l'espressione «conflitto iraniano», parlando di guerra di aggressione di Stati Uniti e Israele.\nPressTV (voce di parte) riporta che secondo il massimo responsabile della sicurezza iraniana, il generale Rezaei, l'Iran non ha ancora impiegato tutte le sue capacità e una guerra prolungata terrebbe instabili i mercati energetici fino a tre anni, e rilancia gli attacchi degli Houthi contro il ministero della Difesa saudita, Aramco e alcuni aeroporti. Secondo resoconti da verificare rilanciati da @MarioNawfal, Teheran avrebbe avvertito i mediatori che, in caso di nuovo attacco, cercherebbe di affondare navi da guerra americane e di colpire aeroporti e oleodotti in tutti i Paesi del Golfo; nella regione si darebbe per probabile una ripresa della guerra già nel fine settimana, e cargo militari russi sarebbero atterrati alla base aerea di Bushehr.",
-      "sentiment": "Clima da vigilia: Washington valuta un nuovo ciclo di attacchi e mantiene il blocco navale, Teheran alterna avvertimenti e accuse all'Occidente e, secondo resoconti da verificare, minaccia ritorsioni su tutto il Golfo. Mood: Escalation.",
+      "sentiment": "Clima da vigilia: secondo l'Atlantic, rilanciato da @IranIntl, Washington valuta un nuovo ciclo di attacchi dopo il voto del 3 novembre e mantiene il blocco navale, ormai a 100 giorni, mentre Teheran avverte che una scelta di guerra porterebbe agli Stati Uniti una sconfitta strategica e respinge il racconto occidentale del conflitto. Mood: Escalation.",
       "lettura": "La data chiave resta il voto americano del 3 novembre: la decisione su nuovi attacchi pesa più di ogni segnale diplomatico, e il blocco navale, ormai a 100 giorni, è la leva che Teheran cerca di spezzare.",
       "posts": [
         {
@@ -273,7 +273,7 @@
     {
       "id": "taiwan",
       "name": "Stretto di Taiwan",
-      "riassunto": "Pausa nell'attività aerea cinese, pressione su altri piani. Il ministero della Difesa di Taipei (@MoNDefense) non ha rilevato velivoli dell'Esercito popolare di liberazione attorno all'isola, ma 3 unità navali militari e 7 navi governative. Pechino, con la portavoce Mao Ning (@SpoxCHN_MaoNing), avverte che «non c'è zona grigia» sulla questione di Taiwan e chiede alle Filippine di rispettare il principio di una sola Cina con azioni concrete; secondo @TaiwanNewsEN un diplomatico ha detto che Manila lavorerà comunque con Taiwan. La stessa testata riporta l'allarme dell'intelligence taiwanese: la Cina intende offrire biglietti aerei a basso costo ad alcuni residenti taiwanesi perché tornino a votare alle elezioni locali del 28 novembre.\nSul fronte della difesa, @TaiwanMonitor pubblica il bilancio dell'esercitazione Han Kuang 42, che ha mobilitato il doppio delle brigate di riservisti rispetto all'anno scorso e ha introdotto un'esercitazione anti-decapitazione con l'evacuazione del presidente Lai al posto di comando di Hengshan; segnala inoltre la proposta del sindaco di Taipei di chiudere l'aeroporto di Songshan, in gran parte militare, mentre il ministro della Difesa avverte che le sue funzioni andrebbero ricollocate.",
+      "riassunto": "Pausa nell'attività aerea cinese, pressione su altri piani. Il ministero della Difesa di Taipei (@MoNDefense) non ha rilevato velivoli dell'Esercito popolare di liberazione attorno all'isola, ma 3 unità navali militari e 7 navi governative. Pechino, con la portavoce Mao Ning (@SpoxCHN_MaoNing), avverte che «non c'è zona grigia» sulla questione di Taiwan e chiede alle Filippine di rispettare il principio di una sola Cina con azioni concrete; secondo @TaiwanNewsEN un diplomatico ha detto che Manila lavorerà comunque con Taiwan. La stessa testata riporta l'allarme dell'intelligence taiwanese: la Cina intende offrire biglietti aerei a basso costo ad alcuni residenti taiwanesi perché tornino a votare alle elezioni locali del 28 novembre.\nSul fronte della difesa, @TaiwanMonitor pubblica il bilancio dell'esercitazione Han Kuang 42, che ha mobilitato il doppio delle brigate di riservisti rispetto all'anno scorso e ha introdotto un'esercitazione anti-decapitazione con l'evacuazione del presidente Lai al posto di comando di Hengshan.",
       "sentiment": "Calma relativa nei cieli, con nessun velivolo cinese rilevato e meno navi militari, mentre Pechino sposta la pressione sul piano diplomatico e su quello elettorale. Mood: Stallo.",
       "lettura": "La pausa aerea non cambia la sostanza: la partita si gioca sull'isolamento diplomatico di Taipei e sull'influenza cinese in vista del voto locale di novembre.",
       "posts": [
@@ -316,14 +316,6 @@
           "text": "\"The exercise's live-fire phase, held Aug. 5–14, mobilized twice as many reserve brigades as last year and debuted an anti-decapitation drill that evacuated President Lai Ching-te to the Hengshan Command Post.\"",
           "unverified": false,
           "url": "https://x.com/TaiwanMonitor/status/2113381717314572537"
-        },
-        {
-          "account": "@TaiwanMonitor",
-          "tier": "B",
-          "date": "22 Oct",
-          "text": "\"Taipei Mayor Chiang Wan-an has proposed closing Songshan Airport and redeveloping the site as an AI park. … Minister of Defense Wellington Koo has said any move would require its functions to be replaced…\"",
-          "unverified": false,
-          "url": "https://x.com/TaiwanMonitor/status/2113337087995109739"
         }
       ],
       "mood": "Stallo"
@@ -331,9 +323,9 @@
     {
       "id": "usa-cina",
       "name": "USA-Cina",
-      "riassunto": "Rivalità sotto traccia tra intelligence, energia e capitali. Secondo resoconti da verificare rilanciati da @MarioNawfal, che cita il Washington Post, il Pentagono vorrebbe propri agenti sotto copertura in Cina, presentati come uomini d'affari, per raccogliere segreti economici; il Pentagono smentirebbe. Hu Xijin (@HuXijin_GT, voce di parte) replica che un piano simile, se esiste, sarebbe destinato al fallimento totale, mentre il Global Times (voce di parte) rilancia il dato del ministero del Commercio cinese sugli investimenti americani in Cina, in crescita del 7,7% nei primi nove mesi del 2026.\nSul piano strategico, @Lingling_Wei segnala il commento del Wall Street Journal su un possibile vertice a tre Trump-Putin-Xi, e @BethanyAllenEbr rilancia un rapporto C4ADS sulla cooperazione russo-cinese negli armamenti avanzati. Per @RushDoshi la risposta al vantaggio demografico cinese è la scala delle alleanze, non la crescita della popolazione americana. Sempre secondo resoconti da verificare rilanciati da @MarioNawfal, il vicepresidente Vance difenderebbe l'allentamento delle restrizioni sul gasolio russo con l'argomento che finora a beneficiarne era la Cina, che lo comprava a forte sconto.",
-      "sentiment": "Nessuno strappo, ma competizione sotto traccia: sospetti di spionaggio (secondo resoconti da verificare), cooperazione russo-cinese negli armamenti e ipotesi di vertice a tre ancora sullo sfondo. Mood: Stallo.",
-      "lettura": "Il rapporto resta sospeso tra rivalità di intelligence e tecnologia e diplomazia dei vertici, in attesa dell'APEC di novembre.",
+      "riassunto": "Competizione strategica sotto traccia: @BethanyAllenEbr rilancia un rapporto C4ADS sulla cooperazione russo-cinese negli armamenti avanzati e @Lingling_Wei segnala il commento del Wall Street Journal su un possibile vertice a tre Trump-Putin-Xi. Per @RushDoshi la risposta al vantaggio demografico cinese è la scala delle alleanze, non la crescita della popolazione americana.\nSecondo resoconti da verificare rilanciati da @MarioNawfal, che cita il Washington Post, il Pentagono vorrebbe propri agenti sotto copertura in Cina, presentati come uomini d'affari, per raccogliere segreti economici; il Pentagono smentirebbe. Hu Xijin (@HuXijin_GT, voce di parte) replica che un piano simile, se esiste, sarebbe destinato al fallimento totale, mentre il Global Times (voce di parte) rilancia il dato del ministero del Commercio cinese sugli investimenti americani in Cina, in crescita del 7,7% nei primi nove mesi del 2026. Sempre secondo resoconti da verificare rilanciati da @MarioNawfal, il vicepresidente Vance difenderebbe l'allentamento delle restrizioni sul gasolio russo con l'argomento che finora a beneficiarne era la Cina, che lo comprava a forte sconto.",
+      "sentiment": "Nessuno strappo, ma competizione sotto traccia: un rapporto C4ADS documenta la cooperazione russo-cinese negli armamenti avanzati e l'ipotesi di un vertice a tre Trump-Putin-Xi resta sullo sfondo. Mood: Stallo.",
+      "lettura": "Il rapporto resta sospeso tra competizione militare e tecnologica e diplomazia dei vertici, in attesa dell'APEC di novembre.",
       "posts": [
         {
           "account": "@Lingling_Wei",
@@ -399,7 +391,7 @@
       "name": "India-Pakistan",
       "riassunto": "Confronto a distanza, tutto politico. A Islamabad, nella Giornata delle Nazioni Unite, il vicepremier e ministro degli Esteri Ishaq Dar (@ForeignOfficePk) richiama dialogo, diplomazia e soluzione pacifica delle controversie; Radio Pakistan (voce di parte) riporta che per Dar la disputa su Jammu e Kashmir resta «un'agenda incompiuta» delle Nazioni Unite.\nA Nuova Delhi il ministro della Difesa Rajnath Singh parla oggi (@SpokespersonMoD) alla conferenza dei comandanti dell'esercito, dedicata a prontezza operativa e sviluppo delle capacità. Secondo @ANI, l'ispettore generale della polizia della zona di Jammu, Tejinder Singh, sostiene che negli ultimi due anni il reclutamento di terroristi è stato di fatto azzerato e che ora l'obiettivo è colpire l'«ecosistema del terrore».",
       "sentiment": "Clima stabile: Islamabad rilancia il Kashmir in sede ONU, Nuova Delhi rivendica risultati nell'antiterrorismo nel Jammu e fa il punto sulla prontezza dell'esercito. Mood: Stallo.",
-      "lettura": "Il Kashmir resta il terreno della contesa diplomatica e l'antiterrorismo il linguaggio comune delle due capitali; sul piano militare il quadro è fermo.",
+      "lettura": "Il Kashmir resta il terreno della contesa diplomatica: Islamabad parla di dialogo e di agenda ONU, Nuova Delhi di antiterrorismo e prontezza militare; sul piano militare il quadro è fermo.",
       "posts": [
         {
           "account": "@SpokespersonMoD",
@@ -439,9 +431,9 @@
     {
       "id": "usa-europa",
       "name": "USA-Europa",
-      "riassunto": "Washington spinge sulla pace in Ucraina, l'Europa resta appesa alle sue decisioni. L'ambasciatore americano alla NATO (@USAmbNATO) vede «una reale possibilità di pace» e ribadisce che Trump punta a un accordo che fermi le uccisioni; la NATO (@NATO) mostra coesione con l'attività Neptune Strike, che integra truppe e capacità di 17 Paesi alleati. @yarotrof segnala che Trump ha chiesto a Musk di ripristinare la velocità di Starshield in Ucraina, sottolinea quanto valga per la Russia la pressione americana su Kyiv perché smetta di colpire le raffinerie e registra nuove critiche di senatori repubblicani a un'intesa con Putin.\nSecondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe spiegato che i missili promessi dagli europei non possono essere trasferiti senza il via libera americano, e un economista intervistato temerebbe che una nuova escalation con l'Iran inneschi una crisi finanziaria in Europa.",
-      "sentiment": "Allineamento formale nella NATO, ma l'Europa dipende da Washington su Starshield e sulle forniture a Kyiv, mentre la pressione americana contro i raid sulle raffinerie russe fa discutere. Mood: Escalation.",
-      "lettura": "La ricucitura su Starshield allenta un fronte, ma il peso americano sulle forniture all'Ucraina resta il vero nodo transatlantico.",
+      "riassunto": "Washington spinge sulla pace in Ucraina, l'Europa resta appesa alle sue decisioni. L'ambasciatore americano alla NATO (@USAmbNATO) vede «una reale possibilità di pace» e ribadisce che Trump punta a un accordo che fermi le uccisioni; la NATO (@NATO) mostra coesione con l'attività Neptune Strike, che integra truppe e capacità di 17 Paesi alleati. @yarotrof segnala che Trump ha chiesto a Musk di ripristinare la velocità di Starshield in Ucraina, sottolinea quanto valga per la Russia la pressione americana su Kyiv perché smetta di colpire le raffinerie e registra nuove critiche di senatori repubblicani a un'intesa con Putin.\nSecondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe spiegato che i missili promessi dagli europei non possono essere trasferiti senza il via libera americano, l'ambasciata degli Stati Uniti a Parigi avrebbe invitato i cittadini americani a evitare le proteste in Francia, e un economista intervistato temerebbe che una nuova escalation con l'Iran inneschi una crisi finanziaria in Europa.",
+      "sentiment": "Allineamento formale nella NATO, con Neptune Strike e l'ambasciatore americano che vede «una reale possibilità di pace», ma la pressione di Washington su Kyiv contro i raid sulle raffinerie russe e le critiche dei senatori repubblicani a un'intesa con Putin restano punti di attrito. Mood: Tensione.",
+      "lettura": "La coesione militare regge; il nodo transatlantico è quanto l'Europa riesca a pesare su un negoziato condotto da Washington.",
       "posts": [
         {
           "account": "@USAmbNATO",
@@ -494,20 +486,28 @@
         {
           "account": "@MarioNawfal",
           "tier": "O",
+          "date": "23 Oct",
+          "text": "\"U.S. Embassy WARNS Americans to avoid protests in France after recent riots and looting\" ⚠ NON VERIFICATO",
+          "unverified": true,
+          "url": "https://x.com/MarioNawfal/status/2113403899637801271"
+        },
+        {
+          "account": "@MarioNawfal",
+          "tier": "O",
           "date": "22 Oct",
           "text": "\"The next Iran escalation could trigger a financial crisis in Europe.\" ⚠ NON VERIFICATO",
           "unverified": true,
           "url": "https://x.com/MarioNawfal/status/2113355150018650394"
         }
       ],
-      "mood": "Escalation"
+      "mood": "Tensione"
     },
     {
       "id": "europa-russia",
       "name": "Europa-Russia",
-      "riassunto": "Mosca alza il tono ideologico, l'Europa denuncia la pressione russa. Il ministro degli Esteri Lavrov (@mfa_russia) dice ai nuovi diplomatici che l'Occidente non sarà mai più l'attore dominante e accusa il nazismo, usato come strumento politico, di aver portato al potere a Kyiv un «regime neonazista»; l'Alta rappresentante dell'UE Kaja Kallas (@kajakallas) avverte che gli attacchi russi sempre più intensi contro il traffico nel Mar Nero minacciano la sicurezza alimentare regionale e globale.\nSul negoziato, @JuliaDavisNews mostra un deputato della Duma che spiega perché Mosca è soddisfatta dell'esito dei colloqui ed esperti della tv di Stato secondo cui l'America è stata sconfitta dalla Russia; @Tatarigami_UA legge il dibattito su «chi ha vinto la guerra» come uno stallo strategico in cui nessuno dei due Paesi ha raggiunto i propri obiettivi. Edward Lucas (@edwardlucas), rilanciando il post di @te_rowley sull'inchiesta ICIJ secondo cui la società russa A7 ha trattato almeno 14 miliardi di dollari in contanti in rubli, ricorda che ogni rublo riciclato alimenta la macchina da guerra. La TASS (voce di parte), in russo, riporta il capo di Rosatom Likhachev: senza segnali concreti dal governo ungherese, la centrale nucleare Paks-2 rischia di fermarsi.\nSecondo resoconti da verificare rilanciati da @MarioNawfal, von der Leyen accuserebbe la Russia di usare le migrazioni come arma contro l'Europa, il cancelliere Merz si direbbe più preoccupato dall'impatto russo sulla società tedesca che dall'economia, e un ex commodoro della Royal Navy stimerebbe al 50% il rischio di una guerra tra NATO e Russia.",
+      "riassunto": "Mosca alza il tono ideologico, l'Europa denuncia la pressione russa. Il ministro degli Esteri Lavrov (@mfa_russia) dice ai nuovi diplomatici che l'Occidente non sarà mai più l'attore dominante e accusa il nazismo, usato come strumento politico, di aver portato al potere a Kyiv un «regime neonazista»; l'Alta rappresentante dell'UE Kaja Kallas (@kajakallas) avverte che gli attacchi russi sempre più intensi contro il traffico nel Mar Nero minacciano la sicurezza alimentare regionale e globale.\nSul negoziato, @JuliaDavisNews mostra un deputato della Duma che spiega perché Mosca è soddisfatta dell'esito dei colloqui ed esperti della tv di Stato secondo cui l'America è stata sconfitta dalla Russia; @Tatarigami_UA legge il dibattito su «chi ha vinto la guerra» come uno stallo strategico in cui nessuno dei due Paesi ha raggiunto i propri obiettivi. Edward Lucas (@edwardlucas), sull'inchiesta ICIJ secondo cui la società russa A7 ha trattato almeno 14 miliardi di dollari in contanti in rubli, ricorda che ogni rublo riciclato alimenta la macchina da guerra. La TASS (voce di parte), in russo, riporta il capo di Rosatom Likhachev: senza segnali concreti dal governo ungherese, la centrale nucleare Paks-2 rischia di fermarsi.\nSecondo resoconti da verificare rilanciati da @MarioNawfal, von der Leyen accuserebbe la Russia di usare le migrazioni come arma contro l'Europa, il cancelliere Merz si direbbe più preoccupato dall'impatto russo sulla società tedesca che dall'economia, e un ex commodoro della Royal Navy stimerebbe al 50% il rischio di una guerra tra NATO e Russia.",
       "sentiment": "Pressione russa su più fronti, dal Mar Nero alla retorica ideologica, e soddisfazione ostentata a Mosca per il dialogo con Washington, mentre l'UE cerca di proteggere le rotte del grano. Mood: Escalation.",
-      "lettura": "L'Europa teme che il dialogo Washington-Mosca rafforzi il Cremlino; il Mar Nero è il fronte dove la pressione russa sull'Europa è più concreta.",
+      "lettura": "Mosca ostenta soddisfazione per il dialogo con Washington; il Mar Nero è il fronte dove la pressione russa sull'Europa è più concreta.",
       "posts": [
         {
           "account": "@mfa_russia",
@@ -561,7 +561,7 @@
           "account": "@edwardlucas",
           "tier": "O",
           "date": "22 Oct",
-          "text": "rilancia il post di @te_rowley sull'inchiesta ICIJ sui contanti in rubli trattati dalla società russa A7: \"Remember every rouble laundered this way is killing people in Ukraine, and stoking the war machine for more misery later\"",
+          "text": "sull'inchiesta ICIJ sui contanti in rubli trattati dalla società russa A7: \"Remember every rouble laundered this way is killing people in Ukraine, and stoking the war machine for more misery later\"",
           "unverified": false,
           "url": "https://x.com/edwardlucas/status/2113253034226864461"
         },
@@ -615,7 +615,7 @@
           "text": "\"이두희 국방부차관은 “AI는 미래전의 양상을 변화시키는 핵심기술이자 우리 군의 전투력과 국방운영 전반을 혁신하는 원동력”이라며…\"",
           "unverified": false,
           "url": "https://x.com/ROK_MND/status/2113169368314192119",
-          "translation_it": "«Il viceministro della Difesa Lee Doo-hee: «L'IA è una tecnologia chiave che cambia il volto della guerra futura e il motore che innova la capacità di combattimento e l'intera gestione della difesa delle nostre forze armate»…»"
+          "translation_it": "«Il viceministro della Difesa Lee Doo-hee: “L'IA è una tecnologia chiave che cambia il volto della guerra futura e il motore che innova la capacità di combattimento e l'intera gestione della difesa delle nostre forze armate”…»"
         },
         {
           "account": "@UN_Command",
@@ -661,7 +661,7 @@
           "account": "@CSISKoreaChair",
           "tier": "O",
           "date": "22 Oct",
-          "text": "sull'analisi di Ankit Panda (Carnegie): \"He puts the odds of an APEC meeting below 10%, but says a summit remains possible before Trump’s term ends.\"",
+          "text": "Ankit Panda (Carnegie): \"He puts the odds of an APEC meeting below 10%, but says a summit remains possible before Trump’s term ends.\"",
           "unverified": false,
           "url": "https://x.com/CSISKoreaChair/status/2113294569940918514"
         }

@@ -1,6 +1,6 @@
 # Geo-X-Watch — Giro 8 crisi
 
-Ultimo aggiornamento: **23 Oct 2026 · 06:00 Europe/Monaco** (qc-verify-23oct). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
+Ultimo aggiornamento: **23 Oct 2026 · 06:00 Europe/Monaco** (qc-verify-23oct-fix1). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
 
 # Iran-USA-Israele
 ## Riassunto
@@ -30,7 +30,7 @@ PressTV (voce di parte) riporta che secondo il massimo responsabile della sicure
 - @PressTV — (22 Oct) "Iran’s top security official, Major General Rezaei, warned that continued war against Iran could keep global energy markets unstable for up to three years." ⚠ NON VERIFICATO / voce di parte [https://x.com/PressTV/status/2113226509309689881]
 - @PressTV — (22 Oct) "'Airport for airport': Yemen targets Saudi defense ministry, Aramco, airports with missiles, drones" ⚠ NON VERIFICATO / voce di parte [https://x.com/PressTV/status/2113344637377069544]
 ## Sentiment
-Clima da vigilia: Washington valuta un nuovo ciclo di attacchi e mantiene il blocco navale, Teheran alterna avvertimenti e accuse all'Occidente e, secondo resoconti da verificare, minaccia ritorsioni su tutto il Golfo. Mood: Escalation.
+Clima da vigilia: secondo l'Atlantic, rilanciato da @IranIntl, Washington valuta un nuovo ciclo di attacchi dopo il voto del 3 novembre e mantiene il blocco navale, ormai a 100 giorni, mentre Teheran avverte che una scelta di guerra porterebbe agli Stati Uniti una sconfitta strategica e respinge il racconto occidentale del conflitto. Mood: Escalation.
 
 Lettura della giornata: La data chiave resta il voto americano del 3 novembre: la decisione su nuovi attacchi pesa più di ogni segnale diplomatico, e il blocco navale, ormai a 100 giorni, è la leva che Teheran cerca di spezzare.
 
@@ -72,7 +72,7 @@ Lettura della giornata: Il canale negoziale resta aperto, ma l'intensità degli 
 ## Riassunto
 Pausa nell'attività aerea cinese, pressione su altri piani. Il ministero della Difesa di Taipei (@MoNDefense) non ha rilevato velivoli dell'Esercito popolare di liberazione attorno all'isola, ma 3 unità navali militari e 7 navi governative. Pechino, con la portavoce Mao Ning (@SpoxCHN_MaoNing), avverte che «non c'è zona grigia» sulla questione di Taiwan e chiede alle Filippine di rispettare il principio di una sola Cina con azioni concrete; secondo @TaiwanNewsEN un diplomatico ha detto che Manila lavorerà comunque con Taiwan. La stessa testata riporta l'allarme dell'intelligence taiwanese: la Cina intende offrire biglietti aerei a basso costo ad alcuni residenti taiwanesi perché tornino a votare alle elezioni locali del 28 novembre.
 
-Sul fronte della difesa, @TaiwanMonitor pubblica il bilancio dell'esercitazione Han Kuang 42, che ha mobilitato il doppio delle brigate di riservisti rispetto all'anno scorso e ha introdotto un'esercitazione anti-decapitazione con l'evacuazione del presidente Lai al posto di comando di Hengshan; segnala inoltre la proposta del sindaco di Taipei di chiudere l'aeroporto di Songshan, in gran parte militare, mentre il ministro della Difesa avverte che le sue funzioni andrebbero ricollocate.
+Sul fronte della difesa, @TaiwanMonitor pubblica il bilancio dell'esercitazione Han Kuang 42, che ha mobilitato il doppio delle brigate di riservisti rispetto all'anno scorso e ha introdotto un'esercitazione anti-decapitazione con l'evacuazione del presidente Lai al posto di comando di Hengshan.
 ## [A] Ufficiali
 - @MoNDefense — (23 Oct) "3 PLAN vessels and 7 official ships operating around #Taiwan detected up until 6 a.m. (UTC+8) today. … we did not detect #PLA aircraft operating around Taiwan during this timeframe." [https://x.com/MoNDefense/status/2113435244653408694]
 - @SpoxCHN_MaoNing — (22 Oct) "There is no gray zone on the Taiwan question. The Philippine side should abide by the one-China principle with concrete actions." [https://x.com/SpoxCHN_MaoNing/status/2113192467894059008]
@@ -80,7 +80,6 @@ Sul fronte della difesa, @TaiwanMonitor pubblica il bilancio dell'esercitazione 
 - @TaiwanNewsEN — (23 Oct) "Diplomat says Manila to work with Taiwan despite ‘one China policy’" [https://x.com/TaiwanNewsEN/status/2113443420333388239]
 - @TaiwanNewsEN — (22 Oct) "China plans to provide some Taiwan residents with cheap airline tickets to go home to vote in the Nov. 28 local elections, says Taiwan's intelligence bureau." [https://x.com/TaiwanNewsEN/status/2113161395286204845]
 - @TaiwanMonitor — (22 Oct) "The exercise's live-fire phase, held Aug. 5–14, mobilized twice as many reserve brigades as last year and debuted an anti-decapitation drill that evacuated President Lai Ching-te to the Hengshan Command Post." [https://x.com/TaiwanMonitor/status/2113381717314572537]
-- @TaiwanMonitor — (22 Oct) "Taipei Mayor Chiang Wan-an has proposed closing Songshan Airport and redeveloping the site as an AI park. … Minister of Defense Wellington Koo has said any move would require its functions to be replaced…" [https://x.com/TaiwanMonitor/status/2113337087995109739]
 ## Sentiment
 Calma relativa nei cieli, con nessun velivolo cinese rilevato e meno navi militari, mentre Pechino sposta la pressione sul piano diplomatico e su quello elettorale. Mood: Stallo.
 
@@ -88,9 +87,9 @@ Lettura della giornata: La pausa aerea non cambia la sostanza: la partita si gio
 
 # USA-Cina
 ## Riassunto
-Rivalità sotto traccia tra intelligence, energia e capitali. Secondo resoconti da verificare rilanciati da @MarioNawfal, che cita il Washington Post, il Pentagono vorrebbe propri agenti sotto copertura in Cina, presentati come uomini d'affari, per raccogliere segreti economici; il Pentagono smentirebbe. Hu Xijin (@HuXijin_GT, voce di parte) replica che un piano simile, se esiste, sarebbe destinato al fallimento totale, mentre il Global Times (voce di parte) rilancia il dato del ministero del Commercio cinese sugli investimenti americani in Cina, in crescita del 7,7% nei primi nove mesi del 2026.
+Competizione strategica sotto traccia: @BethanyAllenEbr rilancia un rapporto C4ADS sulla cooperazione russo-cinese negli armamenti avanzati e @Lingling_Wei segnala il commento del Wall Street Journal su un possibile vertice a tre Trump-Putin-Xi. Per @RushDoshi la risposta al vantaggio demografico cinese è la scala delle alleanze, non la crescita della popolazione americana.
 
-Sul piano strategico, @Lingling_Wei segnala il commento del Wall Street Journal su un possibile vertice a tre Trump-Putin-Xi, e @BethanyAllenEbr rilancia un rapporto C4ADS sulla cooperazione russo-cinese negli armamenti avanzati. Per @RushDoshi la risposta al vantaggio demografico cinese è la scala delle alleanze, non la crescita della popolazione americana. Sempre secondo resoconti da verificare rilanciati da @MarioNawfal, il vicepresidente Vance difenderebbe l'allentamento delle restrizioni sul gasolio russo con l'argomento che finora a beneficiarne era la Cina, che lo comprava a forte sconto.
+Secondo resoconti da verificare rilanciati da @MarioNawfal, che cita il Washington Post, il Pentagono vorrebbe propri agenti sotto copertura in Cina, presentati come uomini d'affari, per raccogliere segreti economici; il Pentagono smentirebbe. Hu Xijin (@HuXijin_GT, voce di parte) replica che un piano simile, se esiste, sarebbe destinato al fallimento totale, mentre il Global Times (voce di parte) rilancia il dato del ministero del Commercio cinese sugli investimenti americani in Cina, in crescita del 7,7% nei primi nove mesi del 2026. Sempre secondo resoconti da verificare rilanciati da @MarioNawfal, il vicepresidente Vance difenderebbe l'allentamento delle restrizioni sul gasolio russo con l'argomento che finora a beneficiarne era la Cina, che lo comprava a forte sconto.
 ## [B] Analisti & stampa
 - @Lingling_Wei — (21 Oct) "@WSJopinion weighs in on a potential Trump-Putin-Xi trilateral" [https://x.com/Lingling_Wei/status/2112897552244703470]
 - @BethanyAllenEbr — (22 Oct) "Great C4ADS report on China-Russia advanced weapons cooperation…" [https://x.com/BethanyAllenEbr/status/2113282551569658039]
@@ -102,9 +101,9 @@ Sul piano strategico, @Lingling_Wei segnala il commento del Wall Street Journal 
 - @HuXijin_GT — (22 Oct) "for the U.S. to send spies undercover would be both costly and extremely risky—any such plan by the Pentagon, if it even exists, would be doomed to total failure." ⚠ NON VERIFICATO / voce di parte [https://x.com/HuXijin_GT/status/2113302961514283340]
 - @globaltimesnews — (22 Oct) "#US investment in China rose 7.7% in the first nine months of 2026, a senior official from China's Ministry of Commerce said on Thursday…" ⚠ NON VERIFICATO / voce di parte [https://x.com/globaltimesnews/status/2113291999344546006]
 ## Sentiment
-Nessuno strappo, ma competizione sotto traccia: sospetti di spionaggio (secondo resoconti da verificare), cooperazione russo-cinese negli armamenti e ipotesi di vertice a tre ancora sullo sfondo. Mood: Stallo.
+Nessuno strappo, ma competizione sotto traccia: un rapporto C4ADS documenta la cooperazione russo-cinese negli armamenti avanzati e l'ipotesi di un vertice a tre Trump-Putin-Xi resta sullo sfondo. Mood: Stallo.
 
-Lettura della giornata: Il rapporto resta sospeso tra rivalità di intelligence e tecnologia e diplomazia dei vertici, in attesa dell'APEC di novembre.
+Lettura della giornata: Il rapporto resta sospeso tra competizione militare e tecnologica e diplomazia dei vertici, in attesa dell'APEC di novembre.
 
 # India-Pakistan
 ## Riassunto
@@ -121,13 +120,13 @@ A Nuova Delhi il ministro della Difesa Rajnath Singh parla oggi (@SpokespersonMo
 ## Sentiment
 Clima stabile: Islamabad rilancia il Kashmir in sede ONU, Nuova Delhi rivendica risultati nell'antiterrorismo nel Jammu e fa il punto sulla prontezza dell'esercito. Mood: Stallo.
 
-Lettura della giornata: Il Kashmir resta il terreno della contesa diplomatica e l'antiterrorismo il linguaggio comune delle due capitali; sul piano militare il quadro è fermo.
+Lettura della giornata: Il Kashmir resta il terreno della contesa diplomatica: Islamabad parla di dialogo e di agenda ONU, Nuova Delhi di antiterrorismo e prontezza militare; sul piano militare il quadro è fermo.
 
 # USA-Europa
 ## Riassunto
 Washington spinge sulla pace in Ucraina, l'Europa resta appesa alle sue decisioni. L'ambasciatore americano alla NATO (@USAmbNATO) vede «una reale possibilità di pace» e ribadisce che Trump punta a un accordo che fermi le uccisioni; la NATO (@NATO) mostra coesione con l'attività Neptune Strike, che integra truppe e capacità di 17 Paesi alleati. @yarotrof segnala che Trump ha chiesto a Musk di ripristinare la velocità di Starshield in Ucraina, sottolinea quanto valga per la Russia la pressione americana su Kyiv perché smetta di colpire le raffinerie e registra nuove critiche di senatori repubblicani a un'intesa con Putin.
 
-Secondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe spiegato che i missili promessi dagli europei non possono essere trasferiti senza il via libera americano, e un economista intervistato temerebbe che una nuova escalation con l'Iran inneschi una crisi finanziaria in Europa.
+Secondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe spiegato che i missili promessi dagli europei non possono essere trasferiti senza il via libera americano, l'ambasciata degli Stati Uniti a Parigi avrebbe invitato i cittadini americani a evitare le proteste in Francia, e un economista intervistato temerebbe che una nuova escalation con l'Iran inneschi una crisi finanziaria in Europa.
 ## [A] Ufficiali
 - @USAmbNATO — (22 Oct) "Going into the fifth year of war, there's a real chance for peace in Ukraine." [https://x.com/USAmbNATO/status/2113179649886883842]
 - @NATO — (22 Oct) "17 Allied nations are combining troops and capabilities to operate as a cohesive, integrated force across multiple domains, as the latest iteration of the Neptune Strike enhanced vigilance activity takes place" [https://x.com/NATO/status/2113281788621758508]
@@ -137,17 +136,18 @@ Secondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe spi
 - @yarotrof — (21 Oct) "More pushback from GOP senators. A U.S. alliance with Putin remains deeply unpopular." [https://x.com/yarotrof/status/2112984853222433071]
 ## [O] Opinion / wire
 - @MarioNawfal — (22 Oct) "Europe has missile agreements with Ukraine, but Washington still holds the FINAL SAY on whether those weapons can be delivered." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113352187627569544]
+- @MarioNawfal — (23 Oct) "U.S. Embassy WARNS Americans to avoid protests in France after recent riots and looting" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113403899637801271]
 - @MarioNawfal — (22 Oct) "The next Iran escalation could trigger a financial crisis in Europe." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113355150018650394]
 ## Sentiment
-Allineamento formale nella NATO, ma l'Europa dipende da Washington su Starshield e sulle forniture a Kyiv, mentre la pressione americana contro i raid sulle raffinerie russe fa discutere. Mood: Escalation.
+Allineamento formale nella NATO, con Neptune Strike e l'ambasciatore americano che vede «una reale possibilità di pace», ma la pressione di Washington su Kyiv contro i raid sulle raffinerie russe e le critiche dei senatori repubblicani a un'intesa con Putin restano punti di attrito. Mood: Tensione.
 
-Lettura della giornata: La ricucitura su Starshield allenta un fronte, ma il peso americano sulle forniture all'Ucraina resta il vero nodo transatlantico.
+Lettura della giornata: La coesione militare regge; il nodo transatlantico è quanto l'Europa riesca a pesare su un negoziato condotto da Washington.
 
 # Europa-Russia
 ## Riassunto
 Mosca alza il tono ideologico, l'Europa denuncia la pressione russa. Il ministro degli Esteri Lavrov (@mfa_russia) dice ai nuovi diplomatici che l'Occidente non sarà mai più l'attore dominante e accusa il nazismo, usato come strumento politico, di aver portato al potere a Kyiv un «regime neonazista»; l'Alta rappresentante dell'UE Kaja Kallas (@kajakallas) avverte che gli attacchi russi sempre più intensi contro il traffico nel Mar Nero minacciano la sicurezza alimentare regionale e globale.
 
-Sul negoziato, @JuliaDavisNews mostra un deputato della Duma che spiega perché Mosca è soddisfatta dell'esito dei colloqui ed esperti della tv di Stato secondo cui l'America è stata sconfitta dalla Russia; @Tatarigami_UA legge il dibattito su «chi ha vinto la guerra» come uno stallo strategico in cui nessuno dei due Paesi ha raggiunto i propri obiettivi. Edward Lucas (@edwardlucas), rilanciando il post di @te_rowley sull'inchiesta ICIJ secondo cui la società russa A7 ha trattato almeno 14 miliardi di dollari in contanti in rubli, ricorda che ogni rublo riciclato alimenta la macchina da guerra. La TASS (voce di parte), in russo, riporta il capo di Rosatom Likhachev: senza segnali concreti dal governo ungherese, la centrale nucleare Paks-2 rischia di fermarsi.
+Sul negoziato, @JuliaDavisNews mostra un deputato della Duma che spiega perché Mosca è soddisfatta dell'esito dei colloqui ed esperti della tv di Stato secondo cui l'America è stata sconfitta dalla Russia; @Tatarigami_UA legge il dibattito su «chi ha vinto la guerra» come uno stallo strategico in cui nessuno dei due Paesi ha raggiunto i propri obiettivi. Edward Lucas (@edwardlucas), sull'inchiesta ICIJ secondo cui la società russa A7 ha trattato almeno 14 miliardi di dollari in contanti in rubli, ricorda che ogni rublo riciclato alimenta la macchina da guerra. La TASS (voce di parte), in russo, riporta il capo di Rosatom Likhachev: senza segnali concreti dal governo ungherese, la centrale nucleare Paks-2 rischia di fermarsi.
 
 Secondo resoconti da verificare rilanciati da @MarioNawfal, von der Leyen accuserebbe la Russia di usare le migrazioni come arma contro l'Europa, il cancelliere Merz si direbbe più preoccupato dall'impatto russo sulla società tedesca che dall'economia, e un ex commodoro della Royal Navy stimerebbe al 50% il rischio di una guerra tra NATO e Russia.
 ## [A] Ufficiali
@@ -159,7 +159,7 @@ Secondo resoconti da verificare rilanciati da @MarioNawfal, von der Leyen accuse
 - @JuliaDavisNews — (22 Oct) "state TV experts asserted that America was defeated by the Russian Federation and will likewise lose to Iran." [https://x.com/JuliaDavisNews/status/2113315607475351926]
 - @Tatarigami_UA — (22 Oct) "Which brings us to “both countries lost”, or, in more academic terms, something closer to a strategic stalemate." [https://x.com/Tatarigami_UA/status/2113141503262601395]
 ## [O] Opinion / wire
-- @edwardlucas — (22 Oct) rilancia il post di @te_rowley sull'inchiesta ICIJ sui contanti in rubli trattati dalla società russa A7: "Remember every rouble laundered this way is killing people in Ukraine, and stoking the war machine for more misery later" [https://x.com/edwardlucas/status/2113253034226864461]
+- @edwardlucas — (22 Oct) sull'inchiesta ICIJ sui contanti in rubli trattati dalla società russa A7: "Remember every rouble laundered this way is killing people in Ukraine, and stoking the war machine for more misery later" [https://x.com/edwardlucas/status/2113253034226864461]
 - @MarioNawfal — (22 Oct) "Ursula von der Leyen says RUSSIA IS USING MASS MIGRATION as a weapon against EUROPE" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113373777597997295]
 - @MarioNawfal — (23 Oct) "The Chancellor says Russia’s impact on German society worries him more than the economy…" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113476758037209472]
 - @MarioNawfal — (22 Oct) "Retired Royal Navy Commondore Steve Jermy puts the risk of a NATO-Russia war at roughly 50/50." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113351180403531915]
@@ -169,7 +169,7 @@ Secondo resoconti da verificare rilanciati da @MarioNawfal, von der Leyen accuse
 ## Sentiment
 Pressione russa su più fronti, dal Mar Nero alla retorica ideologica, e soddisfazione ostentata a Mosca per il dialogo con Washington, mentre l'UE cerca di proteggere le rotte del grano. Mood: Escalation.
 
-Lettura della giornata: L'Europa teme che il dialogo Washington-Mosca rafforzi il Cremlino; il Mar Nero è il fronte dove la pressione russa sull'Europa è più concreta.
+Lettura della giornata: Mosca ostenta soddisfazione per il dialogo con Washington; il Mar Nero è il fronte dove la pressione russa sull'Europa è più concreta.
 
 # Coree
 ## Riassunto
@@ -178,7 +178,7 @@ Pyongyang alza i toni lungo il confine. Secondo NK News (@nknewsorg), Kim Yo Jon
 Per il CSIS Korea Chair (@CSISKoreaChair), Pyongyang non ha rallentato la serie di test missilistici nonostante gli appelli di Trump al vertice, e l'analista Ankit Panda stima sotto il 10% le probabilità di un incontro all'APEC, pur ritenendo possibile un vertice prima della fine del mandato di Trump. A Seul il viceministro della Difesa (@ROK_MND), in coreano, presenta l'intelligenza artificiale come tecnologia chiave della guerra futura; il Comando ONU (@UN_Command) discute con il RUSI del proprio ruolo nel garantire l'armistizio.
 ## [A] Ufficiali
 - @ROK_MND — (22 Oct) "이두희 국방부차관은 “AI는 미래전의 양상을 변화시키는 핵심기술이자 우리 군의 전투력과 국방운영 전반을 혁신하는 원동력”이라며…"
-  IT: «Il viceministro della Difesa Lee Doo-hee: «L'IA è una tecnologia chiave che cambia il volto della guerra futura e il motore che innova la capacità di combattimento e l'intera gestione della difesa delle nostre forze armate»…» [https://x.com/ROK_MND/status/2113169368314192119]
+  IT: «Il viceministro della Difesa Lee Doo-hee: “L'IA è una tecnologia chiave che cambia il volto della guerra futura e il motore che innova la capacità di combattimento e l'intera gestione della difesa delle nostre forze armate”…» [https://x.com/ROK_MND/status/2113169368314192119]
 - @UN_Command — (22 Oct) "LTGEN Winter joins @RUSI_org’s Global Security Briefing to discuss UNC’s role in upholding the Armistice, evolving security challenges, and common misconceptions about the Command." [https://x.com/UN_Command/status/2113055610602442796]
 ## [B] Analisti & stampa
 - @nknewsorg — (22 Oct) "Kim Yo Jong demanded a South Korean presidential adviser “stop rambling and shut his mouth” after he criticized Pyongyang’s plan to restart border loudspeakers. … She declared they will be operational “within days."" [https://x.com/nknewsorg/status/2113142110366941253]
@@ -186,7 +186,7 @@ Per il CSIS Korea Chair (@CSISKoreaChair), Pyongyang non ha rallentato la serie 
 - @nknewsorg — (20 Oct) "U.S. President Donald Trump appeared to cast doubt on prospects for a meeting with North Korean leader Kim Jong Un in China next month…" [https://x.com/nknewsorg/status/2112456078856163635]
 ## [O] Opinion / wire
 - @CSISKoreaChair — (22 Oct) "North Korea has not slowed its missile-testing spree amid President Trump’s calls for summitry with his “friend” Kim Jong-un…" [https://x.com/CSISKoreaChair/status/2113358323076731084]
-- @CSISKoreaChair — (22 Oct) sull'analisi di Ankit Panda (Carnegie): "He puts the odds of an APEC meeting below 10%, but says a summit remains possible before Trump’s term ends." [https://x.com/CSISKoreaChair/status/2113294569940918514]
+- @CSISKoreaChair — (22 Oct) Ankit Panda (Carnegie): "He puts the odds of an APEC meeting below 10%, but says a summit remains possible before Trump’s term ends." [https://x.com/CSISKoreaChair/status/2113294569940918514]
 ## Sentiment
 Retorica nordcoreana in salita, con gli altoparlanti pronti a ripartire e nuovi movimenti di fronte alle isole di confine, mentre le prospettive di un vertice Trump-Kim si allontanano. Mood: Escalation.
 
