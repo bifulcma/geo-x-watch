@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "giro_date": "2026-10-24",
+  "published_at": "2026-10-24T00:34:01+02:00",
+  "edition_stamp": "PROVA · 24 Oct 2026 · 00:34 Europe/Monaco (test, non War Index)",
+  "edition_id": "PROVA-2026-10-24-0034",
+  "timezone": "Europe/Monaco",
+  "site_url": "https://geo-x-watch.vercel.app/",
+  "tiers": {
+    "A": "Ufficiali",
+    "B": "Analisti & stampa",
+    "O": "Opinion / wire",
+    "C": "Controversi / propaganda (NON VERIFICATO)"
+  },
+  "crises": [
+    {
+      "id": "iran",
+      "name": "Iran-USA-Israele",
+      "riassunto": "Il fatto nuovo arriva da una fonte di parte. PressTV, la tv di Stato iraniana, riporta che secondo i Pasdaran (IRGC) due superpetroliere che cercavano di attraversare lo Stretto di Hormuz su una rotta «non autorizzata» hanno urtato mine navali e sono esplose, abbandonate dagli equipaggi. La notizia non è confermata da fonti indipendenti. Sempre PressTV rilancia l'invito di Teheran all'AIEA a «smettere i doppi standard».\nIl Comando centrale americano (@CENTCOM) pubblica solo immagini di routine di rifornimento in volo sul Medio Oriente. L'analista @SinaToossi si chiede fin dove l'amministrazione Trump sia pronta a spingere l'escalation e quanto a lungo voglia mantenere il blocco navale.",
+      "sentiment": "Tensione alta attorno a Hormuz, con un incidente navale riferito solo da fonti iraniane. Mood: Escalation.",
+      "lettura": "conta se l'esplosione delle petroliere a Hormuz viene confermata da fonti indipendenti o da CENTCOM.",
+      "posts": [
+        {
+          "account": "@CENTCOM",
+          "tier": "A",
+          "date": "23 Oct",
+          "text": "\"A U.S. Air Force Airman watches F-16 fighter jets approach a KC-135 Stratotanker to refuel while flying over the Middle East.\"",
+          "unverified": false,
+          "url": "https://x.com/CENTCOM/status/2113692118787207253",
+          "translation_it": "",
+          "novita": "ripetizione",
+          "inizio": "",
+          "paesi": [
+            "USA"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@SinaToossi",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"The need for such a denial is itself telling. How far is the Trump administration really prepared to escalate? How long is it willing to sustain the blockade? And perhaps most importantly, what exactly is its endgame?\"",
+          "unverified": false,
+          "url": "https://x.com/SinaToossi/status/2113688785229905979",
+          "translation_it": "",
+          "novita": "aggiornamento",
+          "inizio": "",
+          "paesi": [
+            "USA",
+            "Iran"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@SinaToossi",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"Tom Barrack is an odd & interesting contradiction. He often recognizes how foreign intervention has devastated the Middle East & here, even that making Iranians poorer won't bring positive political change. Yet he helps spearhead US policies doing just that.\"",
+          "unverified": false,
+          "url": "https://x.com/SinaToossi/status/2113694393504862224",
+          "translation_it": "",
+          "novita": "ripetizione",
+          "inizio": "",
+          "paesi": [
+            "USA",
+            "Iran"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@PressTV",
+          "tier": "C",
+          "date": "23 Oct",
+          "text": "\"Iran’s IRGC says two supertankers attempting to navigate in the Strait of Hormuz through an unauthorized route struck naval mines.\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/PressTV/status/2113721137205002665",
+          "translation_it": "",
+          "novita": "nuovo",
+          "inizio": "2026-10-23",
+          "paesi": [
+            "Iran"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@PressTV",
+          "tier": "C",
+          "date": "23 Oct",
+          "text": "\"Two unauthorized tankers explode in Hormuz, abandoned by crews after mine strikes: IRGC\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/PressTV/status/2113753684689711421",
+          "translation_it": "",
+          "novita": "aggiornamento",
+          "inizio": "2026-10-23",
+          "paesi": [
+            "Iran"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@PressTV",
+          "tier": "C",
+          "date": "23 Oct",
+          "text": "\"Tehran urges IAEA to 'end double standards, resist politicization'\" ⚠ NON VERIFICATO / voce di parte",
+          "unverified": true,
+          "url": "https://x.com/PressTV/status/2113738495730831735",
+          "translation_it": "",
+          "novita": "ripetizione",
+          "inizio": "",
+          "paesi": [
+            "Iran"
+          ],
+          "soglia": ""
+        }
+      ],
+      "mood": "Escalation",
+      "qualita": "buona",
+      "qualita_nota": ""
+    },
+    {
+      "id": "india-pakistan",
+      "name": "India-Pakistan",
+      "riassunto": "Nessun post pertinente nella raccolta di prova: i post di @ANI e @Natsecjeff riguardano temi interni indiani o la Francia, e non ci sono post di MoD, ISPR o PTI.",
+      "sentiment": "Nessun fatto nuovo nella raccolta. Mood: Stabile.",
+      "lettura": "serve una ricerca più ampia su Kashmir e Linea di controllo.",
+      "posts": [],
+      "mood": "Stabile",
+      "qualita": "scarsa",
+      "qualita_nota": "solo 0 post (minimo 4); nessun post [A] o [B]"
+    },
+    {
+      "id": "europa-russia",
+      "name": "Europa-Russia",
+      "riassunto": "Nessun post pertinente nella raccolta di prova: i post di TASS e @JuliaDavisNews non riguardano un confronto diretto Russia-Europa.",
+      "sentiment": "Nessun fatto nuovo nella raccolta. Mood: Stabile.",
+      "lettura": "serve una ricerca più ampia su sabotaggi, droni e Baltico.",
+      "posts": [],
+      "mood": "Stabile",
+      "qualita": "scarsa",
+      "qualita_nota": "solo 0 post (minimo 4); nessun post [A] o [B]"
+    },
+    {
+      "id": "ucraina",
+      "name": "Ucraina",
+      "riassunto": "Lo Stato maggiore ucraino, secondo @wartranslated, annuncia un cessate il fuoco in zone designate di Oleshky occupata dal 27 ottobre alle 03:00 ora di Kyiv, per un'operazione umanitaria. È una tregua locale, non un cessate il fuoco generale. In serata le sirene antiaeree suonano in diverse regioni russe.\nPochi post nelle 72 ore: la raccolta di prova non ha trovato messaggi degli account ufficiali sul fronte.",
+      "sentiment": "Guerra di logoramento invariata, con una piccola tregua umanitaria locale. Mood: Stabile.",
+      "lettura": "conta se la tregua di Oleshky del 27 ottobre regge davvero.",
+      "posts": [
+        {
+          "account": "@wartranslated",
+          "tier": "O",
+          "date": "23 Oct",
+          "text": "\"Ukraine is introducing a ceasefire in designated areas of occupied Oleshky starting October 27 at 3:00 AM Kyiv time to facilitate a humanitarian operation, the General Staff announced.\"",
+          "unverified": false,
+          "url": "https://x.com/wartranslated/status/2113723040093929595",
+          "translation_it": "",
+          "novita": "nuovo",
+          "inizio": "2026-10-23",
+          "paesi": [
+            "Ucraina",
+            "Russia"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@wartranslated",
+          "tier": "O",
+          "date": "23 Oct",
+          "text": "\"Air raid sirens are spreading across a number of Russian regions right now.\"",
+          "unverified": false,
+          "url": "https://x.com/wartranslated/status/2113729642750410794",
+          "translation_it": "",
+          "novita": "nuovo",
+          "inizio": "2026-10-23",
+          "paesi": [
+            "Ucraina",
+            "Russia"
+          ],
+          "soglia": ""
+        }
+      ],
+      "mood": "Stabile",
+      "qualita": "scarsa",
+      "qualita_nota": "solo 2 post (minimo 4); nessun post [A] o [B]"
+    },
+    {
+      "id": "taiwan",
+      "name": "Stretto di Taiwan",
+      "riassunto": "Secondo l'Institute for the Study of War (@TheStudyofWar), i responsabili della sicurezza di Taiwan segnalano più operazioni di influenza cinesi, con contenuti generati dall'IA e attacchi informatici, per polarizzare il pubblico e ridurre l'affluenza. Sono attese in crescita fino alle elezioni locali del 28 novembre.\nNessun dato nuovo su sortite o esercitazioni nella raccolta di prova.",
+      "sentiment": "Pressione cinese ibrida, senza segnali militari nuovi. Mood: Stabile.",
+      "lettura": "conta l'interferenza cinese in vista del voto locale del 28 novembre.",
+      "posts": [
+        {
+          "account": "@TheStudyofWar",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"NEW: Taiwanese national security and policy officials are reporting increased People’s Republic of China (PRC) influence operations using AI-generated content and cyberattacks to increase polarization, reduce public trust in the Taiwanese government, and reduce voter turnout.\"",
+          "unverified": false,
+          "url": "https://x.com/TheStudyofWar/status/2113749711333024221",
+          "translation_it": "",
+          "novita": "aggiornamento",
+          "inizio": "",
+          "paesi": [
+            "Cina",
+            "Taiwan"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@TheStudyofWar",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"2/ China & Taiwan Update, October 23, 2026:\"",
+          "unverified": false,
+          "url": "https://x.com/TheStudyofWar/status/2113749734863020141",
+          "translation_it": "",
+          "novita": "aggiornamento",
+          "inizio": "",
+          "paesi": [
+            "Cina",
+            "Taiwan"
+          ],
+          "soglia": ""
+        }
+      ],
+      "mood": "Stabile",
+      "qualita": "scarsa",
+      "qualita_nota": "solo 2 post (minimo 4)"
+    },
+    {
+      "id": "usa-europa",
+      "name": "USA-Europa",
+      "riassunto": "Nessun post pertinente nella raccolta di prova: i post trovati riguardano Ucraina-NATO, la pesca americana o temi interni UE.",
+      "sentiment": "Nessun fatto nuovo nella raccolta. Mood: Stabile.",
+      "lettura": "serve una ricerca più ampia su dazi e truppe americane.",
+      "posts": [],
+      "mood": "Stabile",
+      "qualita": "scarsa",
+      "qualita_nota": "solo 0 post (minimo 4); nessun post [A] o [B]"
+    },
+    {
+      "id": "coree",
+      "name": "Coree",
+      "riassunto": "Secondo cinque fonti citate e rilanciate da @DerekJGrossman, funzionari americani e sudcoreani vedono sempre meno probabile un incontro fra Trump e Kim Jong Un entro l'anno. NK News nota che i media di Stato nordcoreani non hanno dato conto delle dichiarazioni di Kim Yo Jong contro Seul.\nIl CSIS (@CSISKoreaChair) discute le nuove fortificazioni di confine del Nord e il rischio che un errore di calcolo porti a un conflitto più ampio.",
+      "sentiment": "Tensione al confine, diplomazia in stallo. Mood: Stabile.",
+      "lettura": "conta se il Nord risponde con test o mosse al confine mentre il vertice si allontana.",
+      "posts": [
+        {
+          "account": "@DerekJGrossman",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"US and South Korean officials see fading chances of a meeting between President Donald Trump and North Korean leader Kim Jong Un this year, according to five people with knowledge of the situation.\"",
+          "unverified": false,
+          "url": "https://x.com/DerekJGrossman/status/2113693682486698426",
+          "translation_it": "",
+          "novita": "aggiornamento",
+          "inizio": "",
+          "paesi": [
+            "USA",
+            "Corea del Nord",
+            "Corea del Sud"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@nknewsorg",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"ICYMI: North Korea leaves citizens in the dark about tensions on inter-Korean border: North Korean state media offered no coverage of Kim Yo Jong’s statements attacking South Korea this week\"",
+          "unverified": false,
+          "url": "https://x.com/nknewsorg/status/2113722207725867043",
+          "translation_it": "",
+          "novita": "ripetizione",
+          "inizio": "",
+          "paesi": [
+            "Corea del Nord",
+            "Corea del Sud"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@CSISKoreaChair",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"What do North Korea’s recent border fortifications mean for the security landscape on the Korean Peninsula? Is dialogue still possible despite rising tensions, or could a miscalculation spiral into a broader conflict?\"",
+          "unverified": false,
+          "url": "https://x.com/CSISKoreaChair/status/2113718853180277117",
+          "translation_it": "",
+          "novita": "ripetizione",
+          "inizio": "",
+          "paesi": [
+            "Corea del Nord",
+            "Corea del Sud"
+          ],
+          "soglia": ""
+        },
+        {
+          "account": "@CSISKoreaChair",
+          "tier": "B",
+          "date": "23 Oct",
+          "text": "\"ICYMI: The Impossible State | Missile Madness: Prelude to Summit?\"",
+          "unverified": false,
+          "url": "https://x.com/CSISKoreaChair/status/2113700765793493242",
+          "translation_it": "",
+          "novita": "ripetizione",
+          "inizio": "",
+          "paesi": [
+            "Corea del Nord",
+            "USA"
+          ],
+          "soglia": ""
+        }
+      ],
+      "mood": "Stabile",
+      "qualita": "buona",
+      "qualita_nota": ""
+    },
+    {
+      "id": "usa-cina",
+      "name": "USA-Cina",
+      "riassunto": "Nessun post pertinente nella raccolta di prova: i post trovati (pesca americana, dazi sul Canada, terremoto in Tibet, Zelensky e Pechino) non riguardano il rapporto USA-Cina.",
+      "sentiment": "Nessun fatto nuovo nella raccolta. Mood: Stabile.",
+      "lettura": "serve una ricerca più ampia su dazi e chip.",
+      "posts": [],
+      "mood": "Stabile",
+      "qualita": "scarsa",
+      "qualita_nota": "solo 0 post (minimo 4); nessun post [A] o [B]"
+    }
+  ]
+}
