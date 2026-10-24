@@ -1,10 +1,10 @@
 # Geo-X-Watch — Giro 8 crisi
 
-Ultimo aggiornamento: **24 Oct 2026 · 03:40 Europe/Monaco** (qc-verify-24oct). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
+Ultimo aggiornamento: **24 Oct 2026 · 03:40 Europe/Monaco** (qc-verify-24oct-fix1). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
 
 # Iran-USA-Israele
 ## Riassunto
-Washington alza di nuovo il tono. Secondo uno scoop di Axios firmato da @BarakRavid, l'intelligence americana ha rilevato che l'Iran ha «sostanzialmente aumentato» i tentativi di colpire diplomatici e funzionari statunitensi in Medio Oriente e altrove, con piani letali giunti a «fasi avanzate». Un inviato americano, citato da @AlArabiya_Eng, afferma che gli Stati Uniti potrebbero colpire l'Iran già questo fine settimana, e Trump, in un comizio in Florida rilanciato da Sputnik, evoca «un'altra piccola Epic Fury». Secondo il New York Times, ripreso dal @Jerusalem_Post, le forze armate americane e israeliane hanno pronto un piano per un'operazione breve e intensa, di circa tre giorni, contro infrastrutture nucleari ed energetiche, mentre Netanyahu dice che non chiederà a Trump il via libera per colpire.
+Washington alza di nuovo il tono. Secondo uno scoop di Axios firmato da @BarakRavid, l'intelligence americana ha rilevato che l'Iran ha «sostanzialmente aumentato» i tentativi di colpire diplomatici e funzionari statunitensi in Medio Oriente e altrove, con piani letali giunti a «fasi avanzate». Un inviato americano, citato da @AlArabiya_Eng, afferma che gli Stati Uniti potrebbero colpire l'Iran già questo fine settimana, e Trump, in un comizio a Fort Myers rilanciato da Sputnik (voce di parte), avrebbe evocato «un'altra piccola Epic Fury». Secondo il New York Times, ripreso dal @Jerusalem_Post, le forze armate americane e israeliane hanno pronto un piano per un'operazione breve e intensa, di circa tre giorni, contro infrastrutture nucleari ed energetiche, mentre Netanyahu dice che non chiederà a Trump il via libera per colpire.
 
 Cresce anche la pressione economica: secondo un articolo rilanciato da @JasonMBrodsky, Iraq e Pakistan stanno chiudendo alcune rotte terrestri da e per l'Iran, dopo che blocco navale e sanzioni sulle compagnie aeree hanno già tagliato gran parte dei collegamenti. Teheran risponde con le minacce: secondo il segretario del Consiglio supremo di sicurezza nazionale Rezaei, citato da @hdagres, in caso di nuovo attacco l'Iran colpirebbe impianti petroliferi, cavi sottomarini e data center in sette Paesi del Golfo. PressTV (voce di parte) riporta la versione dei Pasdaran: due petroliere «non autorizzate» sarebbero esplose su mine nello Stretto di Hormuz, senza conferme indipendenti.
 ## [A] Ufficiali
@@ -33,7 +33,7 @@ Lettura della giornata: Il fine settimana è la finestra da guardare: le dichiar
 
 # Ucraina
 ## Riassunto
-Sul fronte della guerra aerea continuano i raid in profondità. Secondo @Osinttechnical, nella notte di venerdì un nuovo raid di droni ucraini è in corso sulla Russia occidentale, con due direttrici verso l'area di Mosca e il bacino del Volga, dopo quello di diverse centinaia di droni della notte precedente; secondo @visegrad24, droni ucraini hanno colpito un data center del servizio fiscale federale russo nella regione di Nizhny Novgorod, con conferma dell'amministrazione locale. Reuters ricorda che la Russia ha bombardato Kyiv nonostante si parli di riaprire i negoziati.
+Sul fronte della guerra aerea continuano i raid in profondità. Secondo @Osinttechnical, nella notte di venerdì un nuovo raid di droni ucraini è in corso sulla Russia occidentale, con due direttrici verso l'area di Mosca e il bacino del Volga, dopo quello di diverse centinaia di droni della notte precedente; secondo @visegrad24, droni ucraini avrebbero colpito un data center del servizio fiscale federale russo nella regione di Nizhny Novgorod; l'amministrazione distrettuale conferma un attacco con droni e la caduta di detriti. Reuters ricorda che la Russia ha bombardato Kyiv nonostante si parli di riaprire i negoziati.
 
 Sul piano umanitario, lo Stato maggiore ucraino, citato da @wartranslated, introduce dal 27 ottobre un cessate il fuoco in zone designate di Oleshky, città occupata, per permettere un'operazione umanitaria; il portavoce del Cremlino Peskov, rilanciato da @mfa_russia, conferma che il ministero della Difesa russo coordina la tregua dalle 4:00 ora di Mosca, per lasciar uscire chi vuole. @IAPonomarenko racconta il nuovo scambio di prigionieri: tra i rientrati, marines catturati a Mariupol nel 2022 e cinque uomini che si credevano uccisi a Olenivka.
 ## [A] Ufficiali
@@ -54,7 +54,7 @@ Sul piano umanitario, lo Stato maggiore ucraino, citato da @wartranslated, intro
 ## Sentiment
 La guerra dei droni prosegue a ritmo pieno in entrambe le direzioni, ma la tregua locale concordata per Oleshky e il nuovo scambio di prigionieri mostrano piccoli spiragli umanitari. Mood: Stabile.
 
-Lettura della giornata: Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, è il primo impegno verificabile sul terreno dopo settimane di soli raid.
+Lettura della giornata: Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, è il primo impegno verificabile sul terreno dopo settimane dominate dai raid.
 
 # Stretto di Taiwan
 ## Riassunto
@@ -105,7 +105,7 @@ Lettura della giornata: La scadenza del 10 gennaio è il prossimo banco di prova
 
 # India-Pakistan
 ## Riassunto
-Nessuno scontro lungo la Linea di controllo nelle ultime 72 ore; la crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.
+Nei post raccolti non risultano scontri lungo la Linea di controllo; la crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.
 
 Il servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (voce di parte), accusa «terroristi sponsorizzati dall'India» di aver tentato attacchi il 22 ottobre nel distretto di Gwadar, in Belucistan; Nuova Delhi non ha commentato nei post raccolti.
 ## [A] Ufficiali
@@ -137,9 +137,9 @@ Lettura della giornata: Il nodo acciaio-Big Tech è la moneta di scambio da segu
 
 # Europa-Russia
 ## Riassunto
-Il Mar Nero porta la tensione alle porte della NATO. Il presidente romeno Nicușor Dan, secondo @rasimasker in turco, attribuisce alla Russia l'attacco con drone che ha affondato il mercantile Khoryv: almeno un marittimo morto e tre dispersi, mentre la NATO prevede di inviare nella zona aerei e droni aggiuntivi. L'Alta rappresentante Ue @kajakallas definisce gli attacchi russi contro le navi civili nel Mar Nero ingiustificabili e «un'altra escalation».
+Il Mar Nero porta la tensione alle porte della NATO. Secondo l'account turco @rasimasker, il presidente romeno Nicușor Dan avrebbe attribuito alla Russia l'attacco con drone che ha affondato il mercantile Khoryv: almeno un marittimo morto e tre dispersi; la NATO prevederebbe di inviare nella zona aerei e droni aggiuntivi. L'Alta rappresentante Ue @kajakallas definisce gli attacchi russi contro le navi civili nel Mar Nero ingiustificabili e «un'altra escalation».
 
-Sul piano più ampio, l'ISW (@TheStudyofWar) parla di una serie crescente di campagne cinetiche del Cremlino contro l'Europa e avverte che chiamarle «attacchi ibridi» rischia di indebolire la risposta. Secondo il Wall Street Journal, citato da @Faytuks, dopo il fallito attacco di Lipsia un funzionario del Cremlino ha fatto sapere alla Germania che «non sarà l'ultimo». L'Estonia, su @MirrorNow, avverte che la Russia sta già mettendo alla prova la sicurezza europea con guerra ibrida, droni e attacchi informatici, e von der Leyen, citata da @euronews, ribadisce che le sanzioni sull'energia russa resteranno finché Mosca non metterà fine alla guerra.
+Sul piano più ampio, l'ISW (@TheStudyofWar) parla di una serie crescente di campagne cinetiche del Cremlino contro l'Europa e avverte che chiamarle «attacchi ibridi» rischia di indebolire la risposta. Secondo il Wall Street Journal, citato da @Faytuks, dopo il fallito attacco di Lipsia un funzionario del Cremlino avrebbe fatto sapere alla Germania che «non sarà l'ultimo». L'Estonia, su @MirrorNow, avverte che la Russia sta già mettendo alla prova la sicurezza europea con guerra ibrida, droni e attacchi informatici, e von der Leyen, citata da @euronews, ribadisce che le sanzioni sull'energia russa resteranno finché Mosca non metterà fine alla guerra.
 ## [A] Ufficiali
 - @kajakallas — (23 Oct) "Russian attacks on civilian ships in the Black Sea are unjustifiable and pile heavy pressure on global food supplies. The latest deadly drone strike on a cargo ship near Romanian waters is another escalation." [https://x.com/kajakallas/status/2113685521658437938]
   META: novita=nuovo; inizio=2026-10-22; paesi=UE,Russia,Romania
@@ -157,13 +157,13 @@ Sul piano più ampio, l'ISW (@TheStudyofWar) parla di una serie crescente di cam
 - @Faytuks — (21 Oct) "A Kremlin official told Germany through a backchannel after the failed Leipzig attack that this "wouldn’t be the last attack." -WSJ" ⚠ NON VERIFICATO [https://x.com/Faytuks/status/2112872567392624994]
   META: novita=nuovo; inizio=2026-10-21; paesi=Russia,Germania
 ## Sentiment
-Il mercantile affondato al largo della Romania, con l'attribuzione esplicita a Mosca da parte del presidente romeno e i rinforzi NATO in arrivo, alza il livello dello scontro sul fianco orientale. Mood: Escalation.
+L'Alta rappresentante Ue Kallas definisce l'ultimo attacco mortale con drone contro un mercantile vicino alle acque romene "un'altra escalation"; secondo fonti non ufficiali la NATO valuta rinforzi aerei nel Mar Nero. Mood: Escalation.
 
 Lettura della giornata: La risposta della NATO nel Mar Nero è il punto da seguire: rinforzi aerei e droni sono un segnale di deterrenza, ma ogni nuovo attacco vicino alle acque romene avvicina il confine tra guerra ibrida e confronto diretto.
 
 # Coree
 ## Riassunto
-Pyongyang rilancia il riarmo convenzionale. Secondo la KCNA, citata da @NDTVWorld, Kim Jong Un ha chiesto una «rivoluzione militare» e un esercito «il più forte» a una conferenza di comandanti di compagnia a Pyongyang. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.
+Pyongyang rilancia il riarmo convenzionale. Secondo @NDTVWorld, Kim Jong Un ha chiesto una "rivoluzione militare" e reparti più forti. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.
 ## [B] Analisti & stampa
 - @NDTVWorld — (24 Oct) "Kim Jong Un Calls For "Military Revolution" As He Urges Stronger Army Units" [https://x.com/NDTVWorld/status/2113795587707670729]
   META: novita=nuovo; inizio=2026-10-23; paesi=Corea del Nord
