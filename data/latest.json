@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "giro_date": "2026-10-24",
-  "published_at": "2026-10-24T09:16:28+02:00",
-  "edition_stamp": "24 Oct 2026 · 03:40 Europe/Monaco (qc-verify-24oct-fix1)",
-  "edition_id": "qc-verify-24oct-fix1",
+  "published_at": "2026-10-24T09:19:32+02:00",
+  "edition_stamp": "24 Oct 2026 · 03:40 Europe/Monaco (qc-verify-24oct-fix2)",
+  "edition_id": "qc-verify-24oct-fix2",
   "timezone": "Europe/Monaco",
   "site_url": "https://geo-x-watch.vercel.app/",
   "tiers": {
@@ -161,8 +161,8 @@
     {
       "id": "india-pakistan",
       "name": "India-Pakistan",
-      "riassunto": "Nei post raccolti non risultano scontri lungo la Linea di controllo; la crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.\nIl servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (voce di parte), accusa «terroristi sponsorizzati dall'India» di aver tentato attacchi il 22 ottobre nel distretto di Gwadar, in Belucistan; Nuova Delhi non ha commentato nei post raccolti.",
-      "sentiment": "Nessun fatto militare nuovo tra i due Paesi: solo schermaglie verbali e le consuete accuse pakistane di ingerenza indiana in Belucistan. Mood: Stabile.",
+      "riassunto": "La crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.\nIl servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (voce di parte), accusa «terroristi sponsorizzati dall'India» di aver tentato attacchi il 22 ottobre nel distretto di Gwadar, in Belucistan.",
+      "sentiment": "Il confronto resta verbale: schermaglie diplomatiche e accuse pakistane di ingerenza indiana in Belucistan. Mood: Stabile.",
       "lettura": "Il ruolo di mediazione che Washington rivendica sul Trattato dell'Indo è il filo da seguire, più delle accuse incrociate sul terrorismo.",
       "posts": [
         {
@@ -241,8 +241,8 @@
       "id": "europa-russia",
       "name": "Europa-Russia",
       "riassunto": "Il Mar Nero porta la tensione alle porte della NATO. Secondo l'account turco @rasimasker, il presidente romeno Nicușor Dan avrebbe attribuito alla Russia l'attacco con drone che ha affondato il mercantile Khoryv: almeno un marittimo morto e tre dispersi; la NATO prevederebbe di inviare nella zona aerei e droni aggiuntivi. L'Alta rappresentante Ue @kajakallas definisce gli attacchi russi contro le navi civili nel Mar Nero ingiustificabili e «un'altra escalation».\nSul piano più ampio, l'ISW (@TheStudyofWar) parla di una serie crescente di campagne cinetiche del Cremlino contro l'Europa e avverte che chiamarle «attacchi ibridi» rischia di indebolire la risposta. Secondo il Wall Street Journal, citato da @Faytuks, dopo il fallito attacco di Lipsia un funzionario del Cremlino avrebbe fatto sapere alla Germania che «non sarà l'ultimo». L'Estonia, su @MirrorNow, avverte che la Russia sta già mettendo alla prova la sicurezza europea con guerra ibrida, droni e attacchi informatici, e von der Leyen, citata da @euronews, ribadisce che le sanzioni sull'energia russa resteranno finché Mosca non metterà fine alla guerra.",
-      "sentiment": "L'Alta rappresentante Ue Kallas definisce l'ultimo attacco mortale con drone contro un mercantile vicino alle acque romene \"un'altra escalation\"; secondo fonti non ufficiali la NATO valuta rinforzi aerei nel Mar Nero. Mood: Escalation.",
-      "lettura": "La risposta della NATO nel Mar Nero è il punto da seguire: rinforzi aerei e droni sono un segnale di deterrenza, ma ogni nuovo attacco vicino alle acque romene avvicina il confine tra guerra ibrida e confronto diretto.",
+      "sentiment": "L'Alta rappresentante Ue Kallas definisce l'ultimo attacco mortale con drone contro un mercantile vicino alle acque romene «un'altra escalation»; secondo fonti non ufficiali la NATO valuta rinforzi aerei nel Mar Nero. Mood: Escalation.",
+      "lettura": "La risposta della NATO nel Mar Nero è il punto da seguire: eventuali rinforzi aerei e di droni, finora riferiti solo da fonti non ufficiali, sarebbero un segnale di deterrenza, ma ogni nuovo attacco vicino alle acque romene avvicina il confine tra guerra ibrida e confronto diretto.",
       "posts": [
         {
           "account": "@kajakallas",
@@ -352,7 +352,7 @@
       "name": "Ucraina",
       "riassunto": "Sul fronte della guerra aerea continuano i raid in profondità. Secondo @Osinttechnical, nella notte di venerdì un nuovo raid di droni ucraini è in corso sulla Russia occidentale, con due direttrici verso l'area di Mosca e il bacino del Volga, dopo quello di diverse centinaia di droni della notte precedente; secondo @visegrad24, droni ucraini avrebbero colpito un data center del servizio fiscale federale russo nella regione di Nizhny Novgorod; l'amministrazione distrettuale conferma un attacco con droni e la caduta di detriti. Reuters ricorda che la Russia ha bombardato Kyiv nonostante si parli di riaprire i negoziati.\nSul piano umanitario, lo Stato maggiore ucraino, citato da @wartranslated, introduce dal 27 ottobre un cessate il fuoco in zone designate di Oleshky, città occupata, per permettere un'operazione umanitaria; il portavoce del Cremlino Peskov, rilanciato da @mfa_russia, conferma che il ministero della Difesa russo coordina la tregua dalle 4:00 ora di Mosca, per lasciar uscire chi vuole. @IAPonomarenko racconta il nuovo scambio di prigionieri: tra i rientrati, marines catturati a Mariupol nel 2022 e cinque uomini che si credevano uccisi a Olenivka.",
       "sentiment": "La guerra dei droni prosegue a ritmo pieno in entrambe le direzioni, ma la tregua locale concordata per Oleshky e il nuovo scambio di prigionieri mostrano piccoli spiragli umanitari. Mood: Stabile.",
-      "lettura": "Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, è il primo impegno verificabile sul terreno dopo settimane dominate dai raid.",
+      "lettura": "Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, si aggiunge allo scambio di prigionieri come impegno verificabile sul terreno, dopo settimane dominate dai raid.",
       "posts": [
         {
           "account": "@mfa_russia",
@@ -567,7 +567,7 @@
     {
       "id": "usa-europa",
       "name": "USA-Europa",
-      "riassunto": "Il commercio resta il terreno di scontro. Secondo @POLITICOEurope, gli Stati Uniti hanno rinnovato l'avvertimento: niente riduzione dei dazi sull'acciaio europeo e su altri prodotti se Bruxelles non ammorbidisce l'applicazione del Digital Markets Act, il regolamento europeo sulle grandi piattaforme digitali. Nei post raccolti non compare una risposta ufficiale della Commissione.",
+      "riassunto": "Il commercio resta il terreno di scontro. Secondo @POLITICOEurope, gli Stati Uniti hanno rinnovato l'avvertimento: niente riduzione dei dazi sull'acciaio europeo e su altri prodotti se Bruxelles non ammorbidisce l'applicazione del Digital Markets Act, il regolamento europeo sulle grandi piattaforme digitali.",
       "sentiment": "Washington torna a legare i dazi sull'acciaio alle regole europee sul digitale; nessun fatto nuovo di rottura. Mood: Stabile.",
       "lettura": "Il nodo acciaio-Big Tech è la moneta di scambio da seguire: una risposta di Bruxelles sul Digital Markets Act dirà se il negoziato si sblocca o si irrigidisce.",
       "posts": [
@@ -595,7 +595,7 @@
     {
       "id": "coree",
       "name": "Coree",
-      "riassunto": "Pyongyang rilancia il riarmo convenzionale. Secondo @NDTVWorld, Kim Jong Un ha chiesto una \"rivoluzione militare\" e reparti più forti. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.",
+      "riassunto": "Pyongyang rilancia il riarmo convenzionale. Secondo @NDTVWorld, Kim Jong Un ha chiesto una «rivoluzione militare» e reparti più forti. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.",
       "sentiment": "Retorica militare in salita a Pyongyang e fortificazioni al confine, mentre Seul insiste nel proporre colloqui. Mood: Stabile.",
       "lettura": "La proposta di Seul sui confini è l'unico canale aperto; un rifiuto esplicito del Nord, insieme alle nuove fortificazioni, renderebbe la linea di confine il punto più fragile.",
       "posts": [

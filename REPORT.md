@@ -1,6 +1,6 @@
 # Geo-X-Watch — Giro 8 crisi
 
-Ultimo aggiornamento: **24 Oct 2026 · 03:40 Europe/Monaco** (qc-verify-24oct-fix1). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
+Ultimo aggiornamento: **24 Oct 2026 · 03:40 Europe/Monaco** (qc-verify-24oct-fix2). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
 
 # Iran-USA-Israele
 ## Riassunto
@@ -54,7 +54,7 @@ Sul piano umanitario, lo Stato maggiore ucraino, citato da @wartranslated, intro
 ## Sentiment
 La guerra dei droni prosegue a ritmo pieno in entrambe le direzioni, ma la tregua locale concordata per Oleshky e il nuovo scambio di prigionieri mostrano piccoli spiragli umanitari. Mood: Stabile.
 
-Lettura della giornata: Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, è il primo impegno verificabile sul terreno dopo settimane dominate dai raid.
+Lettura della giornata: Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, si aggiunge allo scambio di prigionieri come impegno verificabile sul terreno, dopo settimane dominate dai raid.
 
 # Stretto di Taiwan
 ## Riassunto
@@ -105,9 +105,9 @@ Lettura della giornata: La scadenza del 10 gennaio è il prossimo banco di prova
 
 # India-Pakistan
 ## Riassunto
-Nei post raccolti non risultano scontri lungo la Linea di controllo; la crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.
+La crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.
 
-Il servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (voce di parte), accusa «terroristi sponsorizzati dall'India» di aver tentato attacchi il 22 ottobre nel distretto di Gwadar, in Belucistan; Nuova Delhi non ha commentato nei post raccolti.
+Il servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (voce di parte), accusa «terroristi sponsorizzati dall'India» di aver tentato attacchi il 22 ottobre nel distretto di Gwadar, in Belucistan.
 ## [A] Ufficiali
 - @ForeignOfficePk — (23 Oct) "Weekly Press Briefing by the Spokesperson @kachosajjadFSP Marco Rubio’s remarks about Pakistan's nuclear capacity in his interview with an Indian Network + Role of US in restoration of IWT + Revival of SAARC" [https://x.com/ForeignOfficePk/status/2113692161086779838]
   META: novita=nuovo; inizio=2026-10-21; paesi=Pakistan,India,USA
@@ -120,13 +120,13 @@ Il servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (vo
 - @PakistanFauj — (23 Oct) "ISPR Press Release On 22 October 2026, Indian-sponsored terrorists of Fitna al Hindustan attempted to carry out terrorist activities in District Gwadar, Balochistan, Pakistan, in areas of the Gabd Border Crossing and Gwadar city." ⚠ NON VERIFICATO / voce di parte [https://x.com/PakistanFauj/status/2113589262775988318]
   META: novita=nuovo; inizio=2026-10-22; paesi=Pakistan,India
 ## Sentiment
-Nessun fatto militare nuovo tra i due Paesi: solo schermaglie verbali e le consuete accuse pakistane di ingerenza indiana in Belucistan. Mood: Stabile.
+Il confronto resta verbale: schermaglie diplomatiche e accuse pakistane di ingerenza indiana in Belucistan. Mood: Stabile.
 
 Lettura della giornata: Il ruolo di mediazione che Washington rivendica sul Trattato dell'Indo è il filo da seguire, più delle accuse incrociate sul terrorismo.
 
 # USA-Europa
 ## Riassunto
-Il commercio resta il terreno di scontro. Secondo @POLITICOEurope, gli Stati Uniti hanno rinnovato l'avvertimento: niente riduzione dei dazi sull'acciaio europeo e su altri prodotti se Bruxelles non ammorbidisce l'applicazione del Digital Markets Act, il regolamento europeo sulle grandi piattaforme digitali. Nei post raccolti non compare una risposta ufficiale della Commissione.
+Il commercio resta il terreno di scontro. Secondo @POLITICOEurope, gli Stati Uniti hanno rinnovato l'avvertimento: niente riduzione dei dazi sull'acciaio europeo e su altri prodotti se Bruxelles non ammorbidisce l'applicazione del Digital Markets Act, il regolamento europeo sulle grandi piattaforme digitali.
 ## [B] Analisti & stampa
 - @POLITICOEurope — (23 Oct) "The United States has renewed a warning that it will not lower tariffs on EU steel products and a range of other goods unless Brussels softens its enforcement of the Digital Markets Act, the bloc’s rulebook for Big Tech." [https://x.com/POLITICOEurope/status/2113585200722575597]
   META: novita=aggiornamento; inizio=2026-10-23; paesi=USA,UE
@@ -157,13 +157,13 @@ Sul piano più ampio, l'ISW (@TheStudyofWar) parla di una serie crescente di cam
 - @Faytuks — (21 Oct) "A Kremlin official told Germany through a backchannel after the failed Leipzig attack that this "wouldn’t be the last attack." -WSJ" ⚠ NON VERIFICATO [https://x.com/Faytuks/status/2112872567392624994]
   META: novita=nuovo; inizio=2026-10-21; paesi=Russia,Germania
 ## Sentiment
-L'Alta rappresentante Ue Kallas definisce l'ultimo attacco mortale con drone contro un mercantile vicino alle acque romene "un'altra escalation"; secondo fonti non ufficiali la NATO valuta rinforzi aerei nel Mar Nero. Mood: Escalation.
+L'Alta rappresentante Ue Kallas definisce l'ultimo attacco mortale con drone contro un mercantile vicino alle acque romene «un'altra escalation»; secondo fonti non ufficiali la NATO valuta rinforzi aerei nel Mar Nero. Mood: Escalation.
 
-Lettura della giornata: La risposta della NATO nel Mar Nero è il punto da seguire: rinforzi aerei e droni sono un segnale di deterrenza, ma ogni nuovo attacco vicino alle acque romene avvicina il confine tra guerra ibrida e confronto diretto.
+Lettura della giornata: La risposta della NATO nel Mar Nero è il punto da seguire: eventuali rinforzi aerei e di droni, finora riferiti solo da fonti non ufficiali, sarebbero un segnale di deterrenza, ma ogni nuovo attacco vicino alle acque romene avvicina il confine tra guerra ibrida e confronto diretto.
 
 # Coree
 ## Riassunto
-Pyongyang rilancia il riarmo convenzionale. Secondo @NDTVWorld, Kim Jong Un ha chiesto una "rivoluzione militare" e reparti più forti. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.
+Pyongyang rilancia il riarmo convenzionale. Secondo @NDTVWorld, Kim Jong Un ha chiesto una «rivoluzione militare» e reparti più forti. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.
 ## [B] Analisti & stampa
 - @NDTVWorld — (24 Oct) "Kim Jong Un Calls For "Military Revolution" As He Urges Stronger Army Units" [https://x.com/NDTVWorld/status/2113795587707670729]
   META: novita=nuovo; inizio=2026-10-23; paesi=Corea del Nord
