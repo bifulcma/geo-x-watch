@@ -1,193 +1,178 @@
 # Geo-X-Watch — Giro 8 crisi
 
-Ultimo aggiornamento: **23 Oct 2026 · 06:00 Europe/Monaco** (qc-verify-23oct-fix1). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
+Ultimo aggiornamento: **24 Oct 2026 · 03:40 Europe/Monaco** (qc-verify-24oct). Tier [A][B][O][C]. Affermazioni [C] = NON VERIFICATE.
 
 # Iran-USA-Israele
 ## Riassunto
-Cresce l'attesa di una nuova ondata di attacchi contro l'Iran. Secondo @IranIntl, in persiano, che cita l'Atlantic, Trump sta valutando attacchi di più giorni dopo le elezioni americane di metà mandato del 3 novembre, ma non ha ancora preso una decisione definitiva; per un redattore della stessa testata Teheran punta a usare la minaccia nucleare per ottenere concessioni, senza pagare il costo di costruire o testare la bomba. Il Comando centrale americano (@CENTCOM) celebra i 100 giorni del blocco navale contro l'Iran: nessuna esportazione o importazione via mare, salvo gli aiuti umanitari autorizzati, e almeno 25 miliardi di dollari di greggio non esportato. @NegarMortazavi si chiede se Stati Uniti e Israele torneranno a colpire e come risponderà Teheran.
+Washington alza di nuovo il tono. Secondo uno scoop di Axios firmato da @BarakRavid, l'intelligence americana ha rilevato che l'Iran ha «sostanzialmente aumentato» i tentativi di colpire diplomatici e funzionari statunitensi in Medio Oriente e altrove, con piani letali giunti a «fasi avanzate». Un inviato americano, citato da @AlArabiya_Eng, afferma che gli Stati Uniti potrebbero colpire l'Iran già questo fine settimana, e Trump, in un comizio in Florida rilanciato da Sputnik, evoca «un'altra piccola Epic Fury». Secondo il New York Times, ripreso dal @Jerusalem_Post, le forze armate americane e israeliane hanno pronto un piano per un'operazione breve e intensa, di circa tre giorni, contro infrastrutture nucleari ed energetiche, mentre Netanyahu dice che non chiederà a Trump il via libera per colpire.
 
-Teheran contesta il racconto occidentale della guerra. Il ministero degli Esteri (@IRIMFA), in persiano, rilancia l'intervento del ministro Araghchi sul Financial Times: se l'America preferirà la guerra alla diplomazia, andrà incontro a una sconfitta strategica ancora più grande. Araghchi (@araghchi) accusa Macron di contraddirsi sull'accordo nucleare del 2015, e il portavoce del ministero (@IRIMFA_SPOX) respinge l'espressione «conflitto iraniano», parlando di guerra di aggressione di Stati Uniti e Israele.
-
-PressTV (voce di parte) riporta che secondo il massimo responsabile della sicurezza iraniana, il generale Rezaei, l'Iran non ha ancora impiegato tutte le sue capacità e una guerra prolungata terrebbe instabili i mercati energetici fino a tre anni, e rilancia gli attacchi degli Houthi contro il ministero della Difesa saudita, Aramco e alcuni aeroporti. Secondo resoconti da verificare rilanciati da @MarioNawfal, Teheran avrebbe avvertito i mediatori che, in caso di nuovo attacco, cercherebbe di affondare navi da guerra americane e di colpire aeroporti e oleodotti in tutti i Paesi del Golfo; nella regione si darebbe per probabile una ripresa della guerra già nel fine settimana, e cargo militari russi sarebbero atterrati alla base aerea di Bushehr.
+Cresce anche la pressione economica: secondo un articolo rilanciato da @JasonMBrodsky, Iraq e Pakistan stanno chiudendo alcune rotte terrestri da e per l'Iran, dopo che blocco navale e sanzioni sulle compagnie aeree hanno già tagliato gran parte dei collegamenti. Teheran risponde con le minacce: secondo il segretario del Consiglio supremo di sicurezza nazionale Rezaei, citato da @hdagres, in caso di nuovo attacco l'Iran colpirebbe impianti petroliferi, cavi sottomarini e data center in sette Paesi del Golfo. PressTV (voce di parte) riporta la versione dei Pasdaran: due petroliere «non autorizzate» sarebbero esplose su mine nello Stretto di Hormuz, senza conferme indipendenti.
 ## [A] Ufficiali
-- @CENTCOM — (22 Oct) "Today marks 100 days since CENTCOM forces resumed America's steel wall naval blockade against Iran. … There have been no exports or imports to Iran by sea except for the humanitarian aid U.S. forces have allowed." [https://x.com/CENTCOM/status/2113328696153215144]
-- @IRIMFA — (22 Oct) rilancia l'articolo del ministro Araghchi sul Financial Times: "اگر آمریکا جنگ را به دیپلماسی ترجیح دهد، قطعاً دچار شکستی راهبردی به‌مراتب بزرگ‌تر از گذشته خواهد شد.."
-  IT: «Se l'America preferirà la guerra alla diplomazia, andrà sicuramente incontro a una sconfitta strategica molto più grande che in passato.» [https://x.com/IRIMFA/status/2113164464295924081]
-- @araghchi — (22 Oct) su Macron e l'accordo nucleare: "Today, he claims he always opposed "any form of nuclear activity" in Iran. … Get your story straight, Mr. President." [https://x.com/araghchi/status/2113360899767689701]
-- @IRIMFA_SPOX — (22 Oct) "There is no such thing as “Iran conflict.” This is an unlawful "war of aggression" waged by the United States and Israel against Iran." [https://x.com/IRIMFA_SPOX/status/2113336331699167244]
+- @AlArabiya_Eng — (22 Oct) "Israeli Prime Minister Benjamin Netanyahu says that he will not ask US President Donald Trump for a green light to strike Iran." [https://x.com/AlArabiya_Eng/status/2113210563559923778]
+  META: novita=aggiornamento; inizio=2026-10-21; paesi=Israele,USA,Iran
 ## [B] Analisti & stampa
-- @IranIntl — (23 Oct) "آتلانتیک گزارش داد دونالد ترامپ، رییس‌جمهوری آمریکا، در حال بررسی حملات چندروزه به ایران پس از انتخابات میان‌دوره‌ای سوم نوامبر است، اما هنوز تصمیم نهایی نگرفته است."
-  IT: «L'Atlantic ha riferito che il presidente degli Stati Uniti Donald Trump sta valutando attacchi di più giorni contro l'Iran dopo le elezioni di metà mandato del 3 novembre, ma non ha ancora preso una decisione definitiva.» [https://x.com/IranIntl/status/2113464839913771270]
-- @IranIntl — (23 Oct) un redattore della testata sul manoscritto attribuito a Mojtaba Khamenei: "جمهوری اسلامی می‌خواهد بدون پرداخت هزینه ساخت یا آزمایش بمب، از تهدید هسته‌ای برای امتیازگیری استفاده کند."
-  IT: «La Repubblica islamica vuole usare la minaccia nucleare per ottenere concessioni, senza pagare il costo di costruire o testare la bomba.» [https://x.com/IranIntl/status/2113475320657465720]
-- @NegarMortazavi — (23 Oct) "Will the U.S. and Israel attack Iran again? How will Tehran respond?" [https://x.com/NegarMortazavi/status/2113430927745704260]
-## [O] Opinion / wire
-- @MarioNawfal — (23 Oct) "Iran told mediators that if the US strikes again it will try to sink American warships, kill their crews, and hit airports and pipelines across every Gulf state" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113479070059036916]
-- @MarioNawfal — (23 Oct) "The Gulf, Pakistan and Washington now expect a full-scale Iran war to restart, and some think this weekend…" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113409257991262417]
-- @MarioNawfal — (23 Oct) "Russian military freighters land at strategic air base in Iran … Flight tracking reveals several heavy cargo planes, including an Ilyushin Il-76TD from Novosibirsk, arrived at Bushehr Air Base." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113434633119395880]
+- @BarakRavid — (24 Oct) "Scoop: U.S. intelligence finds Iran has "substantially increased" its efforts to target American diplomats & officials in the Middle East and beyond, with lethal plots reaching "advanced stages," per memo to Secretary of State Rubio." [https://x.com/BarakRavid/status/2113787948181356827]
+  META: novita=nuovo; inizio=2026-10-23; paesi=USA,Iran
+- @AlArabiya_Eng — (23 Oct) "The United States could strike Iran as soon as this weekend, a US envoy said Friday, after mounting threats by both Washington and Israel." [https://x.com/AlArabiya_Eng/status/2113685687941689782]
+  META: novita=nuovo; inizio=2026-10-23; paesi=USA,Iran,Israele
+- @Jerusalem_Post — (22 Oct) "The US and Israeli militaries have drawn up detailed plans for a return to fighting with Iran, The New York Times reported. The plans focus on a short, intensive military operation that could last approximately three days, and would target nuclear and energy infrastructure." [https://x.com/Jerusalem_Post/status/2113067468235194378]
+  META: novita=aggiornamento; inizio=2026-10-21; paesi=USA,Israele,Iran
+- @JasonMBrodsky — (23 Oct) "Iraq and Pakistan are cutting off some important land routes in and out of Iran, adding to the economic pressure on the regime after a U.S. naval blockade and tough sanctions on airlines severed most of the country’s shipping and air routes." [https://x.com/JasonMBrodsky/status/2113763377042636986]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Iran,Iraq,Pakistan,USA
+- @hdagres — (22 Oct) "Iran will strike oil facilities, undersea cables, datacentres and AI facilities across as many as seven countries in the Gulf in the event of a fresh US-Israeli attack, Mohsen Rezaei, the secretary of Iran’s supreme national security council, has said." [https://x.com/hdagres/status/2113290887581315362]
+  META: novita=aggiornamento; inizio=2026-10-22; paesi=Iran,USA,Israele
 ## [C] Controversi / propaganda
-- @PressTV — (22 Oct) "Iran yet to deploy all capabilities, seeks terms to prevent new war: Top security official" ⚠ NON VERIFICATO / voce di parte [https://x.com/PressTV/status/2113250266229211613]
-- @PressTV — (22 Oct) "Iran’s top security official, Major General Rezaei, warned that continued war against Iran could keep global energy markets unstable for up to three years." ⚠ NON VERIFICATO / voce di parte [https://x.com/PressTV/status/2113226509309689881]
-- @PressTV — (22 Oct) "'Airport for airport': Yemen targets Saudi defense ministry, Aramco, airports with missiles, drones" ⚠ NON VERIFICATO / voce di parte [https://x.com/PressTV/status/2113344637377069544]
+- @SputnikInt — (23 Oct) "‘We may do another little Epic Fury’ - Trump on Iran" ⚠ NON VERIFICATO / voce di parte [https://x.com/SputnikInt/status/2113723799057137930]
+  META: novita=nuovo; inizio=2026-10-23; paesi=USA,Iran
+- @PressTV — (24 Oct) "Two unauthorized tankers explode in Hormuz, abandoned by crews after mine strikes: IRGC" ⚠ NON VERIFICATO / voce di parte [https://x.com/PressTV/status/2113753684689711421]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Iran
 ## Sentiment
-Clima da vigilia: secondo l'Atlantic, rilanciato da @IranIntl, Washington valuta un nuovo ciclo di attacchi dopo il voto del 3 novembre e mantiene il blocco navale, ormai a 100 giorni, mentre Teheran avverte che una scelta di guerra porterebbe agli Stati Uniti una sconfitta strategica e respinge il racconto occidentale del conflitto. Mood: Escalation.
+Clima da vigilia di attacco: un inviato americano parla di possibili raid già nel fine settimana, l'intelligence statunitense denuncia piani iraniani contro diplomatici americani e Teheran minaccia infrastrutture energetiche e digitali in tutto il Golfo. Mood: Escalation.
 
-Lettura della giornata: La data chiave resta il voto americano del 3 novembre: la decisione su nuovi attacchi pesa più di ogni segnale diplomatico, e il blocco navale, ormai a 100 giorni, è la leva che Teheran cerca di spezzare.
+Lettura della giornata: Il fine settimana è la finestra da guardare: le dichiarazioni americane si sono fatte più precise sui tempi, e le notizie non confermate di mine a Hormuz possono diventare il pretesto per uno dei due campi.
 
 # Ucraina
 ## Riassunto
-Dopo l'incontro tra Witkoff e Putin, la Russia ha risposto con un pesante attacco su Kyiv. Il ministero della Difesa ucraino (@DefenceU) conta 21 missili balistici lanciati sulla capitale in tre ondate, con case, infrastrutture energetiche e di trasporto e un monastero colpiti, due morti e 34 feriti in 12 regioni, tra cui cinque bambini; Zelensky (@ZelenskyyUa) denuncia l'uso di tre missili balistici con testate a grappolo sul centro storico di Pechersk, senza alcun obiettivo militare nelle vicinanze. Per l'ISW (@TheStudyofWar) l'apparente interesse del Cremlino per il negoziato punta a ottenere concessioni economiche dagli Stati Uniti per continuare a finanziare la guerra; Putin, citato da @wartranslated, sostiene che le terre perse dall'Ucraina sono «terre storiche della Russia».
+Sul fronte della guerra aerea continuano i raid in profondità. Secondo @Osinttechnical, nella notte di venerdì un nuovo raid di droni ucraini è in corso sulla Russia occidentale, con due direttrici verso l'area di Mosca e il bacino del Volga, dopo quello di diverse centinaia di droni della notte precedente; secondo @visegrad24, droni ucraini hanno colpito un data center del servizio fiscale federale russo nella regione di Nizhny Novgorod, con conferma dell'amministrazione locale. Reuters ricorda che la Russia ha bombardato Kyiv nonostante si parli di riaprire i negoziati.
 
-Zelensky ribadisce che un cessate il fuoco sulle linee attuali è già «un enorme compromesso». Sul terreno, secondo @wartranslated, il 2° Corpo della Guardia nazionale «Khartia» rivendica l'operazione sotterranea «Veles», con un'avanzata di oltre 15 km nelle retrovie russe nel settore di Kupiansk e più di 30 prigionieri; Kyiv entra inoltre per la prima volta nel sistema di acquisti di armamenti dell'agenzia NATO NSPA. Sul nodo Starshield, @KofmanMichael riprende il Wall Street Journal: Trump ha chiesto a Musk di togliere le restrizioni, ma il miglioramento osservato in giornata appare incostante e il sistema si interrompe sopra i 160 km/h; @RALee85 cita Bloomberg sui costi sempre più insostenibili delle riparazioni delle raffinerie Rosneft colpite dai droni ucraini.
-
-Mosca nelle ultime 72 ore: il ministero degli Esteri russo (@mfa_russia) accusa i droni ucraini di colpire gli autobus del personale della centrale nucleare di Zaporizhzhia, con 10 lavoratori uccisi da aprile. La TASS (voce di parte), in russo, riporta l'esperto militare Marochko, secondo cui l'offensiva russa nella regione di Zaporizhzhia ha preso un ritmo «molto serio», e riferisce che per Trump l'accesso dell'Ucraina a Starshield è stato ripristinato; Sputnik (voce di parte) cita il ministero della Difesa russo su attacchi di droni contro la logistica ucraina nella stessa regione. Secondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky vorrebbe garanzie di sicurezza americane votate dal Congresso, e Trump, interpellato sugli attacchi notturni, si sarebbe limitato a un «vedremo».
+Sul piano umanitario, lo Stato maggiore ucraino, citato da @wartranslated, introduce dal 27 ottobre un cessate il fuoco in zone designate di Oleshky, città occupata, per permettere un'operazione umanitaria; il portavoce del Cremlino Peskov, rilanciato da @mfa_russia, conferma che il ministero della Difesa russo coordina la tregua dalle 4:00 ora di Mosca, per lasciar uscire chi vuole. @IAPonomarenko racconta il nuovo scambio di prigionieri: tra i rientrati, marines catturati a Mariupol nel 2022 e cinque uomini che si credevano uccisi a Olenivka.
 ## [A] Ufficiali
-- @DefenceU — (22 Oct) "Overnight, Russia fired 21 ballistic missiles at Kyiv in three waves, hitting homes, energy and transport infrastructure, businesses, and a monastery. … Two people were killed and 34 injured across 12 regions, including five children." [https://x.com/DefenceU/status/2113200338769465746]
-- @DefenceU — (22 Oct) "For the first time, Ukraine can procure weapons and military equipment through the NATO Support and Procurement Agency." [https://x.com/DefenceU/status/2113250851183632546]
-- @ZelenskyyUa — (22 Oct) "Overnight, Russia used, among other weapons, three ballistic missiles with cluster warheads against Kyiv. … There was no military target nearby, not even in theory…" [https://x.com/ZelenskyyUa/status/2113247024518684864]
-- @ZelenskyyUa — (22 Oct) "A ceasefire and sitting down at the negotiating table – it is a huge compromise. … This is a huge compromise just to hold the lines where we are." [https://x.com/ZelenskyyUa/status/2113267435482624207]
-- @mfa_russia — (22 Oct) "Ukrainian UAVs continue to target #ZNPP buses. … Since the attacks escalated in April this year, 10 nuclear industry workers have been killed & around 40 injured." [https://x.com/mfa_russia/status/2113272035073839406]
+- @mfa_russia — (23 Oct) "Russian President’s Spox #Peskov: Russia welcomes @FLOTUS key role in securing agreement on a humanitarian operation in #Alyoshki. @mod_russia is coordinating a ceasefire from 04:00 MSK on October 27 so those wishing to leave the city can do so." ⚠ voce di parte [https://x.com/mfa_russia/status/2113686913190183315]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Russia,Ucraina
 ## [B] Analisti & stampa
-- @TheStudyofWar — (23 Oct) "The Kremlin's seeming interest in negotiations aims not to end the war in Ukraine but rather to secure economic concessions from the United States such that Russia can continue funding its war." [https://x.com/TheStudyofWar/status/2113458409441747101]
-- @wartranslated — (23 Oct) "the Ukrainian Defense Forces conducted an underground counteroffensive operation - "Veles," advancing more than 15 km into enemy rear areas in the Kupyansk sector. … over 30 occupiers were taken prisoner…" [https://x.com/wartranslated/status/2113403841404141747]
-- @wartranslated — (22 Oct) Putin: "The lands lost by Ukraine are not their territory, they are Russia’s historical lands." [https://x.com/wartranslated/status/2113359861522006155]
+- @wartranslated — (23 Oct) "Ukraine is introducing a ceasefire in designated areas of occupied Oleshky starting October 27 at 3:00 AM Kyiv time to facilitate a humanitarian operation, the General Staff announced." [https://x.com/wartranslated/status/2113723040093929595]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Ucraina,Russia
+- @Reuters — (22 Oct) "Russia bombs Kyiv and Ukraine fires drones towards Moscow, despite talk of renewing negotiations" [https://x.com/Reuters/status/2113383656198656213]
+  META: novita=aggiornamento; inizio=2026-10-22; paesi=Russia,Ucraina
+- @IAPonomarenko — (24 Oct) "Many of these Ukrainian guys who returned home from Russian captivity in today's latest prisoner exchange had been held in enemy dungeons since 2022. Marines who defended Mariupol back then… Among them are five guys who had previously been believed killed in the mass murder of Ukrainian POWs at the Russian concentration camp in Olenivka." [https://x.com/IAPonomarenko/status/2113783112706494871]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Ucraina,Russia
 ## [O] Opinion / wire
-- @KofmanMichael — (22 Oct) cita il Wall Street Journal: "President Trump called Elon Musk and asked him to lift restrictions on a military-grade version of Starlink in Ukraine that the SpaceX chief had throttled…" [https://x.com/KofmanMichael/status/2113333976634982615]
-- @KofmanMichael — (23 Oct) "Disappointingly, Starshield still doesn’t work well and seems to cut out for units above 160kmh." [https://x.com/KofmanMichael/status/2113406908606345323]
-- @RALee85 — (22 Oct) cita Bloomberg: "Rosneft has managed to restart some refineries within weeks of an attack, only to see them struck again as repairs are completed or nearing completion." [https://x.com/RALee85/status/2113240677572096288]
-- @MarioNawfal — (22 Oct) "Zelensky wants U.S. security guarantees that Congress votes on this time" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113355962098786601]
-- @MarioNawfal — (22 Oct) "Trump asked if Zelensky’s right that Russia’s overnight strikes prove Putin doesn’t want peace … “Well, we’ll see how it works out. It’s been happening a lot.”" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113369299834323025]
-## [C] Controversi / propaganda
-- @tass_agency — (23 Oct) "ВС РФ набрали "очень серьезные обороты" в наступлении в Запорожской области, сообщил военный эксперт Андрей Марочко."
-  IT: «Le forze armate russe hanno preso «un ritmo molto serio» nell'offensiva nella regione di Zaporizhzhia, ha dichiarato l'esperto militare Andrei Marochko.» ⚠ NON VERIFICATO / voce di parte [https://x.com/tass_agency/status/2113422099091996736]
-- @tass_agency — (22 Oct) "Трамп заявил, что доступ Украины к Starshield восстановлен"
-  IT: «Trump ha dichiarato che l'accesso dell'Ucraina a Starshield è stato ripristinato» ⚠ NON VERIFICATO / voce di parte [https://x.com/tass_agency/status/2113369542621605926]
-- @SputnikInt — (23 Oct) "Strike UAV crews of Russia’s Vostok Battlegroup disrupted Ukrainian logistics routes and wiped out frontline stockpiles in the Zaporozhye region, the Russian Defense Ministry reported." ⚠ NON VERIFICATO / voce di parte [https://x.com/SputnikInt/status/2113440519179124767]
+- @Osinttechnical — (24 Oct) "Friday night Ukrainian attack drone raid into western Russia ongoing, with two separate streams of drones pushing into the Moscow area and Volga River basin." [https://x.com/Osinttechnical/status/2113766206222000590]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Ucraina,Russia
+- @visegrad24 — (23 Oct) "Ukrainian forces reportedly attacked a data center of Russia’s Federal Tax Service in the Nizhny Novgorod region. The district administration confirmed a drone strike and falling debris." ⚠ NON VERIFICATO [https://x.com/visegrad24/status/2113583045160976860]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Ucraina,Russia
 ## Sentiment
-La diplomazia non ferma la guerra aerea: dopo i colloqui Witkoff-Putin la Russia colpisce Kyiv con balistici e testate a grappolo e rivendica terre «storiche», mentre Kyiv risponde con operazioni in profondità e chiede più difesa aerea. Mood: Escalation.
+La guerra dei droni prosegue a ritmo pieno in entrambe le direzioni, ma la tregua locale concordata per Oleshky e il nuovo scambio di prigionieri mostrano piccoli spiragli umanitari. Mood: Stabile.
 
-Lettura della giornata: Il canale negoziale resta aperto, ma l'intensità degli attacchi su Kyiv e le rivendicazioni territoriali di Putin allontanano un cessate il fuoco sulle linee attuali.
+Lettura della giornata: Il 27 ottobre a Oleshky sarà un test concreto: se la tregua umanitaria regge, è il primo impegno verificabile sul terreno dopo settimane di soli raid.
 
 # Stretto di Taiwan
 ## Riassunto
-Pausa nell'attività aerea cinese, pressione su altri piani. Il ministero della Difesa di Taipei (@MoNDefense) non ha rilevato velivoli dell'Esercito popolare di liberazione attorno all'isola, ma 3 unità navali militari e 7 navi governative. Pechino, con la portavoce Mao Ning (@SpoxCHN_MaoNing), avverte che «non c'è zona grigia» sulla questione di Taiwan e chiede alle Filippine di rispettare il principio di una sola Cina con azioni concrete; secondo @TaiwanNewsEN un diplomatico ha detto che Manila lavorerà comunque con Taiwan. La stessa testata riporta l'allarme dell'intelligence taiwanese: la Cina intende offrire biglietti aerei a basso costo ad alcuni residenti taiwanesi perché tornino a votare alle elezioni locali del 28 novembre.
+Pressione militare in calo nelle ultime ore. Il ministero della Difesa di Taipei (@MoNDefense) segnala attorno all'isola una nave della marina cinese e cinque navi governative, senza aerei dell'Esercito popolare di liberazione; due giorni prima le navi militari erano sei e quelle governative sette (@mna_roc), e il 21 ottobre, secondo @keverington, Pechino aveva inviato 29 aerei, 6 navi da guerra e 9 navi governative. Secondo la Guardia costiera di Taiwan, citata da @Focus_Taiwan, cinque navi della Guardia costiera cinese hanno seguito otto unità della Guardia costiera giapponese riparatesi presso le isole Penghu dal tifone Champi.
 
-Sul fronte della difesa, @TaiwanMonitor pubblica il bilancio dell'esercitazione Han Kuang 42, che ha mobilitato il doppio delle brigate di riservisti rispetto all'anno scorso e ha introdotto un'esercitazione anti-decapitazione con l'evacuazione del presidente Lai al posto di comando di Hengshan.
+Si sposta invece la partita sul piano non militare. Secondo l'ISW (@TheStudyofWar), funzionari taiwanesi denunciano un aumento delle operazioni di influenza cinesi con contenuti generati dall'intelligenza artificiale e attacchi informatici, per polarizzare l'opinione pubblica e ridurre l'affluenza in vista delle elezioni locali del 28 novembre; @TaiwanNewsEN descrive una campagna sotto la soglia della guerra fatta di attacchi inscenati, finanziamenti politici e fughe di notizie militari.
 ## [A] Ufficiali
-- @MoNDefense — (23 Oct) "3 PLAN vessels and 7 official ships operating around #Taiwan detected up until 6 a.m. (UTC+8) today. … we did not detect #PLA aircraft operating around Taiwan during this timeframe." [https://x.com/MoNDefense/status/2113435244653408694]
-- @SpoxCHN_MaoNing — (22 Oct) "There is no gray zone on the Taiwan question. The Philippine side should abide by the one-China principle with concrete actions." [https://x.com/SpoxCHN_MaoNing/status/2113192467894059008]
+- @MoNDefense — (24 Oct) "1 PLAN vessel and 5 official ships operating around #Taiwan detected up until 6 a.m. (UTC+8) today. … we did not detect #PLA aircraft operating around Taiwan during this timeframe." [https://x.com/MoNDefense/status/2113797626751852692]
+  META: novita=ricorrenza; inizio=2026-10-24; paesi=Cina,Taiwan
+- @mna_roc — (22 Oct) "6 PLAN vessels and 7 official ships operating around #Taiwan detected up until 6 a.m. (UTC+8) today. … we did not detect #PLA aircraft operating around Taiwan during this timeframe." [https://x.com/mna_roc/status/2113073803475702179]
+  META: novita=ricorrenza; inizio=2026-10-22; paesi=Cina,Taiwan
 ## [B] Analisti & stampa
-- @TaiwanNewsEN — (23 Oct) "Diplomat says Manila to work with Taiwan despite ‘one China policy’" [https://x.com/TaiwanNewsEN/status/2113443420333388239]
-- @TaiwanNewsEN — (22 Oct) "China plans to provide some Taiwan residents with cheap airline tickets to go home to vote in the Nov. 28 local elections, says Taiwan's intelligence bureau." [https://x.com/TaiwanNewsEN/status/2113161395286204845]
-- @TaiwanMonitor — (22 Oct) "The exercise's live-fire phase, held Aug. 5–14, mobilized twice as many reserve brigades as last year and debuted an anti-decapitation drill that evacuated President Lai Ching-te to the Hengshan Command Post." [https://x.com/TaiwanMonitor/status/2113381717314572537]
+- @Focus_Taiwan — (23 Oct) "Eight Japan Coast Guard (JCG) vessels were followed by five China Coast Guard (CCG) ships near Taiwan's Penghu Islands as the Japanese vessels sought shelter from Typhoon Champi, Taiwan's Coast Guard Administration (CGA) said Friday." [https://x.com/Focus_Taiwan/status/2113602587807404166]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Cina,Giappone,Taiwan
+- @TheStudyofWar — (23 Oct) "Taiwanese national security and policy officials are reporting increased People’s Republic of China (PRC) influence operations using AI-generated content and cyberattacks to increase polarization, reduce public trust in the Taiwanese government, and reduce voter turnout." [https://x.com/TheStudyofWar/status/2113749711333024221]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Cina,Taiwan
+- @TaiwanNewsEN — (23 Oct) "From staged attacks to political financing and military leaks, Taiwan faces a sub-threshold campaign designed to divide and weaken it without war" [https://x.com/TaiwanNewsEN/status/2113611235786998186]
+  META: novita=aggiornamento; inizio=2026-10-23; paesi=Cina,Taiwan
+## [O] Opinion / wire
+- @keverington — (21 Oct) "China sends 29 warplanes, 6 warships, and 9 official ships around Taiwan." [https://x.com/keverington/status/2112765419073269982]
+  META: novita=ricorrenza; inizio=2026-10-21; paesi=Cina,Taiwan
 ## Sentiment
-Calma relativa nei cieli, con nessun velivolo cinese rilevato e meno navi militari, mentre Pechino sposta la pressione sul piano diplomatico e su quello elettorale. Mood: Stallo.
+Presenza navale cinese costante ma senza aerei nelle ultime ore, mentre cresce l'attenzione sulle operazioni di influenza in vista del voto locale. Mood: Stabile.
 
-Lettura della giornata: La pausa aerea non cambia la sostanza: la partita si gioca sull'isolamento diplomatico di Taipei e sull'influenza cinese in vista del voto locale di novembre.
+Lettura della giornata: Il fronte da seguire nelle prossime settimane è quello informativo: le elezioni locali del 28 novembre sono il bersaglio dichiarato delle campagne denunciate da Taipei.
 
 # USA-Cina
 ## Riassunto
-Competizione strategica sotto traccia: @BethanyAllenEbr rilancia un rapporto C4ADS sulla cooperazione russo-cinese negli armamenti avanzati e @Lingling_Wei segnala il commento del Wall Street Journal su un possibile vertice a tre Trump-Putin-Xi. Per @RushDoshi la risposta al vantaggio demografico cinese è la scala delle alleanze, non la crescita della popolazione americana.
+La tregua commerciale regge ma non scioglie i nodi. Secondo l'American Action Forum (@AAF), Trump e Xi hanno prorogato la tregua di due mesi, fino al 10 gennaio, annunciando cooperazione su carbone, minerali critici e investimenti, ma la scheda cinese omette l'impegno sul carbone e il piano «30 per 30» di riduzione dei dazi resta incerto. Per Radio Free Europe (@RFERL) il vertice non ha risolto i timori americani sulle restrizioni cinesi all'export di minerali critici, una leva che Pechino può chiudere con forti conseguenze sulla produzione militare statunitense. @ForeignPolicy segnala che a settembre le esportazioni cinesi sono cresciute del 36,3% su base annua, anche grazie all'allentamento delle tensioni con Washington.
 
-Secondo resoconti da verificare rilanciati da @MarioNawfal, che cita il Washington Post, il Pentagono vorrebbe propri agenti sotto copertura in Cina, presentati come uomini d'affari, per raccogliere segreti economici; il Pentagono smentirebbe. Hu Xijin (@HuXijin_GT, voce di parte) replica che un piano simile, se esiste, sarebbe destinato al fallimento totale, mentre il Global Times (voce di parte) rilancia il dato del ministero del Commercio cinese sugli investimenti americani in Cina, in crescita del 7,7% nei primi nove mesi del 2026. Sempre secondo resoconti da verificare rilanciati da @MarioNawfal, il vicepresidente Vance difenderebbe l'allentamento delle restrizioni sul gasolio russo con l'argomento che finora a beneficiarne era la Cina, che lo comprava a forte sconto.
+Sul piano strategico, l'ex premier australiano Kevin Rudd, citato dal @SCMPNews, prevede che la competizione strategica tra Stati Uniti e Cina continuerà ad acuirsi. Nel Mar Cinese Meridionale, Pechino dice di aver seguito e monitorato la nave americana USS Charleston, accusandola di essere entrata in acque cinesi; le Filippine respingono la ricostruzione (@chinaspotlight1).
 ## [B] Analisti & stampa
-- @Lingling_Wei — (21 Oct) "@WSJopinion weighs in on a potential Trump-Putin-Xi trilateral" [https://x.com/Lingling_Wei/status/2112897552244703470]
-- @BethanyAllenEbr — (22 Oct) "Great C4ADS report on China-Russia advanced weapons cooperation…" [https://x.com/BethanyAllenEbr/status/2113282551569658039]
+- @AAF — (22 Oct) "Trump and Xi extended the trade truce by two months, through January 10, and announced cooperation on coal, critical minerals, and investment. But China’s fact sheet omits the coal commitment, while the “30-for-30” tariff plan remains uncertain." [https://x.com/AAF/status/2113314438090567739]
+  META: novita=aggiornamento; inizio=2026-09-30; paesi=USA,Cina
+- @RFERL — (21 Oct) "Last month’s Trump-Xi summit extended a trade truce but failed to resolve US concerns over China’s critical minerals export restrictions. China effectively controls a supply-chain tap that it can turn off, with major implications for US defense production, analysts say." [https://x.com/RFERL/status/2112869639210651936]
+  META: novita=aggiornamento; inizio=2026-09-30; paesi=USA,Cina
+- @ForeignPolicy — (22 Oct) "China’s exports grew by an astonishing 36.3 percent year-over-year in September, their biggest monthly jump since July 2010, thanks to the AI industry and the easing of trade tensions with the U.S." [https://x.com/ForeignPolicy/status/2113269532689064342]
+  META: novita=nuovo; inizio=2026-10-22; paesi=Cina,USA
+- @SCMPNews — (24 Oct) "US-China strategic competition to keep escalating as world watches on, Rudd says" [https://x.com/SCMPNews/status/2113767339497828679]
+  META: novita=nuovo; inizio=2026-10-23; paesi=USA,Cina
 ## [O] Opinion / wire
-- @RushDoshi — (22 Oct) sull'avvertimento di Palmer Luckey sul vantaggio demografico cinese: "The more realistic answer is probably allied scale. Not easy, but much more plausible than quadrupling the US population." [https://x.com/RushDoshi/status/2113073932215701718]
-- @MarioNawfal — (22 Oct) "The Pentagon reportedly wants its own deep-cover spies posing as businesspeople in China. … The Pentagon flatly denies it, while the CIA isn’t thrilled either." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113221324973982059]
-- @MarioNawfal — (22 Oct) JD Vance sull'intesa sul gasolio russo: "“They've always been able to sell their diesel fuel. They're just selling it at a massive discount to the People's Republic of China.”" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113308840104267811]
-## [C] Controversi / propaganda
-- @HuXijin_GT — (22 Oct) "for the U.S. to send spies undercover would be both costly and extremely risky—any such plan by the Pentagon, if it even exists, would be doomed to total failure." ⚠ NON VERIFICATO / voce di parte [https://x.com/HuXijin_GT/status/2113302961514283340]
-- @globaltimesnews — (22 Oct) "#US investment in China rose 7.7% in the first nine months of 2026, a senior official from China's Ministry of Commerce said on Thursday…" ⚠ NON VERIFICATO / voce di parte [https://x.com/globaltimesnews/status/2113291999344546006]
+- @chinaspotlight1 — (22 Oct) "China says it sent forces to track and monitor the USS Charleston in disputed South China Sea waters. The Philippines rejected Beijing’s claim that the US ship trespassed into Chinese territory." ⚠ NON VERIFICATO [https://x.com/chinaspotlight1/status/2113388009051598893]
+  META: novita=nuovo; inizio=2026-10-21; paesi=USA,Cina,Filippine
 ## Sentiment
-Nessuno strappo, ma competizione sotto traccia: un rapporto C4ADS documenta la cooperazione russo-cinese negli armamenti avanzati e l'ipotesi di un vertice a tre Trump-Putin-Xi resta sullo sfondo. Mood: Stallo.
+Tregua commerciale prorogata e scambi in ripresa, ma restano aperti i minerali critici e gli attriti navali nel Mar Cinese Meridionale. Mood: Stabile.
 
-Lettura della giornata: Il rapporto resta sospeso tra competizione militare e tecnologica e diplomazia dei vertici, in attesa dell'APEC di novembre.
+Lettura della giornata: La scadenza del 10 gennaio è il prossimo banco di prova; fino ad allora la leva cinese sui minerali critici resta la vera variabile.
 
 # India-Pakistan
 ## Riassunto
-Confronto a distanza, tutto politico. A Islamabad, nella Giornata delle Nazioni Unite, il vicepremier e ministro degli Esteri Ishaq Dar (@ForeignOfficePk) richiama dialogo, diplomazia e soluzione pacifica delle controversie; Radio Pakistan (voce di parte) riporta che per Dar la disputa su Jammu e Kashmir resta «un'agenda incompiuta» delle Nazioni Unite.
+Nessuno scontro lungo la Linea di controllo nelle ultime 72 ore; la crisi si gioca sul piano diplomatico e delle accuse. Il segretario di Stato americano Rubio, intervistato dall'Indian Express e citato da @ndtv, assicura che il rapporto con il Pakistan «non andrà mai a scapito» di quello con l'India; @FinancialXpress riassume le sue dichiarazioni su visti, difesa e Pakistan. Il ministero degli Esteri pakistano (@ForeignOfficePk) ha dedicato il briefing settimanale anche alle parole di Rubio sulle capacità nucleari del Pakistan e al ruolo americano nel ripristino del Trattato sulle acque dell'Indo.
 
-A Nuova Delhi il ministro della Difesa Rajnath Singh parla oggi (@SpokespersonMoD) alla conferenza dei comandanti dell'esercito, dedicata a prontezza operativa e sviluppo delle capacità. Secondo @ANI, l'ispettore generale della polizia della zona di Jammu, Tejinder Singh, sostiene che negli ultimi due anni il reclutamento di terroristi è stato di fatto azzerato e che ora l'obiettivo è colpire l'«ecosistema del terrore».
+Il servizio stampa delle forze armate pakistane, rilanciato da @PakistanFauj (voce di parte), accusa «terroristi sponsorizzati dall'India» di aver tentato attacchi il 22 ottobre nel distretto di Gwadar, in Belucistan; Nuova Delhi non ha commentato nei post raccolti.
 ## [A] Ufficiali
-- @SpokespersonMoD — (22 Oct) "Raksha Mantri Shri @rajnathsingh will address the Army Commanders’ Conference on 23 October 2026 in New Delhi. … to review ongoing initiatives, operational preparedness, capability development and future-ready transformation." [https://x.com/SpokespersonMoD/status/2113216502296117326]
-- @ForeignOfficePk — (22 Oct) "He stressed the importance of dialogue, diplomacy and peaceful settlement of disputes…" [https://x.com/ForeignOfficePk/status/2113326348223816011]
+- @ForeignOfficePk — (23 Oct) "Weekly Press Briefing by the Spokesperson @kachosajjadFSP Marco Rubio’s remarks about Pakistan's nuclear capacity in his interview with an Indian Network + Role of US in restoration of IWT + Revival of SAARC" [https://x.com/ForeignOfficePk/status/2113692161086779838]
+  META: novita=nuovo; inizio=2026-10-21; paesi=Pakistan,India,USA
 ## [B] Analisti & stampa
-- @ANI — (21 Oct) l'ispettore generale della polizia di Jammu Tejinder Singh: "in the last 1.5-2 years, we have effectively brought terrorist recruitment down to zero. … our focus will be on targeting the 'terror ecosystem' and neutralizing the remaining terrorists…" [https://x.com/ANI/status/2112803723500241311]
+- @ndtv — (21 Oct) ""Our relationship with Pakistan will never come at the expense of our relationship with India": Marco Rubio's big claim while talking to The Indian Express." [https://x.com/ndtv/status/2112778637238001833]
+  META: novita=nuovo; inizio=2026-10-21; paesi=USA,India,Pakistan
+- @FinancialXpress — (23 Oct) "India-US ties beyond trade: What Rubio and Gor said on visas, defence and Pakistan" [https://x.com/FinancialXpress/status/2113622517524967581]
+  META: novita=aggiornamento; inizio=2026-10-21; paesi=India,USA,Pakistan
 ## [C] Controversi / propaganda
-- @RadioPakistan — (22 Oct) "Deputy Prime Minister and Foreign Minister @MIshaqDar50 has said that the Jammu and Kashmir dispute remains an unfinished agenda of the United Nations." ⚠ NON VERIFICATO / voce di parte [https://x.com/RadioPakistan/status/2113325883121623516]
+- @PakistanFauj — (23 Oct) "ISPR Press Release On 22 October 2026, Indian-sponsored terrorists of Fitna al Hindustan attempted to carry out terrorist activities in District Gwadar, Balochistan, Pakistan, in areas of the Gabd Border Crossing and Gwadar city." ⚠ NON VERIFICATO / voce di parte [https://x.com/PakistanFauj/status/2113589262775988318]
+  META: novita=nuovo; inizio=2026-10-22; paesi=Pakistan,India
 ## Sentiment
-Clima stabile: Islamabad rilancia il Kashmir in sede ONU, Nuova Delhi rivendica risultati nell'antiterrorismo nel Jammu e fa il punto sulla prontezza dell'esercito. Mood: Stallo.
+Nessun fatto militare nuovo tra i due Paesi: solo schermaglie verbali e le consuete accuse pakistane di ingerenza indiana in Belucistan. Mood: Stabile.
 
-Lettura della giornata: Il Kashmir resta il terreno della contesa diplomatica: Islamabad parla di dialogo e di agenda ONU, Nuova Delhi di antiterrorismo e prontezza militare; sul piano militare il quadro è fermo.
+Lettura della giornata: Il ruolo di mediazione che Washington rivendica sul Trattato dell'Indo è il filo da seguire, più delle accuse incrociate sul terrorismo.
 
 # USA-Europa
 ## Riassunto
-Washington spinge sulla pace in Ucraina, l'Europa resta appesa alle sue decisioni. L'ambasciatore americano alla NATO (@USAmbNATO) vede «una reale possibilità di pace» e ribadisce che Trump punta a un accordo che fermi le uccisioni; la NATO (@NATO) mostra coesione con l'attività Neptune Strike, che integra truppe e capacità di 17 Paesi alleati. @yarotrof segnala che Trump ha chiesto a Musk di ripristinare la velocità di Starshield in Ucraina, sottolinea quanto valga per la Russia la pressione americana su Kyiv perché smetta di colpire le raffinerie e registra nuove critiche di senatori repubblicani a un'intesa con Putin.
-
-Secondo resoconti da verificare rilanciati da @MarioNawfal, Zelensky avrebbe spiegato che i missili promessi dagli europei non possono essere trasferiti senza il via libera americano, l'ambasciata degli Stati Uniti a Parigi avrebbe invitato i cittadini americani a evitare le proteste in Francia, e un economista intervistato temerebbe che una nuova escalation con l'Iran inneschi una crisi finanziaria in Europa.
-## [A] Ufficiali
-- @USAmbNATO — (22 Oct) "Going into the fifth year of war, there's a real chance for peace in Ukraine." [https://x.com/USAmbNATO/status/2113179649886883842]
-- @NATO — (22 Oct) "17 Allied nations are combining troops and capabilities to operate as a cohesive, integrated force across multiple domains, as the latest iteration of the Neptune Strike enhanced vigilance activity takes place" [https://x.com/NATO/status/2113281788621758508]
+Il commercio resta il terreno di scontro. Secondo @POLITICOEurope, gli Stati Uniti hanno rinnovato l'avvertimento: niente riduzione dei dazi sull'acciaio europeo e su altri prodotti se Bruxelles non ammorbidisce l'applicazione del Digital Markets Act, il regolamento europeo sulle grandi piattaforme digitali. Nei post raccolti non compare una risposta ufficiale della Commissione.
 ## [B] Analisti & stampa
-- @yarotrof — (22 Oct) "Trump called Musk and asked him to restore Starshield speed in Ukraine." [https://x.com/yarotrof/status/2113343404117753945]
-- @yarotrof — (22 Oct) "To understand just how valuable is to Russia Trump’s pressure on Ukraine to stop hitting refineries" [https://x.com/yarotrof/status/2113254584475115718]
-- @yarotrof — (21 Oct) "More pushback from GOP senators. A U.S. alliance with Putin remains deeply unpopular." [https://x.com/yarotrof/status/2112984853222433071]
-## [O] Opinion / wire
-- @MarioNawfal — (22 Oct) "Europe has missile agreements with Ukraine, but Washington still holds the FINAL SAY on whether those weapons can be delivered." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113352187627569544]
-- @MarioNawfal — (23 Oct) "U.S. Embassy WARNS Americans to avoid protests in France after recent riots and looting" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113403899637801271]
-- @MarioNawfal — (22 Oct) "The next Iran escalation could trigger a financial crisis in Europe." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113355150018650394]
+- @POLITICOEurope — (23 Oct) "The United States has renewed a warning that it will not lower tariffs on EU steel products and a range of other goods unless Brussels softens its enforcement of the Digital Markets Act, the bloc’s rulebook for Big Tech." [https://x.com/POLITICOEurope/status/2113585200722575597]
+  META: novita=aggiornamento; inizio=2026-10-23; paesi=USA,UE
 ## Sentiment
-Allineamento formale nella NATO, con Neptune Strike e l'ambasciatore americano che vede «una reale possibilità di pace», ma la pressione di Washington su Kyiv contro i raid sulle raffinerie russe e le critiche dei senatori repubblicani a un'intesa con Putin restano punti di attrito. Mood: Tensione.
+Washington torna a legare i dazi sull'acciaio alle regole europee sul digitale; nessun fatto nuovo di rottura. Mood: Stabile.
 
-Lettura della giornata: La coesione militare regge; il nodo transatlantico è quanto l'Europa riesca a pesare su un negoziato condotto da Washington.
+Lettura della giornata: Il nodo acciaio-Big Tech è la moneta di scambio da seguire: una risposta di Bruxelles sul Digital Markets Act dirà se il negoziato si sblocca o si irrigidisce.
 
 # Europa-Russia
 ## Riassunto
-Mosca alza il tono ideologico, l'Europa denuncia la pressione russa. Il ministro degli Esteri Lavrov (@mfa_russia) dice ai nuovi diplomatici che l'Occidente non sarà mai più l'attore dominante e accusa il nazismo, usato come strumento politico, di aver portato al potere a Kyiv un «regime neonazista»; l'Alta rappresentante dell'UE Kaja Kallas (@kajakallas) avverte che gli attacchi russi sempre più intensi contro il traffico nel Mar Nero minacciano la sicurezza alimentare regionale e globale.
+Il Mar Nero porta la tensione alle porte della NATO. Il presidente romeno Nicușor Dan, secondo @rasimasker in turco, attribuisce alla Russia l'attacco con drone che ha affondato il mercantile Khoryv: almeno un marittimo morto e tre dispersi, mentre la NATO prevede di inviare nella zona aerei e droni aggiuntivi. L'Alta rappresentante Ue @kajakallas definisce gli attacchi russi contro le navi civili nel Mar Nero ingiustificabili e «un'altra escalation».
 
-Sul negoziato, @JuliaDavisNews mostra un deputato della Duma che spiega perché Mosca è soddisfatta dell'esito dei colloqui ed esperti della tv di Stato secondo cui l'America è stata sconfitta dalla Russia; @Tatarigami_UA legge il dibattito su «chi ha vinto la guerra» come uno stallo strategico in cui nessuno dei due Paesi ha raggiunto i propri obiettivi. Edward Lucas (@edwardlucas), sull'inchiesta ICIJ secondo cui la società russa A7 ha trattato almeno 14 miliardi di dollari in contanti in rubli, ricorda che ogni rublo riciclato alimenta la macchina da guerra. La TASS (voce di parte), in russo, riporta il capo di Rosatom Likhachev: senza segnali concreti dal governo ungherese, la centrale nucleare Paks-2 rischia di fermarsi.
-
-Secondo resoconti da verificare rilanciati da @MarioNawfal, von der Leyen accuserebbe la Russia di usare le migrazioni come arma contro l'Europa, il cancelliere Merz si direbbe più preoccupato dall'impatto russo sulla società tedesca che dall'economia, e un ex commodoro della Royal Navy stimerebbe al 50% il rischio di una guerra tra NATO e Russia.
+Sul piano più ampio, l'ISW (@TheStudyofWar) parla di una serie crescente di campagne cinetiche del Cremlino contro l'Europa e avverte che chiamarle «attacchi ibridi» rischia di indebolire la risposta. Secondo il Wall Street Journal, citato da @Faytuks, dopo il fallito attacco di Lipsia un funzionario del Cremlino ha fatto sapere alla Germania che «non sarà l'ultimo». L'Estonia, su @MirrorNow, avverte che la Russia sta già mettendo alla prova la sicurezza europea con guerra ibrida, droni e attacchi informatici, e von der Leyen, citata da @euronews, ribadisce che le sanzioni sull'energia russa resteranno finché Mosca non metterà fine alla guerra.
 ## [A] Ufficiali
-- @mfa_russia — (22 Oct) Lavrov ai neolaureati che entrano nel ministero: "The West will never again be the dominant player calling the tune." [https://x.com/mfa_russia/status/2113195753204240750]
-- @mfa_russia — (22 Oct) Lavrov: "The metastases are spreading rapidly – with Nazism used as a political tool to bring a neo-Nazi regime to power in Kiev." [https://x.com/mfa_russia/status/2113208755496112610]
-- @kajakallas — (22 Oct) "Russia’s intensifying attacks on Black Sea shipping are a threat to regional and global food security." [https://x.com/kajakallas/status/2113213533135503665]
+- @kajakallas — (23 Oct) "Russian attacks on civilian ships in the Black Sea are unjustifiable and pile heavy pressure on global food supplies. The latest deadly drone strike on a cargo ship near Romanian waters is another escalation." [https://x.com/kajakallas/status/2113685521658437938]
+  META: novita=nuovo; inizio=2026-10-22; paesi=UE,Russia,Romania
 ## [B] Analisti & stampa
-- @JuliaDavisNews — (23 Oct) "State Duma member Alexey Zhuravlyov explained why Moscow is so pleased with the outcome of negotiations." [https://x.com/JuliaDavisNews/status/2113483106749702454]
-- @JuliaDavisNews — (22 Oct) "state TV experts asserted that America was defeated by the Russian Federation and will likewise lose to Iran." [https://x.com/JuliaDavisNews/status/2113315607475351926]
-- @Tatarigami_UA — (22 Oct) "Which brings us to “both countries lost”, or, in more academic terms, something closer to a strategic stalemate." [https://x.com/Tatarigami_UA/status/2113141503262601395]
+- @TheStudyofWar — (23 Oct) "VIDEO: The Kremlin is conducting an escalating series of kinetic campaigns against Europe. … why naming it "hybrid attacks" and "provocations" might undermine an effective response." [https://x.com/TheStudyofWar/status/2113716336459444352]
+  META: novita=aggiornamento; inizio=2026-10-23; paesi=Russia,UE
+- @euronews — (21 Oct) "EU sanctions on Russian energy will remain in place until Moscow ends its war on Ukraine, Ursula von der Leyen said on Wednesday. It comes as the US reportedly floated a plan to restart Russian gas deliveries through the Nord Stream pipeline." [https://x.com/euronews/status/2112830387114447287]
+  META: novita=ripetizione; inizio=2026-10-21; paesi=UE,Russia
+- @MirrorNow — (23 Oct) "Estonia warns that Russia is already challenging European security through hybrid warfare, drone incidents and cyberattacks." [https://x.com/MirrorNow/status/2113579697263263763]
+  META: novita=ripetizione; inizio=2026-10-23; paesi=Estonia,Russia
 ## [O] Opinion / wire
-- @edwardlucas — (22 Oct) sull'inchiesta ICIJ sui contanti in rubli trattati dalla società russa A7: "Remember every rouble laundered this way is killing people in Ukraine, and stoking the war machine for more misery later" [https://x.com/edwardlucas/status/2113253034226864461]
-- @MarioNawfal — (22 Oct) "Ursula von der Leyen says RUSSIA IS USING MASS MIGRATION as a weapon against EUROPE" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113373777597997295]
-- @MarioNawfal — (23 Oct) "The Chancellor says Russia’s impact on German society worries him more than the economy…" ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113476758037209472]
-- @MarioNawfal — (22 Oct) "Retired Royal Navy Commondore Steve Jermy puts the risk of a NATO-Russia war at roughly 50/50." ⚠ NON VERIFICATO [https://x.com/MarioNawfal/status/2113351180403531915]
-## [C] Controversi / propaganda
-- @tass_agency — (23 Oct) il capo di Rosatom Likhachev a Izvestia: "Строительство АЭС "Пакш-2" может развиваться с еще большей энергией, но из-за отсутствия конкретных сигналов от венгерского правительства существует ненулевая вероятность остановки проекта."
-  IT: «La costruzione della centrale nucleare Paks-2 potrebbe procedere con ancora più slancio, ma per l'assenza di segnali concreti da parte del governo ungherese esiste una probabilità non nulla che il progetto si fermi.» ⚠ NON VERIFICATO / voce di parte [https://x.com/tass_agency/status/2113398729252450357]
+- @rasimasker — (24 Oct) "Romanya Cumhurbaşkanı Nicuşor Dan, Karadeniz’de Khoryv adlı yük gemisini batıran İHA saldırısından Rusya’yı sorumlu tuttu. En az bir denizci öldü, üç kişi kayıp. NATO bölgeye ek uçak ve İHA göndermeyi planlıyor."
+  IT: «Il presidente romeno Nicușor Dan ha ritenuto la Russia responsabile dell'attacco con drone che ha affondato nel Mar Nero il mercantile Khoryv. Almeno un marittimo è morto, tre sono dispersi. La NATO prevede di inviare nella regione aerei e droni aggiuntivi.» [https://x.com/rasimasker/status/2113785907031486722]
+  META: novita=nuovo; inizio=2026-10-22; paesi=Romania,Russia,NATO
+- @Faytuks — (21 Oct) "A Kremlin official told Germany through a backchannel after the failed Leipzig attack that this "wouldn’t be the last attack." -WSJ" ⚠ NON VERIFICATO [https://x.com/Faytuks/status/2112872567392624994]
+  META: novita=nuovo; inizio=2026-10-21; paesi=Russia,Germania
 ## Sentiment
-Pressione russa su più fronti, dal Mar Nero alla retorica ideologica, e soddisfazione ostentata a Mosca per il dialogo con Washington, mentre l'UE cerca di proteggere le rotte del grano. Mood: Escalation.
+Il mercantile affondato al largo della Romania, con l'attribuzione esplicita a Mosca da parte del presidente romeno e i rinforzi NATO in arrivo, alza il livello dello scontro sul fianco orientale. Mood: Escalation.
 
-Lettura della giornata: Mosca ostenta soddisfazione per il dialogo con Washington; il Mar Nero è il fronte dove la pressione russa sull'Europa è più concreta.
+Lettura della giornata: La risposta della NATO nel Mar Nero è il punto da seguire: rinforzi aerei e droni sono un segnale di deterrenza, ma ogni nuovo attacco vicino alle acque romene avvicina il confine tra guerra ibrida e confronto diretto.
 
 # Coree
 ## Riassunto
-Pyongyang alza i toni lungo il confine. Secondo NK News (@nknewsorg), Kim Yo Jong ha intimato a un consigliere presidenziale sudcoreano di «smettere di blaterare e chiudere la bocca» dopo le sue critiche al piano nordcoreano di riattivare gli altoparlanti al confine, che saranno operativi «entro pochi giorni»; il comandante dei marines sudcoreani segnala «vari cambiamenti» nelle forze nordcoreane schierate di fronte alle isole di confine, con Seul che rafforza la sorveglianza lungo il confine marittimo. Trump, sempre secondo NK News, ha espresso dubbi su un incontro con Kim in Cina il mese prossimo.
-
-Per il CSIS Korea Chair (@CSISKoreaChair), Pyongyang non ha rallentato la serie di test missilistici nonostante gli appelli di Trump al vertice, e l'analista Ankit Panda stima sotto il 10% le probabilità di un incontro all'APEC, pur ritenendo possibile un vertice prima della fine del mandato di Trump. A Seul il viceministro della Difesa (@ROK_MND), in coreano, presenta l'intelligenza artificiale come tecnologia chiave della guerra futura; il Comando ONU (@UN_Command) discute con il RUSI del proprio ruolo nel garantire l'armistizio.
-## [A] Ufficiali
-- @ROK_MND — (22 Oct) "이두희 국방부차관은 “AI는 미래전의 양상을 변화시키는 핵심기술이자 우리 군의 전투력과 국방운영 전반을 혁신하는 원동력”이라며…"
-  IT: «Il viceministro della Difesa Lee Doo-hee: “L'IA è una tecnologia chiave che cambia il volto della guerra futura e il motore che innova la capacità di combattimento e l'intera gestione della difesa delle nostre forze armate”…» [https://x.com/ROK_MND/status/2113169368314192119]
-- @UN_Command — (22 Oct) "LTGEN Winter joins @RUSI_org’s Global Security Briefing to discuss UNC’s role in upholding the Armistice, evolving security challenges, and common misconceptions about the Command." [https://x.com/UN_Command/status/2113055610602442796]
+Pyongyang rilancia il riarmo convenzionale. Secondo la KCNA, citata da @NDTVWorld, Kim Jong Un ha chiesto una «rivoluzione militare» e un esercito «il più forte» a una conferenza di comandanti di compagnia a Pyongyang. Seul, secondo @chadocl, propone di nuovo colloqui con il Nord sulle linee di confine mentre le tensioni crescono. Il programma Corea del CSIS (@CSISKoreaChair) si interroga sulle recenti fortificazioni nordcoreane al confine e sul rischio che un errore di calcolo degeneri in un conflitto più ampio.
 ## [B] Analisti & stampa
-- @nknewsorg — (22 Oct) "Kim Yo Jong demanded a South Korean presidential adviser “stop rambling and shut his mouth” after he criticized Pyongyang’s plan to restart border loudspeakers. … She declared they will be operational “within days."" [https://x.com/nknewsorg/status/2113142110366941253]
-- @nknewsorg — (20 Oct) "North Korea has made "various changes" to military forces facing South Korea's border islands, the ROK marines commander said Tuesday, with Seoul stepping up surveillance along the sea border." [https://x.com/nknewsorg/status/2112454703149899952]
-- @nknewsorg — (20 Oct) "U.S. President Donald Trump appeared to cast doubt on prospects for a meeting with North Korean leader Kim Jong Un in China next month…" [https://x.com/nknewsorg/status/2112456078856163635]
+- @NDTVWorld — (24 Oct) "Kim Jong Un Calls For "Military Revolution" As He Urges Stronger Army Units" [https://x.com/NDTVWorld/status/2113795587707670729]
+  META: novita=nuovo; inizio=2026-10-23; paesi=Corea del Nord
+- @CSISKoreaChair — (23 Oct) "What do North Korea’s recent border fortifications mean for the security landscape on the Korean Peninsula? Is dialogue still possible despite rising tensions, or could a miscalculation spiral into a broader conflict?" [https://x.com/CSISKoreaChair/status/2113718853180277117]
+  META: novita=aggiornamento; inizio=2026-10-23; paesi=Corea del Nord,Corea del Sud
 ## [O] Opinion / wire
-- @CSISKoreaChair — (22 Oct) "North Korea has not slowed its missile-testing spree amid President Trump’s calls for summitry with his “friend” Kim Jong-un…" [https://x.com/CSISKoreaChair/status/2113358323076731084]
-- @CSISKoreaChair — (22 Oct) Ankit Panda (Carnegie): "He puts the odds of an APEC meeting below 10%, but says a summit remains possible before Trump’s term ends." [https://x.com/CSISKoreaChair/status/2113294569940918514]
+- @chadocl — (23 Oct) "Seoul again proposes talks with North Korea on border lines amid rising tensions" [https://x.com/chadocl/status/2113543560658329646]
+  META: novita=aggiornamento; inizio=2026-10-23; paesi=Corea del Sud,Corea del Nord
 ## Sentiment
-Retorica nordcoreana in salita, con gli altoparlanti pronti a ripartire e nuovi movimenti di fronte alle isole di confine, mentre le prospettive di un vertice Trump-Kim si allontanano. Mood: Escalation.
+Retorica militare in salita a Pyongyang e fortificazioni al confine, mentre Seul insiste nel proporre colloqui. Mood: Stabile.
 
-Lettura della giornata: Senza un canale di dialogo credibile, gli altoparlanti e le isole di confine restano i punti in cui un incidente può far salire la tensione.
+Lettura della giornata: La proposta di Seul sui confini è l'unico canale aperto; un rifiuto esplicito del Nord, insieme alle nuove fortificazioni, renderebbe la linea di confine il punto più fragile.
